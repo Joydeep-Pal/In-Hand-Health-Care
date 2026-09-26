@@ -1,0 +1,4955 @@
+[
+  {
+    "title": "Dr Partha Pratim Kundu",
+    "subTitle": "ডিআর পার্থ প্রতিম কুণ্ডু",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Psychiatrist",
+    "address": "Post Office, Ankoor Medicine Counter, beside Searsole Main Road, Raniganj, West Bengal 713358, India",
+    "neighborhood": null,
+    "street": "Post Office, Ankoor Medicine Counter, beside Searsole Main Road",
+    "city": "Raniganj",
+    "postalCode": "713358",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 94747 75179",
+    "phoneUnformatted": "+919474775179",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6296542,
+      "lng": 87.1147468
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ3fjWO8kR9zkRvkCOs_bhsnI",
+    "categories": [
+      "Psychiatrist"
+    ],
+    "fid": "0x39f711c93bd6f8dd:0x72b2e1f6b38e40be",
+    "cid": "8264916715868930238",
+    "reviewsCount": 39,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 39
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:08:48.686Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 4 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 4 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 4 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 4 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 4 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 4 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Appointments recommended": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Partha%20Pratim%20Kundu&query_place_id=ChIJ3fjWO8kR9zkRvkCOs_bhsnI",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmObmvSSGIXunRyl9pXtb6jsakqJoFw9XLwo6KshRN2fJC_G8q6LnFgGTpFV6v4a3isXKDPGgPfD-9R7OfH2d8yj2E_nqRdN6nUMLfwfA4pg-AOOvytOlsf0AhpJF-QdLFFVSccdfg=w426-h240-k-no",
+    "kgmid": "/g/11lrhbl9s5",
+    "businessProfileId": "1780008196169583036"
+  },
+  {
+    "title": "Dr Partha Pratim Kundu, Neuro-Psychiatrist",
+    "subTitle": "ডিআর পার্থ প্রতিম কুণ্ডু, নেয়ার-সাইকিয়াট্রিস্ট",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Psychiatrist",
+    "address": "Mondal Drug house, Bus Stand, Haripur, West Bengal 713378, India",
+    "neighborhood": null,
+    "street": "Mondal Drug house, Bus Stand",
+    "city": "Haripur",
+    "postalCode": "713378",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://dr-partha-pratim-kundu-dr-p-p-kundu-senior.business.site/",
+    "phone": "+91 90024 70870",
+    "phoneUnformatted": "+919002470870",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6778369,
+      "lng": 87.1939046
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJP2njqGwV9zkRrptsYEsL6uY",
+    "categories": [
+      "Psychiatrist"
+    ],
+    "fid": "0x39f7156ca8e3693f:0xe6ea0b4b606c9bae",
+    "cid": "16639124191641901998",
+    "reviewsCount": 2,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 2
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:08:48.686Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 12 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Partha%20Pratim%20Kundu%2C%20Neuro-Psychiatrist&query_place_id=ChIJP2njqGwV9zkRrptsYEsL6uY",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oLkRJyuQYJB5nxl1pB8R7A&cb_client=search.gws-prod.grass&w=408&h=240&yaw=352.4846&pitch=0&thumbfov=100",
+    "kgmid": "/g/11xvbjtfm4",
+    "businessProfileId": "5497431541227897894"
+  },
+  {
+    "title": "Dr. Partha Pratim Kundu,Senior Neuro-Psychiatrist",
+    "subTitle": "ডিআর. পার্থ প্রতিম কুণ্ডু,সিনিয়র নেয়ার-সাইকিয়াট্রিস্ট",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Psychiatrist",
+    "address": "Cooperative Bank, Mind Care Neuro-Psychiatry Clinic, CR Rd, opposite Raniganj, beside Kundu Medical Store, Raniganj, West Bengal 713347, India",
+    "neighborhood": null,
+    "street": "Cooperative Bank, Mind Care Neuro-Psychiatry Clinic, CR Rd, opposite Raniganj, beside Kundu Medical Store",
+    "city": "Raniganj",
+    "postalCode": "713347",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 90024 70870",
+    "phoneUnformatted": "+919002470870",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6099824,
+      "lng": 87.1167819
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJXe27h5kR9zkRzKzyZK5pvHg",
+    "categories": [
+      "Psychiatrist"
+    ],
+    "fid": "0x39f7119987bbed5d:0x78bc69ae64f2accc",
+    "cid": "8699944777911807180",
+    "reviewsCount": 10,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 10
+    },
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:08:48.686Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Appointments recommended": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Partha%20Pratim%20Kundu%2CSenior%20Neuro-Psychiatrist&query_place_id=ChIJXe27h5kR9zkRzKzyZK5pvHg",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9pLpnh2Gf0il-QUwWfX4rA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=173.20567&pitch=0&thumbfov=100",
+    "kgmid": "/g/11r8mpz6_y",
+    "businessProfileId": "9876802432101337181"
+  },
+  {
+    "title": "Dr Psychiatrist",
+    "subTitle": "ডিআর সাইকিয়াট্রিস্ট",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Psychiatrist",
+    "address": "NSB Rd, opposite MARWARI SANATAN VIDYALAYA, Raniganj, West Bengal 713347, India",
+    "neighborhood": null,
+    "street": "NSB Rd, opposite MARWARI SANATAN VIDYALAYA",
+    "city": "Raniganj",
+    "postalCode": "713347",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 99335 94732",
+    "phoneUnformatted": "+919933594732",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6097816,
+      "lng": 87.1144626
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJp-UOFVoR9zkRk-1CWOy5nvw",
+    "categories": [
+      "Psychiatrist"
+    ],
+    "fid": "0x39f7115a150ee5a7:0xfc9eb9ec5842ed93",
+    "cid": "18203191168622325139",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:08:48.686Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 8 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Service options": [
+        {
+          "Onsite services": false
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        }
+      ],
+      "Payments": [
+        {
+          "Google Pay": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Psychiatrist&query_place_id=ChIJp-UOFVoR9zkRk-1CWOy5nvw",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=e9Tk2wh2sfcX6itCTOKAyg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=63.034214&pitch=0&thumbfov=100",
+    "kgmid": "/g/11w380cp4v",
+    "businessProfileId": "13950968471227708460"
+  },
+  {
+    "title": "Dr D Saha, MBBS,DPM,MD || Best Neuropsychiatrist & Sexologist",
+    "subTitle": "ডিআর ডি সহ, এমবিবিএস,ডিপিএম,এমডি || বেস্ট নিউরোপ্যাইকিয়াট্রিস্ট & সেক্সলজিস্ট",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Psychiatrist",
+    "address": "Raniganj pharmacy, 21, NSB Rd, opposite marwari sanatan vidyalaya, Raniganj, West Bengal 713347, India",
+    "neighborhood": null,
+    "street": "Raniganj pharmacy, 21, NSB Rd, opposite marwari sanatan vidyalaya",
+    "city": "Raniganj",
+    "postalCode": "713347",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 94321 29935",
+    "phoneUnformatted": "+919432129935",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6081519,
+      "lng": 87.1151308
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJg6ZtONcR9zkRS_-sjLvWrl8",
+    "categories": [
+      "Psychiatrist",
+      "Psychologist",
+      "Sexologist"
+    ],
+    "fid": "0x39f711d7386da683:0x5faed6bb8cacff4b",
+    "cid": "6894684180558184267",
+    "reviewsCount": 2,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 2
+    },
+    "imagesCount": 0,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:08:48.686Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 1 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 1 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 1 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 1 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 1 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 1 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Appointments recommended": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20D%20Saha%2C%20MBBS%2CDPM%2CMD%20%7C%7C%20Best%20Neuropsychiatrist%20%26%20Sexologist&query_place_id=ChIJg6ZtONcR9zkRS_-sjLvWrl8",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmNv8V9vh3v1xJ8AS-VXyyOOxn2228ZM2B71NUW4ICm13BAzqcdGFLAH3t5i2oL0AMbMez054E7538d9qh-4cEsfPlAbXO1MAyKJqLHr0BQ5VH4dLu3dp_zbEIpzh4k0vmUIMR7Ffh3fU5A=w408-h725-k-no",
+    "kgmid": "/g/11nnz78n52",
+    "businessProfileId": "12586352684653377424"
+  },
+  {
+    "title": "REBORN FOUNDATION",
+    "subTitle": "রিবন ফাউন্ডেশন",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Rehabilitation center",
+    "address": "Bansra More, Searsole, Rajbari, Raniganj, West Bengal 713358, India",
+    "neighborhood": "Searsole, Rajbari",
+    "street": "Bansra More",
+    "city": "Raniganj",
+    "postalCode": "713358",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "http://www.rebornfoundation.co.in/",
+    "phone": "+91 75869 05944",
+    "phoneUnformatted": "+917586905944",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6314963,
+      "lng": 87.1265548
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJobXi1SsR9zkRK37c3YVYke0",
+    "categories": [
+      "Rehabilitation center",
+      "Addiction treatment center"
+    ],
+    "fid": "0x39f7112bd5e2b5a1:0xed915885dddc7e2b",
+    "cid": "17118560990588075563",
+    "reviewsCount": 22,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 21
+    },
+    "imagesCount": 30,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:08:48.686Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=REBORN%20FOUNDATION&query_place_id=ChIJobXi1SsR9zkRK37c3YVYke0",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmOOq3gabmPzeTaJxgcAeOQjI7zWALDdLhEtKZz_FnV5UMezU1_Gc-EecsxAz78tiWRc_DVgUdDxeuva0e7Tj7TE3ab0qRcdTwYTjGfaivaIwmM1DRunlhCpzq_Ww5mvFG4sa8MW=w533-h240-k-no",
+    "kgmid": "/g/11sgdm4ds4",
+    "businessProfileId": "7362505422720739134"
+  },
+  {
+    "title": "Dr.Anirban Mukherjee",
+    "subTitle": "ডিআর.অনির্বাণ মুখার্জি",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "B 3/A, Dr B Banerjee Rd, Raniganj, West Bengal 713347, India",
+    "neighborhood": null,
+    "street": "B 3/A, Dr B Banerjee Rd",
+    "city": "Raniganj",
+    "postalCode": "713347",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6069738,
+      "lng": 87.1145633
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ74MKR-4R9zkRZepMhjnmcJw",
+    "categories": [
+      "Doctor"
+    ],
+    "fid": "0x39f711ee470a83ef:0x9c70e639864cea65",
+    "cid": "11272763002049063525",
+    "reviewsCount": 31,
+    "reviewsDistribution": {
+      "oneStar": 6,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 3,
+      "fiveStar": 22
+    },
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:08:48.687Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.Anirban%20Mukherjee&query_place_id=ChIJ74MKR-4R9zkRZepMhjnmcJw",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmOfRJWPg6SlqwYaX_7EXS2SYAB59COyr3DLg42rYR09kcbunXyOKaCrp3or_VPdHott6kXx4CbAr26YHODnepi6wYyvikA-oguIMiktLbKQcJi0fClHWuv25m-Uz-wkLtzKeT3f=w408-h306-k-no",
+    "kgmid": "/g/11f6312rxx",
+    "businessProfileId": null
+  },
+  {
+    "title": "Asansol Regain Foundation",
+    "subTitle": "আসানসোল রিগান ফাউন্ডেশন",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Mental health clinic",
+    "address": "Glass Factory, Chatapathar Gate, Ushagram, Asansol, Kalipahari, West Bengal 713339, India",
+    "neighborhood": "Chatapathar Gate, Ushagram",
+    "street": "Glass Factory",
+    "city": "Asansol, Kalipahari",
+    "postalCode": "713339",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "http://regainfoundation.in/",
+    "phone": "+91 85099 32132",
+    "phoneUnformatted": "+918509932132",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6750884,
+      "lng": 87.0075194
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJqZd3zBMf9zkRu-NL5RqkPAk",
+    "categories": [
+      "Mental health clinic",
+      "Alcoholism treatment program",
+      "Addiction treatment center",
+      "Mental health service",
+      "Rehabilitation center"
+    ],
+    "fid": "0x39f71f13cc7797a9:0x93ca41ae54be3bb",
+    "cid": "665587280367051707",
+    "reviewsCount": 465,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 1,
+      "threeStar": 2,
+      "fourStar": 4,
+      "fiveStar": 455
+    },
+    "imagesCount": 241,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:08:48.687Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free street parking": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Asansol%20Regain%20Foundation&query_place_id=ChIJqZd3zBMf9zkRu-NL5RqkPAk",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmOAbKaITcLJhEvmlMfhMyy0drLP4pQrcXS90LzLNnt8CNIw5tlz6YRY-VaqpJBS_p073hv6-Saz-HoN9E4Ibh3L9cTtUBRxk09tLGAoEl9sojBWH87jcEu5WAN2ULKe6nqfvjTI1g=w423-h240-k-no",
+    "kgmid": "/g/11hbqb2wqz",
+    "businessProfileId": "5619110831345435893"
+  },
+  {
+    "title": "Dr D Saha,Consultant Neuro Psychiatrist",
+    "subTitle": "ডিআর ডি সহ,কনসালটেন্ট নেয়ার সাইকিয়াট্রিস্ট",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "Kumarpur, Asansol, West Bengal 713304, India",
+    "neighborhood": "Kumarpur",
+    "street": null,
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 86700 98240",
+    "phoneUnformatted": "+918670098240",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6951749,
+      "lng": 86.9420889
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJqT1RNKgf9zkREuPkseBd_WU",
+    "categories": [
+      "Doctor"
+    ],
+    "fid": "0x39f71fa834513da9:0x65fd5de0b1e4e312",
+    "cid": "7349133386577142546",
+    "reviewsCount": 318,
+    "reviewsDistribution": {
+      "oneStar": 6,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 3,
+      "fiveStar": 309
+    },
+    "imagesCount": 68,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:08:53.948Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7 AM to 3 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7 AM to 1 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7 AM to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7 AM to 6 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20D%20Saha%2CConsultant%20Neuro%20Psychiatrist&query_place_id=ChIJqT1RNKgf9zkREuPkseBd_WU",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.436761272869628,86.975395,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmM_Vy2Vyr0x2gqVDmVb2wMEQiPGTAmQexmDB-eItdBMx30oSr-XmdPX4x-UD0x5MDGcjwwehmiADXK_P0MKT6gRGy3Loine89bYUVgyB3MHCTe3scsAuDHSZq5CMklk0gNQw-nr=w426-h240-k-no",
+    "kgmid": "/g/11c5g9jh0f",
+    "businessProfileId": "7253120486030122795"
+  },
+  {
+    "title": "Dr. D(Debanjan) Saha, Treated 11K+ Patients | Best Psychiatrist | Child & Adult Psychiatrist Doctor | Sexual Disorder",
+    "subTitle": "ডিআর. ডি(দেবাঞ্জন) সহ, ট্রিটেড 11কে+ পাতিয়েন্টস | বেস্ট সাইকিয়াট্রিস্ট | চাইল্ড & এডাল্ট সাইকিয়াট্রিস্ট ডক্টর | সেক্সুয়াল ডিসঅর্ডার",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Psychiatrist",
+    "address": "One stop Psychiatry clinic, Sentrum mall, Shristinagar, Asansol, West Bengal 713305, India",
+    "neighborhood": "Shristinagar",
+    "street": "One stop Psychiatry clinic, Sentrum mall",
+    "city": "Asansol",
+    "postalCode": "713305",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://www.apollo247.com/doctors/dr-Debanjan-Saha-1644f0ec-001d-4e1a-832e-6dab619c1901",
+    "phone": "+91 94321 29935",
+    "phoneUnformatted": "+919432129935",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.7039,
+      "lng": 86.9479
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJn4Ci3hIf9zkRcOO-FPDqvB4",
+    "categories": [
+      "Psychiatrist",
+      "Doctor",
+      "Mental health service",
+      "Psychologist",
+      "Psychotherapist"
+    ],
+    "fid": "0x39f71f12dea2809f:0x1ebceaf014bee370",
+    "cid": "2214903433620546416",
+    "reviewsCount": 77,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 76
+    },
+    "imagesCount": 55,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:08:53.948Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 1:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 7:30 PM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Online service hours": [
+        {
+          "day": "Monday",
+          "hours": "10 AM–6 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10 AM–9:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10 AM–9:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10 AM–9:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10 AM–9:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10 AM–9:30 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9 AM–9:30 PM"
+        }
+      ]
+    },
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Google Pay": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20D(Debanjan)%20Saha%2C%20Treated%2011K%2B%20Patients%20%7C%20Best%20Psychiatrist%20%7C%20Child%20%26%20Adult%20Psychiatrist%20Doctor%20%7C%20Sexual%20Disorder&query_place_id=ChIJn4Ci3hIf9zkRcOO-FPDqvB4",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.436761272869628,86.975395,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmPxa_P5a_R99__tsoneiyvEQACnocmjDcljGa-yua1oAPklB4rAIIkFyFZ5YFkywBivyi-LxNp36hxN5D0XyluMwzJv-ZoLDnhzDrteP37VVG9WtlckFAo2dnZ-nbwL0v0-RGs=w408-h272-k-no",
+    "kgmid": "/g/11kb89qmxc",
+    "businessProfileId": "16803806211650069159"
+  },
+  {
+    "title": "Dr D Saha",
+    "subTitle": "ডিআর ডি সহ",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Psychiatrist",
+    "address": "Amar Medical Mart, Municipal Market, B.N.R BRIDGE, Chelidanga, Asansol, West Bengal 713304, India",
+    "neighborhood": "Chelidanga",
+    "street": "Amar Medical Mart, Municipal Market, B.N.R BRIDGE",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "http://mindandsugarclinic.com/",
+    "phone": "+91 94321 29935",
+    "phoneUnformatted": "+919432129935",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6847026,
+      "lng": 86.9547517
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJbZOpsrUf9zkRM9yKaXDT-2g",
+    "categories": [
+      "Psychiatrist",
+      "Child psychiatrist",
+      "Psychologist",
+      "Sexologist"
+    ],
+    "fid": "0x39f71fb5b2a9936d:0x68fbd370698adc33",
+    "cid": "7564872478859385907",
+    "reviewsCount": 85,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 84
+    },
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:08:53.948Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7:30 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 8:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 8:30 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Appointments recommended": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20D%20Saha&query_place_id=ChIJbZOpsrUf9zkRM9yKaXDT-2g",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.436761272869628,86.975395,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lQDPbSg9ne0QJ_JOrDr8vA&cb_client=search.gws-prod.grass&w=408&h=240&yaw=246.14609&pitch=0&thumbfov=100",
+    "kgmid": "/g/11rkc_mcmb",
+    "businessProfileId": "10820113274795071826"
+  },
+  {
+    "title": "Psychiatry",
+    "subTitle": "সাইকিয়াট্রি",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Medical clinic",
+    "address": "INDORE CENTER, RESEARCH AND HOSPITAL COLLEGE MEDICAL INDEXzar, Burnpur, Asansol, West Bengal 713325, India",
+    "neighborhood": "Burnpur",
+    "street": "INDORE CENTER, RESEARCH AND HOSPITAL COLLEGE MEDICAL INDEXzar",
+    "city": "Asansol",
+    "postalCode": "713325",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://www.eka.care/doctor/dr-sumit-dasgupta-general-practitioner-asansol?utm_source=gmb&utm_medium=website&utm_campaign=032023",
+    "phone": "+91 88189 67744",
+    "phoneUnformatted": "+918818967744",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6497717,
+      "lng": 86.9323627
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ42r0vIEf9zkRrYyoRMItnco",
+    "categories": [
+      "Medical clinic"
+    ],
+    "fid": "0x39f71f81bcf46ae3:0xca9d2dc244a88cad",
+    "cid": "14599875879403818157",
+    "reviewsCount": 2,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 2
+    },
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:01.886Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "12 to 8 AM, 9 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "12 to 8 AM, 9 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 9 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Psychiatry&query_place_id=ChIJ42r0vIEf9zkRrYyoRMItnco",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.688036999999998,86.70156305150967,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmOkfJSPWR3PkkFrv2fgtGT5EVrlnAs54IGYgJoNXpPd3XYxDWkvDOtEqXeWUtYoT9JNBxLJwbWc2wV3XtwbOnNFpgcYo--kpV5XAvAWEt2KMurKkNghupCvdB3N9NWDDtjUf2pw=w425-h240-k-no",
+    "kgmid": "/g/11t190l54s",
+    "businessProfileId": "4881348867046848565"
+  },
+  {
+    "title": "Dr D Saha Neuro Psychiatrist (Child & Adult) & Sexologist",
+    "subTitle": "ডিআর ডি সাহা নেয়ার সাইকিয়াট্রিস্ট (চাইল্ড & এডাল্ট) & সেক্সলজিস্ট",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Psychiatrist",
+    "address": "G.L.TOWER, ARIHANT MEDICAL HALL, Asansol - Chittaranjan Rd, Mihijam, Jharkhand 713357, India",
+    "neighborhood": null,
+    "street": "G.L.TOWER, ARIHANT MEDICAL HALL, Asansol - Chittaranjan Rd",
+    "city": "Mihijam",
+    "postalCode": "713357",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.749595,
+      "lng": 86.8786304
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJqca0yxTf9jkRfHUYGVTvxVg",
+    "categories": [
+      "Psychiatrist",
+      "Health counselor",
+      "Mental health service",
+      "Psychiatric hospital",
+      "Neurophysiologist",
+      "Psychosocial therapist",
+      "Psychotherapist"
+    ],
+    "fid": "0x39f6df14cbb4c6a9:0x58c5ef541918757c",
+    "cid": "6396781990226982268",
+    "reviewsCount": null,
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:01.886Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 1 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 1 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20D%20Saha%20Neuro%20Psychiatrist%20(Child%20%26%20Adult)%20%26%20Sexologist&query_place_id=ChIJqca0yxTf9jkRfHUYGVTvxVg",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.688036999999998,86.70156305150967,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmPi3ldsldD80ISVEpL1tneiV_vmEqnNvCVXqcKhR_pSyPXdOQlY_tOu1pvxA3RbcI-qtowQn9PogzXwRqdbHcq5FPsxM-_eujbBwfR9Wt95mKLinHaCJOTvvosNRqQWuarpO9U9N9vClWuF=w426-h240-k-no",
+    "kgmid": "/g/11yhwvy66t",
+    "businessProfileId": "11547582611453168219"
+  },
+  {
+    "title": "Dr D Saha",
+    "subTitle": "ডিআর ডি সাহা",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Psychiatrist",
+    "address": "GT Rd, B.D, O Para, Kulti, West Bengal 713333, India",
+    "neighborhood": "B.D, O Para",
+    "street": "GT Rd",
+    "city": "Kulti",
+    "postalCode": "713333",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "http://www.mindandsugarclinic.com/",
+    "phone": "+91 86700 98240",
+    "phoneUnformatted": "+918670098240",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.7124888,
+      "lng": 86.8197542
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJIbrJ-Knn9jkRXVPKiuQW9S4",
+    "categories": [
+      "Psychiatrist",
+      "Neurologist"
+    ],
+    "fid": "0x39f6e7a9f8c9ba21:0x2ef516e48aca535d",
+    "cid": "3383635865875665757",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:01.887Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 6 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20D%20Saha&query_place_id=ChIJIbrJ-Knn9jkRXVPKiuQW9S4",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.688036999999998,86.70156305150967,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1ZJecUFCcc8p0IBJGLCMWw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=122.19187&pitch=0&thumbfov=100",
+    "kgmid": "/g/11rk35vkmd",
+    "businessProfileId": "1100967654682721446"
+  },
+  {
+    "title": "Neamatpur New Life Foundation: Nasha Mukti Kendra - Rehab Cum De Addiction Centre in Deoghar, Dumka, Gaya, Jamshedpur, Bokaro",
+    "subTitle": "নিয়ামতপুর নিউ লাইফ ফাউন্ডেশন: নাশা মুক্তি কেন্দ্র - রিহ্যাব কাম দে অ্যাডিকশন সেন্টার ইন দেওঘর, ডাক, গয়া, জামশেদপুর, বোকারো",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Addiction treatment center",
+    "address": "Baisakhi Apartment, Chittaranjan - Neamatpur Rd, Neamatpur, West Bengal 713359, India",
+    "neighborhood": null,
+    "street": "Baisakhi Apartment, Chittaranjan - Neamatpur Rd",
+    "city": "Neamatpur",
+    "postalCode": "713359",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 70014 89484",
+    "phoneUnformatted": "+917001489484",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.721226,
+      "lng": 86.87604
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJwbxX1TXh9jkRrZWBEjWhklk",
+    "categories": [
+      "Addiction treatment center",
+      "Alcoholism treatment program",
+      "Rehabilitation center"
+    ],
+    "fid": "0x39f6e135d557bcc1:0x5992a135128195ad",
+    "cid": "6454398465291163053",
+    "reviewsCount": 41,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 1,
+      "threeStar": 1,
+      "fourStar": 1,
+      "fiveStar": 36
+    },
+    "imagesCount": 134,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:01.887Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Drive through": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "Pickup": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "Online service hours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ]
+    },
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Children": [
+        {
+          "Nursing room": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Neamatpur%20New%20Life%20Foundation%3A%20Nasha%20Mukti%20Kendra%20-%20Rehab%20Cum%20De%20Addiction%20Centre%20in%20Deoghar%2C%20Dumka%2C%20Gaya%2C%20Jamshedpur%2C%20Bokaro&query_place_id=ChIJwbxX1TXh9jkRrZWBEjWhklk",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.688036999999998,86.70156305150967,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmOoIvmmQhO8I9sUpvFaF-ODPt6D4dtppRO0GrQ9YVkWSPOdLBY38R7uNJx9OytCO8iI8XLwrhUDWDw2VnKEF7n1DP7MVQZE_8G2QEZRkb1K44VehX9NfK1WCIYu2hjdeUSftQ0=w527-h240-k-no",
+    "kgmid": "/g/11h4mvlj2q",
+    "businessProfileId": "18064157419832840195"
+  },
+  {
+    "title": "Consultant psychiatrist",
+    "subTitle": "কনসালটেন্ট সাইকিয়াট্রিস্ট",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Health consultant",
+    "address": "Bnr more, Asansol, West Bengal 713359, India",
+    "neighborhood": "Bnr more",
+    "street": null,
+    "city": "Asansol",
+    "postalCode": "713359",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 99320 02661",
+    "phoneUnformatted": "+919932002661",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.7058312,
+      "lng": 86.909812
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ7bH54mof9zkR2LWC8SgxDzk",
+    "categories": [
+      "Health consultant"
+    ],
+    "fid": "0x39f71f6ae2f9b1ed:0x390f3128f182b5d8",
+    "cid": "4111559036732880344",
+    "reviewsCount": null,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:01.887Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 5 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Consultant%20psychiatrist&query_place_id=ChIJ7bH54mof9zkR2LWC8SgxDzk",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.688036999999998,86.70156305150967,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=h3IwUfBbGoe2xSjZhQigqg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=56.71554&pitch=0&thumbfov=100",
+    "kgmid": "/g/11wngf_m02",
+    "businessProfileId": "4764332340486132309"
+  },
+  {
+    "title": "Kulti Freedom Foundation",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Addiction treatment center",
+    "address": "Prajapati Marriage Hall, Kulti College Rd, Baba Loknath Pally, Asansol, Kulti, West Bengal 713343, India",
+    "neighborhood": "Baba Loknath Pally",
+    "street": "Prajapati Marriage Hall, Kulti College Rd",
+    "city": "Asansol, Kulti",
+    "postalCode": "713343",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "http://kultifreedomfoundation.in/",
+    "phone": "+91 77976 95396",
+    "phoneUnformatted": "+917797695396",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.7219129,
+      "lng": 86.8544666
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJRW9MFETh9jkRMUDS29GWKo0",
+    "categories": [
+      "Addiction treatment center",
+      "Rehabilitation center"
+    ],
+    "fid": "0x39f6e144144c6f45:0x8d2a96d1dbd24031",
+    "cid": "10172108536450007089",
+    "reviewsCount": 57,
+    "reviewsDistribution": {
+      "oneStar": 11,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 46
+    },
+    "imagesCount": 36,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:01.887Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Kulti%20Freedom%20Foundation&query_place_id=ChIJRW9MFETh9jkRMUDS29GWKo0",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.688036999999998,86.70156305150967,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmPsUOiXgPb10jEW3TFyD1bKKQ_WCPCWz6GDbWen4hcAytCVI03LLK_Tptxw_IP_4gUsD_lxuMqiSo8VF3VcrWiPIVqrLPuLpcnl0dCoT8TQAgduqmUKZx1g2QrhAByAwv3qCNygcg=w426-h240-k-no",
+    "kgmid": "/g/11flc00t45",
+    "businessProfileId": "8888574439139344175"
+  },
+  {
+    "title": "Nanda Banerjee's Mental Nurshing Home",
+    "subTitle": "নন্দা ব্যানার্জী'এস মেন্টাল নার্সিং হোম",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Hospital",
+    "address": "PVG4+CWP, Kulti, West Bengal 713343, India",
+    "neighborhood": null,
+    "street": "PVG4+CWP",
+    "city": "Kulti",
+    "postalCode": "713343",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.7260875,
+      "lng": 86.8573281
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJIYhaVoHg9jkRqZjSqPYe_kE",
+    "categories": [
+      "Hospital"
+    ],
+    "fid": "0x39f6e081565a8821:0x41fe1ef6a8d298a9",
+    "cid": "4755272301292984489",
+    "reviewsCount": 23,
+    "reviewsDistribution": {
+      "oneStar": 7,
+      "twoStar": 1,
+      "threeStar": 2,
+      "fourStar": 1,
+      "fiveStar": 12
+    },
+    "imagesCount": 53,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:01.887Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9:30 AM to 10 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Nanda%20Banerjee's%20Mental%20Nurshing%20Home&query_place_id=ChIJIYhaVoHg9jkRqZjSqPYe_kE",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.688036999999998,86.70156305150967,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmMjcgE2NNMoaODbiCo7oQW-yK-uK3ewm64d-o4pY8JxQwqaADMoJE4HCCFt_cRzWE_5DfblUDo4jE-BBp4uU9Uw0O9VpTNs5ydTD4OaBvfjm2T1GDuwfQz1wuzRQM3qYDQ41pfsEtYVMBFS=w408-h306-k-no",
+    "kgmid": "/g/1tdx73g4",
+    "businessProfileId": null
+  },
+  {
+    "title": "Neamatpur Mukti Foundation: Nasha Mukti Kendra - Rehab Cum De Addiction Centre in Deoghar, Dumka, Gaya, Jamshedpur, Bokaro",
+    "subTitle": "নিয়ামতপুর মুক্তি ফাউন্ডেশন: নাশা মুক্তি কেন্দ্র - রিহ্যাব কাম দে অ্যাডিকশন সেন্টার ইন দেওঘর, ডাক, গয়া, জামশেদপুর, বোকারো",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Addiction treatment center",
+    "address": "Neamatpur Sunder Chak, Post Office, Lithuria Rd, near New Paani Tank, Asansol, West Bengal 713360, India",
+    "neighborhood": null,
+    "street": "Neamatpur Sunder Chak, Post Office, Lithuria Rd, near New Paani Tank",
+    "city": "Asansol, Neamatpur",
+    "postalCode": "713360",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "http://www.neamatpurmuktifoundation.com/",
+    "phone": "+91 90939 12138",
+    "phoneUnformatted": "+919093912138",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.7075226,
+      "lng": 86.8738456
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ-yOfR-nh9jkRAxHRfjM9cWk",
+    "categories": [
+      "Addiction treatment center",
+      "Alcoholism treatment program",
+      "Foundation",
+      "Rehabilitation center"
+    ],
+    "fid": "0x39f6e1e9479f23fb:0x69713d337ed11103",
+    "cid": "7597921337730994435",
+    "reviewsCount": 18,
+    "reviewsDistribution": {
+      "oneStar": 4,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 14
+    },
+    "imagesCount": 66,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:01.887Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Neamatpur%20Mukti%20Foundation%3A%20Nasha%20Mukti%20Kendra%20-%20Rehab%20Cum%20De%20Addiction%20Centre%20in%20Deoghar%2C%20Dumka%2C%20Gaya%2C%20Jamshedpur%2C%20Bokaro&query_place_id=ChIJ-yOfR-nh9jkRAxHRfjM9cWk",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.688036999999998,86.70156305150967,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmOHQdpgBKfLcHimGGBLVdcBQwiqepzZ0SD3V10RN5rBO2c7sTR7wGHLJd3KKmJjdG2lfnlg2uvOClc6DbVl87eXwRvNrR5CITxVkFaKaN8cCU61yPHggMJa50EVbLn2y4SO1Xg2Eg=w426-h240-k-no",
+    "kgmid": "/g/11ny4zxm0t",
+    "businessProfileId": "17153610048148810883"
+  },
+  {
+    "title": "Life Line Diagnostic Centre",
+    "subTitle": "লাইফ লাইন ডায়াগনস্টিক সেন্টার",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Diagnostic center",
+    "address": "Sanctoria Bazar more, Post - Dishergarh, Asansol, West Bengal 713333, India",
+    "neighborhood": null,
+    "street": "Sanctoria Bazar more, Post - Dishergarh",
+    "city": "Asansol, Sanctoria",
+    "postalCode": "713333",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 341 252 1114",
+    "phoneUnformatted": "+913412521114",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.7018958,
+      "lng": 86.8268126
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJSV79Jz7h9jkR7e2BysEuFCA",
+    "categories": [
+      "Diagnostic center",
+      "Medical laboratory"
+    ],
+    "fid": "0x39f6e13e27fd5e49:0x20142ec1ca81eded",
+    "cid": "2311523918608985581",
+    "reviewsCount": 24,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 21
+    },
+    "imagesCount": 23,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:01.887Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 7:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 7:30 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Life%20Line%20Diagnostic%20Centre&query_place_id=ChIJSV79Jz7h9jkR7e2BysEuFCA",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.688036999999998,86.70156305150967,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmMbVyWWwN8BAx8_uTXm3MVhCeMrstD18B9c78RwcJMhP0DCjkATrSGZk7Epl1ZJMjGvGbxS80K5BHcqC5-SqO0LWGTwUvsXmjBdOPuqcYV4sj3YoiAxs3cy3uvHZoHoTb8VNxT_=w408-h544-k-no",
+    "kgmid": "/g/11rnhdrfg2",
+    "businessProfileId": "14196709851050931904"
+  },
+  {
+    "title": "KAMALA PHARMACY, CHINAGURI BAZAR, COLLIERY",
+    "subTitle": "কমলা ফার্মেসী, চিনাগুড়ি বাজার, কালিয়ারি",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Medical Center",
+    "address": "Chinakuri Bazar, Chinakuri, West Bengal 713372, India",
+    "neighborhood": "Chinakuri Bazar",
+    "street": null,
+    "city": "Chinakuri",
+    "postalCode": "713372",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 94345 79975",
+    "phoneUnformatted": "+919434579975",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6843736,
+      "lng": 86.8560938
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJqb2tgUrh9jkRhEHagfx3okc",
+    "categories": [
+      "Medical Center"
+    ],
+    "fid": "0x39f6e14a81adbda9:0x47a277fc81da4184",
+    "cid": "5161820049314038148",
+    "reviewsCount": 6,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 2,
+      "fiveStar": 4
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:01.887Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=KAMALA%20PHARMACY%2C%20CHINAGURI%20BAZAR%2C%20COLLIERY&query_place_id=ChIJqb2tgUrh9jkRhEHagfx3okc",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.688036999999998,86.70156305150967,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wikpfuWhPxuZ-45Dm-lz1w&cb_client=search.gws-prod.grass&w=408&h=240&yaw=326.07172&pitch=0&thumbfov=100",
+    "kgmid": "/g/11ffjr5ysr",
+    "businessProfileId": "8151184838653913207"
+  },
+  {
+    "title": "DR. INDRANIL CHOWDHURY",
+    "subTitle": "ডিআর. ইন্দ্রনীল চৌধুরি",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Psychiatrist",
+    "address": "Aaradhya Health Hub, Upper, Chelidanga Rd, near Asansol Sub-Register office, Chelidanga, Asansol, West Bengal 713304, India",
+    "neighborhood": "Chelidanga",
+    "street": "Aaradhya Health Hub, Upper, Chelidanga Rd, near Asansol Sub-Register office",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "http://www.aaradhyaclinic.com/",
+    "phone": "+91 98324 64294",
+    "phoneUnformatted": "+919832464294",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6887711,
+      "lng": 86.9525706
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ9Rh_2Csf9zkRWsWQdjNxSOU",
+    "categories": [
+      "Psychiatrist",
+      "Addiction treatment center",
+      "Doctor",
+      "Neurologist",
+      "Neuropsychologist",
+      "Psychiatric hospital",
+      "Psychologist",
+      "Sexologist"
+    ],
+    "fid": "0x39f71f2bd87f18f5:0xe54871337690c55a",
+    "cid": "16521579698855134554",
+    "reviewsCount": 97,
+    "reviewsDistribution": {
+      "oneStar": 5,
+      "twoStar": 1,
+      "threeStar": 0,
+      "fourStar": 2,
+      "fiveStar": 89
+    },
+    "imagesCount": 0,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:01.887Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 10 PM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Lunch": [
+        {
+          "day": "Monday",
+          "hours": "3–4 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "3–4 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "3–4 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "3–4 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "3–6 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "3–4 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Google Pay": true
+        }
+      ],
+      "Children": [
+        {
+          "Nursing room": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=DR.%20INDRANIL%20CHOWDHURY&query_place_id=ChIJ9Rh_2Csf9zkRWsWQdjNxSOU",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.688036999999998,86.70156305150967,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmPQKKUR5VLgiEez8fMTUHjgv1jMTs4sCILk6SzPLnrnq9S4YI8n7LWRV-lxEZ3pTR4A6_lnKzu1TM2LPPx5oBdtAxBIR2sMhASXG-P-094OJVgySUiD30Nb5cq9JBMPm3W2BkxeIA=w408-h408-k-no",
+    "kgmid": "/g/11r8y84ybf",
+    "businessProfileId": "8611211900403102275"
+  },
+  {
+    "title": "DR. D SAHA ,Diabetologist",
+    "subTitle": "ডিআর. ডি এসএএইচএ ,ডায়াবেটোলজিস্ট",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "GENEXX EXOTICA, T5/12D GT ROAD (WEST),KUMARPUR DT-BURDWAN(W, Asansol, West Bengal 713359, India",
+    "neighborhood": null,
+    "street": "GENEXX EXOTICA, T5/12D GT ROAD (WEST),KUMARPUR DT-BURDWAN(W",
+    "city": "Asansol",
+    "postalCode": "713359",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 86375 90814",
+    "phoneUnformatted": "+918637590814",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.7065273,
+      "lng": 86.9136556
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJuYZxzgcf9zkRuBpzRFEFOgM",
+    "categories": [
+      "Doctor",
+      "Diabetologist"
+    ],
+    "fid": "0x39f71f07ce7186b9:0x33a055144731ab8",
+    "cid": "232504177361885880",
+    "reviewsCount": 108,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 105
+    },
+    "imagesCount": 102,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:01.887Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "12 to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "11:30 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6 to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "12 to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6:30 to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "6:30 to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "12 to 8:30 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible restroom": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=DR.%20D%20SAHA%20%2CDiabetologist&query_place_id=ChIJuYZxzgcf9zkRuBpzRFEFOgM",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.688036999999998,86.70156305150967,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmN3x4P306QeKO8qj21Qmul-4DAeUGw_iErel4DfK2x8QnY0CSgfbboRn9jTo8tskBBggpcsQwmG1LWL9k3QdoW7R9VM8jZKeqpF8-ciNsxmPhcG_VQamb3tXAVnjUtQfvouPoTn=w408-h724-k-no",
+    "kgmid": "/g/11fl9nm1gj",
+    "businessProfileId": "13536288196876996192"
+  },
+  {
+    "title": "Dr.D.P. Roychoudhury",
+    "subTitle": "ডাঃ ডি.পি. রায়চৌধুরী",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Physiatrist",
+    "address": "MXV4+62, 300, Sen Raliegh Rd, near Eveland Nursing Home, Apcar Garden, Asansol, West Bengal 713304, India",
+    "neighborhood": "Apcar Garden",
+    "street": "MXV4+62, 300, Sen Raliegh Rd, near Eveland Nursing Home",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6955908,
+      "lng": 86.9524873
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ1XRUV_8f9zkRC5Ys_yKC_tY",
+    "categories": [
+      "Physiatrist"
+    ],
+    "fid": "0x39f71fff575474d5:0xd6fe8222ff2c960b",
+    "cid": "15491962855022695947",
+    "reviewsCount": 27,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 1,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 24
+    },
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:01.887Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.D.P.%20Roychoudhury&query_place_id=ChIJ1XRUV_8f9zkRC5Ys_yKC_tY",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.688036999999998,86.70156305150967,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmMmpGFWMzGurk1EnsNPDeFFVCkcbmgGzwak3ishQDeW0YyIkeeBBiz7wA-gldIzPIWR61qNrZrbz79KxJR0Vhiw5ooMSHEX-oifV6aE5HyxJKac89NZ1QDqOIel0HaLf0Lop-0=w408-h862-k-no",
+    "kgmid": "/g/11hzym4wjt",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dr Subhajit Das - Neuropsychiatrist",
+    "subTitle": "ডিআর শুভজিৎ দাস - নিউরোপ্যাইকিয়াট্রিস্ট",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Psychiatrist",
+    "address": "LAKSHMI MEDICAL STORE, 4, Municipal Market Rd, near BNR Bridge, Munshi Bazar, Asansol, West Bengal 713304, India",
+    "neighborhood": "Munshi Bazar",
+    "street": "LAKSHMI MEDICAL STORE, 4, Municipal Market Rd, near BNR Bridge",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 85840 07674",
+    "phoneUnformatted": "+918584007674",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.692975,
+      "lng": 86.9552732
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJma_hXLcf9zkRnMrEr2r33Vk",
+    "categories": [
+      "Psychiatrist"
+    ],
+    "fid": "0x39f71fb75ce1af99:0x59ddf76aafc4ca9c",
+    "cid": "6475603876816145052",
+    "reviewsCount": 21,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 20
+    },
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:01.887Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Friday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Onsite services": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        }
+      ],
+      "Payments": [
+        {
+          "Google Pay": true
+        }
+      ],
+      "Parking": [
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Subhajit%20Das%20-%20Neuropsychiatrist&query_place_id=ChIJma_hXLcf9zkRnMrEr2r33Vk",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.688036999999998,86.70156305150967,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmMWUf3uEupOqMkY4k3rSxIKGShMgBIVU2dFfsJz7idjWAkEyLBRS81B0I0bYWRusVXjWulPWK98Y62DkHKHSIqe0M2pRTjy9pY2ExYwfB3ofeAwxTd0yJHa4LPwPDLyOBpzCKBkeewdSFA=w408-h736-k-no",
+    "kgmid": "/g/11zkmy3_p6",
+    "businessProfileId": "2631373197956374688"
+  },
+  {
+    "title": "DR. SANDIP DUTTA",
+    "subTitle": "ডিআর. সন্দীপ দত্ত",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Psychiatrist",
+    "address": "MXV4+698 LAKSHMI MEDICAL STORES, Municipal Market Rd, near BNR BRIDGE, Chelidanga Railway Colony, Munshi Bazar, Asansol, West Bengal 713304, India",
+    "neighborhood": "Chelidanga Railway Colony, Munshi Bazar",
+    "street": "MXV4+698 LAKSHMI MEDICAL STORES, Municipal Market Rd, near BNR BRIDGE",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6930294,
+      "lng": 86.9559626
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJZUbGIQYf9zkRmqTmfkHoKEM",
+    "categories": [
+      "Psychiatrist"
+    ],
+    "fid": "0x39f71f0621c64665:0x4328e8417ee6a49a",
+    "cid": "4839373167609160858",
+    "reviewsCount": 4,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 4
+    },
+    "imagesCount": 0,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:13.734Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=DR.%20SANDIP%20DUTTA&query_place_id=ChIJZUbGIQYf9zkRmqTmfkHoKEM",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": null,
+    "kgmid": "/g/11pv54ksgg",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dr D Saha",
+    "subTitle": "ডিআর ডি সাহা",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Psychiatrist",
+    "address": "Kumarpur, Asansol, West Bengal 713304, India",
+    "neighborhood": "Kumarpur",
+    "street": null,
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 86700 98240",
+    "phoneUnformatted": "+918670098240",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.692924,
+      "lng": 86.9551361
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJz-DhJoIf9zkR4oUJuiuwg_A",
+    "categories": [
+      "Psychiatrist",
+      "Sexologist"
+    ],
+    "fid": "0x39f71f8226e1e0cf:0xf083b02bba0985e2",
+    "cid": "17330889492903069154",
+    "reviewsCount": 31,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 30
+    },
+    "imagesCount": 47,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:13.734Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 AM to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7 AM to 4:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "6:45 AM to 7 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Appointments recommended": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20D%20Saha&query_place_id=ChIJz-DhJoIf9zkR4oUJuiuwg_A",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkDm6B_eeQCVeD7ePZlJywxN09gka5Ft2486BOpq9GmLLexxFtgWDLXko91m4miUDpBxF4rTz9ZsaQY1t5Nb8QiJDS4W9J6Ji6x4gKDPzBssGYL-Lv1gfCIZgzECiXNWM882xi6pw=w408-h408-k-no",
+    "kgmid": "/g/11ffmmztmn",
+    "businessProfileId": "7361686668507025432"
+  },
+  {
+    "title": "DR. MRS. MOUMITA DUTTA CHOWDHURY",
+    "subTitle": "ডিআর. এমআরএস. মৌমিতা দত্ত চৌধুরি",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Psychiatrist",
+    "address": "MXV4+4C5 LAKSHMI MEDICAL STORES, Municipal Market Rd, near B.N.R. BRIDGE, Chelidanga Railway Colony, Munshi Bazar, Asansol, West Bengal 713304, India",
+    "neighborhood": "Chelidanga Railway Colony, Munshi Bazar",
+    "street": "MXV4+4C5 LAKSHMI MEDICAL STORES, Municipal Market Rd, near B.N.R. BRIDGE",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 79088 44694",
+    "phoneUnformatted": "+917908844694",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6927692,
+      "lng": 86.9561218
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJl6qUruMf9zkRIKhUiCHv8Pw",
+    "categories": [
+      "Psychiatrist"
+    ],
+    "fid": "0x39f71fe3ae94aa97:0xfcf0ef218854a820",
+    "cid": "18226330619268605984",
+    "reviewsCount": 2,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 2
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:13.734Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=DR.%20MRS.%20MOUMITA%20DUTTA%20CHOWDHURY&query_place_id=ChIJl6qUruMf9zkRIKhUiCHv8Pw",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NGEXLAgbclojaNgb3Oi1TQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=22.786919&pitch=0&thumbfov=100",
+    "kgmid": "/g/11sq397lgm",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dr D Saha's Mind & Sugar Clinic & Counselling Centre (One stop solution) at Sentrum mall",
+    "subTitle": "ডিআর ডি সহ'এস মাইন্ড & সুগার ক্লিনিক & কাউন্সিলিং সেন্টার (ওয়ান স্টপ সলিউশন) আট সেন্ট্রাম মল",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Psychiatrist",
+    "address": "Sentrum office, basement, LG 003, beside KIA MOTORS, Kanyapur, Asansol, West Bengal 713305, India",
+    "neighborhood": "Kanyapur",
+    "street": "Sentrum office, basement, LG 003, beside KIA MOTORS",
+    "city": "Asansol",
+    "postalCode": "713305",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 94321 29935",
+    "phoneUnformatted": "+919432129935",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.7039189,
+      "lng": 86.9479546
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJlbb_UZAf9zkRft6FwhTIL-8",
+    "categories": [
+      "Psychiatrist",
+      "Child psychiatrist",
+      "Counselor",
+      "Psychologist",
+      "Psychotherapist",
+      "Speech pathologist"
+    ],
+    "fid": "0x39f71f9051ffb695:0xef2fc814c285de7e",
+    "cid": "17235214290458631806",
+    "reviewsCount": 67,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 66
+    },
+    "imagesCount": 58,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:13.734Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 6 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible seating": false
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Appointments recommended": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20D%20Saha's%20Mind%20%26%20Sugar%20Clinic%20%26%20Counselling%20Centre%20(One%20stop%20solution)%20at%20Sentrum%20mall&query_place_id=ChIJlbb_UZAf9zkRft6FwhTIL-8",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk_0KzfG82ukuqSDi8xNMudN_jqW-Gr7CJ6DJDwu17JqB86_UrPVIyLpGbqVR33rOn4LNbCtuH9uPDtGsIZ0KHMf8v6Jcs_6dltk0LtNUCpk9XlfpF2WViyLZiROlgKdN5HORflYw=w426-h240-k-no",
+    "kgmid": "/g/11qpmgrh8_",
+    "businessProfileId": "15909530711366370810"
+  },
+  {
+    "title": "Dr Piyali Ghosh Psychiatrist",
+    "subTitle": "ডিআর পিয়ালী ঘোষ সাইকিয়াট্রিস্ট",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Psychiatrist",
+    "address": "Joy Manohar Medical, Municipal Market Rd, near BNR bridge, Munshi Bazar, Asansol, West Bengal 713304, India",
+    "neighborhood": "Munshi Bazar",
+    "street": "Joy Manohar Medical, Municipal Market Rd, near BNR bridge",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 82401 84855",
+    "phoneUnformatted": "+918240184855",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6929155,
+      "lng": 86.9550183
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJgYP7cbUf9zkRn3CVz5KdRTo",
+    "categories": [
+      "Psychiatrist"
+    ],
+    "fid": "0x39f71fb571fb8381:0x3a459d92cf95709f",
+    "cid": "4198935481466319007",
+    "reviewsCount": 11,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 10
+    },
+    "imagesCount": 19,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:13.734Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 2 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 5 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Piyali%20Ghosh%20Psychiatrist&query_place_id=ChIJgYP7cbUf9zkRn3CVz5KdRTo",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmn65as6nLSg1RCqcetzolnW24QR2mC6CLDF7NoWhyBIxnP-wDBcX2nhEekjEktyHJf6umXKVdcuytOPI3zLcbU5TI7kU_-ghcfSNBBynJcppF0hm2fXPVMm8UDodjCx0OQK9_nGJS-ND4X=w532-h240-k-no",
+    "kgmid": "/g/11m6s730t3",
+    "businessProfileId": "9200915401035586983"
+  },
+  {
+    "title": "Dr Indranil Choudhury (Consultant Psychiatrist)",
+    "subTitle": "ডিআর ইন্দ্রনীল চৌধুরী (কনসালটেন্ট সাইকিয়াট্রিস্ট)",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "LAKSHMI MEDICAL STORE, 4, Municipal Market Rd, near BNR bridge, Munshi Bazar, Asansol, West Bengal 713304, India",
+    "neighborhood": "Munshi Bazar",
+    "street": "LAKSHMI MEDICAL STORE, 4, Municipal Market Rd, near BNR bridge",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6930089,
+      "lng": 86.9552516
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJt8B1WOgf9zkRMe2hdtaDus8",
+    "categories": [
+      "Doctor"
+    ],
+    "fid": "0x39f71fe85875c0b7:0xcfba83d676a1ed31",
+    "cid": "14968421268655828273",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:13.734Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 1:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 1:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 1:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 1:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 1:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 1:30 AM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Indranil%20Choudhury%20(Consultant%20Psychiatrist)&query_place_id=ChIJt8B1WOgf9zkRMe2hdtaDus8",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmVyMuc1uwoVsCUk1ozdp2gBeqRH7OUJjKxJGOFuZFsG00J6CiZi8xPkolfvZa0BZJLAJHAhv6EveaylqIKeLtpJFhM1Y5KZ1RDWG4eoyM-Z7rQQ6DFYBmCr92d1DXNr2xYcmC6de5xWl6u=w408-h408-k-no",
+    "kgmid": "/g/11z84wvb1k",
+    "businessProfileId": "17975468922965563314"
+  },
+  {
+    "title": "Asansol Lakshya Foundation",
+    "subTitle": "আসানসোল লক্ষ্য ফাউন্ডেশন",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Psychiatrist",
+    "address": "01, NH2 Near Moujuri Gram, Asansol, West Bengal 713302, India",
+    "neighborhood": "Sarakdihi",
+    "street": "01, NH2 Near Moujuri Gram",
+    "city": "Asansol",
+    "postalCode": "713302",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://asansollakshyafoundation.com/",
+    "phone": "+91 97328 88697",
+    "phoneUnformatted": "+919732888697",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.7096441,
+      "lng": 86.9728455
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJvVw_98Uf9zkRbm2aF0vkTRQ",
+    "categories": [
+      "Psychiatrist",
+      "Addiction treatment center",
+      "Alcoholism treatment program",
+      "Rehabilitation center"
+    ],
+    "fid": "0x39f71fc5f73f5cbd:0x144de44b179a6d6e",
+    "cid": "1463076465134955886",
+    "reviewsCount": 55,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 53
+    },
+    "imagesCount": 18,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:13.734Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Breakfast": [
+        {
+          "day": "Monday",
+          "hours": "8:30–9 AM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8:30–9 AM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8:30–9 AM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8:30–9 AM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8:30–9 AM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8:30–9 AM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8:30–9 AM"
+        }
+      ],
+      "Lunch": [
+        {
+          "day": "Monday",
+          "hours": "1–2 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "1–2 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "1–2 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "1–2 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "1–2 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "1–2 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "1–2 PM"
+        }
+      ],
+      "Dinner": [
+        {
+          "day": "Monday",
+          "hours": "8:30–9:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "8:30–9:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "8:30–9:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "8:30–9:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "8:30–9:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "8:30–9:30 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "8:30–9:30 PM"
+        }
+      ],
+      "Pickup": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "Online service hours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ]
+    },
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Asansol%20Lakshya%20Foundation&query_place_id=ChIJvVw_98Uf9zkRbm2aF0vkTRQ",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlvoSmWcvLnfvRVAtKyAHY1y3ECh2m5r3NKFYQS9KRaOVC-M9clfsq1tKw-VqPvdIJiVv8tGE6qljQDlwpS9hiDbFGtAv8MWfC7HrK1-wvrcRG6FPi00owNKtrwdG2AbAqZpenCNA=w408-h544-k-no",
+    "kgmid": "/g/11k3jd8g82",
+    "businessProfileId": "3708966784348475384"
+  },
+  {
+    "title": "Dr Shyama Chand Biswal",
+    "subTitle": "ডিআর শ্যামা চাঁদ বিসওয়াল",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Psychiatrist",
+    "address": "LAKSHMI MEDICAL STORE, Municipal Market Rd, near B N R Bridge, Munshi Bazar, Asansol, West Bengal 713304, India",
+    "neighborhood": "Munshi Bazar",
+    "street": "LAKSHMI MEDICAL STORE, Municipal Market Rd, near B N R Bridge",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6926906,
+      "lng": 86.9553493
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJR1u2Ea4f9zkRrgw7Sz5DrWg",
+    "categories": [
+      "Psychiatrist"
+    ],
+    "fid": "0x39f71fae11b65b47:0x68ad433e4b3b0cae",
+    "cid": "7542758885744643246",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:13.734Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 2 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Shyama%20Chand%20Biswal&query_place_id=ChIJR1u2Ea4f9zkRrgw7Sz5DrWg",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_tyrm3-hD5KPMesMkOVvYg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=121.449974&pitch=0&thumbfov=100",
+    "kgmid": "/g/11rn6dtjm_",
+    "businessProfileId": "6206456452310255852"
+  },
+  {
+    "title": "Dr. Sajjan Singh",
+    "subTitle": "B.n.r. complex,burnpur, asansol,west Bengal",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Physiatrist",
+    "address": "Municipal Market Rd, BNR, Asansol, West Bengal 713304, India",
+    "neighborhood": "BNR",
+    "street": "Municipal Market Rd",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 341 228 3761",
+    "phoneUnformatted": "+913412283761",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6928659,
+      "lng": 86.9550353
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJGz9HYCMf9zkRBPMb-3TGZBw",
+    "categories": [
+      "Physiatrist"
+    ],
+    "fid": "0x39f71f2360473f1b:0x1c64c674fb1bf304",
+    "cid": "2045978336464466692",
+    "reviewsCount": 17,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 2,
+      "fourStar": 2,
+      "fiveStar": 12
+    },
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:13.798Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "11 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "11 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "11 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "11 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "11 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Sajjan%20Singh&query_place_id=ChIJGz9HYCMf9zkRBPMb-3TGZBw",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.939312727130368,86.975395,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmiIajQdSuOdrGaR0seC7w1YD1e13nanR5mg9E0tY6ImkU-RxhnNoHKd1E_VdhoGrss2Kv5Yf65H1qUegV6pjevJDG6x5XxNnyxLqv1eiQAKOTtPPQt80_QQMHqOimn3m4j-SEi95QTp2g=w426-h240-k-no",
+    "kgmid": "/g/11nry9g5l5",
+    "businessProfileId": "3541139765836145561"
+  },
+  {
+    "title": "Lt Col (Dr.) V. V. Gantait || Best psychiatrist in Asansol",
+    "subTitle": "এলটি কোল (ডিআর.) ভি. ভি. গানটায় || বেস্ট সাইকিয়াট্রিস্ট ইন আসানসোল",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "Laxmi Medical, Municipal Market Rd, near BNR Bridge, Munshi Bazar, Asansol, West Bengal 713304, India",
+    "neighborhood": "Munshi Bazar",
+    "street": "Laxmi Medical, Municipal Market Rd, near BNR Bridge",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "http://reliefhub.in/?i=1",
+    "phone": "+91 87507 99648",
+    "phoneUnformatted": "+918750799648",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6926906,
+      "lng": 86.9553493
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJWTI86SAf9zkR629Ovy-I53A",
+    "categories": [
+      "Doctor"
+    ],
+    "fid": "0x39f71f20e93c3259:0x70e7882fbf4e6feb",
+    "cid": "8135620990522519531",
+    "reviewsCount": 5,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 5
+    },
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:13.798Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "4 to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "4 to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "4 to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "4 to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "4 to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "4 to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 2 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Lt%20Col%20(Dr.)%20V.%20V.%20Gantait%20%7C%7C%20Best%20psychiatrist%20in%20Asansol&query_place_id=ChIJWTI86SAf9zkR629Ovy-I53A",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.939312727130368,86.975395,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk5YOvmnEYNDBO_Z8D0CUMcZjDTKT9Z07i2VNvAmajHguQ866L7aBYmMwaL-PsA8oWS-2LJ6XO-5sN-VgNkiDA6fnXlv-LtMLEqciOD7mixr9LGKYIo2bqqAwdauuJOwLMlHxKy6A=w408-h510-k-no",
+    "kgmid": "/g/11y41nr66r",
+    "businessProfileId": "3589904786513808247"
+  },
+  {
+    "title": "Dr.Saikat Saha (Neuro,Spine,Arthritis & Brain)",
+    "subTitle": "ডিআর.সৈকত সহ",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Psychiatrist",
+    "address": "Upper, near Asansol Sub-Register Office, Chelidanga, Asansol, West Bengal 713301, India",
+    "neighborhood": "Chelidanga",
+    "street": "Upper, near Asansol Sub-Register Office",
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "http://www.drsaikatsaha.com/",
+    "phone": "+91 80130 11118",
+    "phoneUnformatted": "+918013011118",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6886517,
+      "lng": 86.9524596
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJq1_Ml_Ef9zkRAAxLxTFbFY4",
+    "categories": [
+      "Psychiatrist",
+      "Neurosurgeon",
+      "Pain management physician",
+      "Neurologist",
+      "Rheumatologist"
+    ],
+    "fid": "0x39f71ff197cc5fab:0x8e155b31c54b0c00",
+    "cid": "10238189597218245632",
+    "reviewsCount": 135,
+    "reviewsDistribution": {
+      "oneStar": 12,
+      "twoStar": 1,
+      "threeStar": 1,
+      "fourStar": 9,
+      "fiveStar": 112
+    },
+    "imagesCount": 104,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:17.406Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.Saikat%20Saha%20(Neuro%2CSpine%2CArthritis%20%26%20Brain)&query_place_id=ChIJq1_Ml_Ef9zkRAAxLxTFbFY4",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 22,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnCoyvl-1hO27VDx5d6u0NqyLxzWXPQ2ulVsnBOhc8pQNW6zbRrVsjVEPlve0-E1Kx5u-LjJOVsEeBhnQhR87-Z6u1TtlmVQyGT1O3gNtqk2Wn_QRBhIijsnZXM2cOro3RiMSRygO4Zfdol=w408-h725-k-no",
+    "kgmid": "/g/11m_k12bkx",
+    "businessProfileId": "6125713933922041533"
+  },
+  {
+    "title": "Asansol Prayag Foundation",
+    "subTitle": "আসানসোল প্রয়াগ ফাউন্ডেশন",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Rehabilitation center",
+    "address": "Triveni More, near bus stand, Sarada Pally, Burnpur, Asansol, West Bengal 713325, India",
+    "neighborhood": "Sarada Pally, Burnpur",
+    "street": "Triveni More, near bus stand",
+    "city": "Asansol",
+    "postalCode": "713325",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 70473 22123",
+    "phoneUnformatted": "+917047322123",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6935526,
+      "lng": 86.9454746
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJFxjb20of9zkRVVXfWl70glk",
+    "categories": [
+      "Rehabilitation center"
+    ],
+    "fid": "0x39f71f4adbdb1817:0x5982f45e5adf5555",
+    "cid": "6449986302436660565",
+    "reviewsCount": 7,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 7
+    },
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:17.406Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Asansol%20Prayag%20Foundation&query_place_id=ChIJFxjb20of9zkRVVXfWl70glk",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 27,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk40oR-2MwVAxEifcoz_jad_cyH0-DA9hMcEamIyIuviwFQW_7I8OtW2HmXv4rfFqVVn3zNcbWnVT2enTjmCCkl9eRyprHboIexI2H5664orEw7uw-KGCpEQcFM8yz0UtaLZxRtHA=w533-h240-k-no",
+    "kgmid": "/g/11vln7178j",
+    "businessProfileId": "644938532751186576"
+  },
+  {
+    "title": "Dr. Priyanka Kanjilal | Neuropsychologist Near Me | 7 Years Exp. | Asansol",
+    "subTitle": "ডিআর. প্রিয়াঙ্কা কাঞ্জিলাল | নিউরোপ্সাইকোলজিস্ট নিয়ার মে | 7 ইয়ার্স এক্সপি. | আসানসোল",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Medical clinic",
+    "address": "Joy manohar medical shop, Municipal Market Rd, Munshi Bazar, Asansol, West Bengal 713304, India",
+    "neighborhood": "Munshi Bazar",
+    "street": "Joy manohar medical shop, Municipal Market Rd",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://www.apollo247.com/doctors/dr-priyanka-kanjilal-2c360bd7-8d17-4b49-96f3-fe5b05bfc62f?utm_source=gmb_docverse&utm_medium=clinics&utm_campaign=doctors",
+    "phone": "+91 80 4628 7164",
+    "phoneUnformatted": "+918046287164",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6927076,
+      "lng": 86.9553554
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJvYnMA4Af9zkRoWENqgtgJfg",
+    "categories": [
+      "Medical clinic",
+      "Doctor",
+      "Hospital",
+      "Medical Center",
+      "Neurophysiologist"
+    ],
+    "fid": "0x39f71f8003cc89bd:0xf825600baa0d61a1",
+    "cid": "17880803498758332833",
+    "reviewsCount": 5,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 5
+    },
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:17.406Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 9 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Assistive hearing loop": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Google Pay": true
+        }
+      ],
+      "Children": [
+        {
+          "Nursing room": true
+        }
+      ],
+      "Parking": [
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Priyanka%20Kanjilal%20%7C%20Neuropsychologist%20Near%20Me%20%7C%207%20Years%20Exp.%20%7C%20Asansol&query_place_id=ChIJvYnMA4Af9zkRoWENqgtgJfg",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 28,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWky29QColZbU1c7IF0252ioPZkP5rhRJ4-Yt8RVmO_uxQtZ3hzdLLHO2bJKF9q0r5csQJAu_k8poHuwA3ZdxFici2tXThceW-vA5xINwPYR7WqI1en9WSwRsjwSurqgTGv-m0Af=w408-h544-k-no",
+    "kgmid": "/g/11shm_p1g1",
+    "businessProfileId": "5017366109377062838"
+  },
+  {
+    "title": "Asansol Prayas Foundation,BEST NASHA MUKTI KENDRA",
+    "subTitle": "আসানসোল প্রয়াস ফাউন্ডেশন",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Addiction treatment center",
+    "address": "Hindustan park, Rabindra Nagar, Asansol, West Bengal 713304, India",
+    "neighborhood": "Rabindra Nagar",
+    "street": "Hindustan park",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "http://www.asansolprayas.co.in/",
+    "phone": "+91 97359 70615",
+    "phoneUnformatted": "+919735970615",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6936097,
+      "lng": 86.9457481
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJcUfRMjof9zkRySN1EP6cH7A",
+    "categories": [
+      "Addiction treatment center",
+      "Alcoholism treatment program"
+    ],
+    "fid": "0x39f71f3a32d14771:0xb01f9cfe107523c9",
+    "cid": "12691034889965085641",
+    "reviewsCount": 154,
+    "reviewsDistribution": {
+      "oneStar": 6,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 148
+    },
+    "imagesCount": 170,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:17.406Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Asansol%20Prayas%20Foundation%2CBEST%20NASHA%20MUKTI%20KENDRA&query_place_id=ChIJcUfRMjof9zkRySN1EP6cH7A",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 29,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmsq1WU3LO2PUUazi9c0GunL_3vLB7fdFhjd--kzUZmjn6ANzjuB7wg97vL6x_IuyOa-PyyQvuTli6XQxRGpSOx7_pjlmBCX_e4aPJ8qpjSXRtWfZPYROQElbnjMUHA42q75GQ=w408-h538-k-no",
+    "kgmid": "/g/11fn9txjtn",
+    "businessProfileId": "15992330362887929383"
+  },
+  {
+    "title": "(Psychiatrist)",
+    "subTitle": "(সাইকিয়াট্রিস্ট)",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Psychiatrist",
+    "address": "Amar Medical Mart, Municipal Market Rd, Upper, Chelidanga, Asansol, West Bengal 713304, India",
+    "neighborhood": "Upper, Chelidanga",
+    "street": "Amar Medical Mart, Municipal Market Rd",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 62940 67575",
+    "phoneUnformatted": "+916294067575",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6930893,
+      "lng": 86.9553267
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJWxoTk6kf9zkRmN1lc3GkkJw",
+    "categories": [
+      "Psychiatrist"
+    ],
+    "fid": "0x39f71fa993131a5b:0x9c90a4717365dd98",
+    "cid": "11281697873737407896",
+    "reviewsCount": null,
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:17.406Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "11 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "11 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "11 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "11 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "11 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11 AM to 7 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        },
+        {
+          "Restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Google Pay": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=(Psychiatrist)&query_place_id=ChIJWxoTk6kf9zkRmN1lc3GkkJw",
+    "searchPageUrl": "https://www.google.com/maps/search/Psychiatrist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Psychiatrist",
+    "language": "en",
+    "rank": 30,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_tyrm3-hD5KPMesMkOVvYg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=8.228492&pitch=0&thumbfov=100",
+    "kgmid": "/g/11kqdvcbms",
+    "businessProfileId": "1404918278272263046"
+  }
+]

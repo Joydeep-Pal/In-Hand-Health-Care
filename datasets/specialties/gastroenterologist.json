@@ -1,0 +1,2412 @@
+[
+  {
+    "title": "Bikash Rauth",
+    "subTitle": "বিকাশ রাত",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "J3GF+G56, Bikash 2noRoad, Raniganj, Murgathaul, West Bengal 713337, India",
+    "neighborhood": "Bikash 2noRoad",
+    "street": "J3GF+G56",
+    "city": "Raniganj, Murgathaul",
+    "postalCode": "713337",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 98004 44074",
+    "phoneUnformatted": "+919800444074",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6262805,
+      "lng": 87.0729001
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJpzyv0boQ9zkRnNjid4JDMcY",
+    "categories": [
+      "Doctor"
+    ],
+    "fid": "0x39f710bad1af3ca7:0xc631438277e2d89c",
+    "cid": "14281270121004718236",
+    "reviewsCount": 11,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 11
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:38:51.669Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Bikash%20Rauth&query_place_id=ChIJpzyv0boQ9zkRnNjid4JDMcY",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Gastroenterologist/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": " Gastroenterologist",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkrx-57szoebVrNrb4fHAu1BxC5CHaI5IJcnCy6Y4TCBk1Jc2Kpdm2vLjicrzl_1CXhIm4dryNzSGlmo_HkeFm2hVd-wYTe-7bRS6DkgCw_DsFbiKAcVyciBIINEqa0Bb5lvsCG=w426-h240-k-no",
+    "kgmid": "/g/11f3rdjc82",
+    "businessProfileId": null
+  },
+  {
+    "title": "TRIVINA HEALTHCARE",
+    "subTitle": "ট্রিবিউন হেলথকেয়ার",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Private hospital",
+    "address": "115, NSB Rd, Raniganj, West Bengal 713347, India",
+    "neighborhood": null,
+    "street": "115, NSB Rd",
+    "city": "Raniganj",
+    "postalCode": "713347",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 80016 67898",
+    "phoneUnformatted": "+918001667898",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6202979,
+      "lng": 87.1130254
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ6Sk0PoQR9zkRdNWu0GgbBKo",
+    "categories": [
+      "Private hospital"
+    ],
+    "fid": "0x39f711843e3429e9:0xaa041b68d0aed574",
+    "cid": "12250947023346259316",
+    "reviewsCount": 1255,
+    "reviewsDistribution": {
+      "oneStar": 22,
+      "twoStar": 4,
+      "threeStar": 11,
+      "fourStar": 29,
+      "fiveStar": 1189
+    },
+    "imagesCount": 43,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:38:51.669Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=TRIVINA%20HEALTHCARE&query_place_id=ChIJ6Sk0PoQR9zkRdNWu0GgbBKo",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Gastroenterologist/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": " Gastroenterologist",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlyf562naITt3sLhRndH-wgFRekNVoFIHkqHDyg66Gq6jk0scN_VYWhpLAH4vBYy0jZ7HaN40PfwGdQ_G_LbWwfBvBUxWAB0xgmNpWshXGjj3wy-N0o5SHIgVomi5V9mtPO_LxFQA=w408-h305-k-no",
+    "kgmid": "/g/11jjqydrp2",
+    "businessProfileId": "4540165149198794105"
+  },
+  {
+    "title": "Dr. Vivek Mohan Sharma | Medical Gastroenterologist | Narayana Health",
+    "subTitle": "ডিআর. বিবেক মহান শর্মা | মেডিক্যাল গ্যাস্ট্রোএন্টারোলজিস্ট | নারায়ণ হেলথ",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Gastroenterologist",
+    "address": "Mohit Medical, Private Iti Store, Neae, More, Rambagan Doctor's Colony, Raniganj, West Bengal 713358, India",
+    "neighborhood": "Rambagan Doctor's Colony",
+    "street": "Mohit Medical, Private Iti Store, Neae, More",
+    "city": "Raniganj",
+    "postalCode": "713358",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://www.narayanahealth.org/c/howrah/medical-gastroenterology-gastro-sciences/dr-vivek-mohan-sharma",
+    "phone": "+91 80 6215 4715",
+    "phoneUnformatted": "+918062154715",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6306301,
+      "lng": 87.1170347
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJpzogSq0R9zkRmkZi8KN09c0",
+    "categories": [
+      "Gastroenterologist",
+      "Cardiovascular and thoracic surgeon",
+      "Gastrointestinal surgeon",
+      "Pediatric gastroenterologist"
+    ],
+    "fid": "0x39f711ad4a203aa7:0xcdf574a3f062469a",
+    "cid": "14840896394530801306",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 0
+    },
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:38:51.669Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        },
+        {
+          "Restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        }
+      ],
+      "Payments": [
+        {
+          "Google Pay": true
+        }
+      ],
+      "Children": [
+        {
+          "Nursing room": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking garage": true
+        },
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        },
+        {
+          "Paid parking garage": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Vivek%20Mohan%20Sharma%20%7C%20Medical%20Gastroenterologist%20%7C%20Narayana%20Health&query_place_id=ChIJpzogSq0R9zkRmkZi8KN09c0",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Gastroenterologist/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": " Gastroenterologist",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmVLBl_GEdmNXoFM7CPxteDDtoRLOzoKTerz72LGaSXqL-nsxnTdXVvyYsbYMVDISRxzhULsSXcbgcPiVNBz8YVQ2eDv6MAPzGhkhT1rIgjGPksSwGFDf124TimtcHubqOJx-q4=w408-h481-k-no",
+    "kgmid": "/g/11y8kd3gm7",
+    "businessProfileId": "18234102187901416575"
+  },
+  {
+    "title": "Abhishek Life care",
+    "subTitle": "অভিষেক লাইফ কেয়ার",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Medical Center",
+    "address": "more, near Ningha Road, Asansol, Nigha, West Bengal 713370, India",
+    "neighborhood": null,
+    "street": "more, near Ningha Road",
+    "city": "Asansol, Nigha",
+    "postalCode": "713370",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 90640 22365",
+    "phoneUnformatted": "+919064022365",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6700525,
+      "lng": 87.0342506
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJQ5cZ30YZ9zkR0LrdqopWK8w",
+    "categories": [
+      "Medical Center",
+      "Diagnostic center"
+    ],
+    "fid": "0x39f71946df199743:0xcc2b568aaaddbad0",
+    "cid": "14711947761307990736",
+    "reviewsCount": 31,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 0,
+      "threeStar": 2,
+      "fourStar": 3,
+      "fiveStar": 23
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:38:51.669Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 9:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 9:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 9:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 9:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 1:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 9:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 9:30 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Assistive hearing loop": true
+        },
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        },
+        {
+          "Restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Google Pay": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Abhishek%20Life%20care&query_place_id=ChIJQ5cZ30YZ9zkR0LrdqopWK8w",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Gastroenterologist/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": " Gastroenterologist",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlcsgreXP7jTyhtLfFKjii_VemSTWWro_Edx6U5zClJyv6dn1upc1E-939-eqnbBqAQene_eYRPlFNh_5dcHdYeF2OVa5VEgsO2aO9hhWh9UzHJURnHy5iwGGKq70QJoAB50fBCJg=w408-h332-k-no",
+    "kgmid": "/g/11j_s768dh",
+    "businessProfileId": "17419438051610502282"
+  },
+  {
+    "title": "Dr. H P Chakroborty",
+    "subTitle": "ডিআর. এইচ পি চক্রবর্তী",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Skin care clinic",
+    "address": "NSB Road, MORE, opposite MARWARI SANATAN SCHOOL BAZAR, near MOHAN FAMILY STORE, Raniganj, West Bengal 713347, India",
+    "neighborhood": null,
+    "street": "NSB Road, MORE, opposite MARWARI SANATAN SCHOOL BAZAR, near MOHAN FAMILY STORE",
+    "city": "Raniganj",
+    "postalCode": "713347",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 70013 87136",
+    "phoneUnformatted": "+917001387136",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.609787,
+      "lng": 87.1144643
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJOaJOxGER9zkRkIk1Ec2LJ8k",
+    "categories": [
+      "Skin care clinic",
+      "Dermatologist",
+      "Sexologist"
+    ],
+    "fid": "0x39f71161c44ea239:0xc9278bcd11358990",
+    "cid": "14494707638588508560",
+    "reviewsCount": 118,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 1,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 114
+    },
+    "imagesCount": 315,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:38:51.669Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 9 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Google Pay": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20H%20P%20Chakroborty&query_place_id=ChIJOaJOxGER9zkRkIk1Ec2LJ8k",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Gastroenterologist/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": " Gastroenterologist",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkpq_1d9dtfTh6JVdfvsJQA-Pcji5HT5bIoHpnyhIZyTOXdLpKDxPVnd8N0G1p9QcQcYm13YSq8vAf7CBgFYPZ1ZRejBjOTotE2zflfiaU7Imsbm2UXsJPzOe7mKeaBMczJ9FqGjirYSmc=w408-h544-k-no",
+    "kgmid": "/g/11vlnfkyft",
+    "businessProfileId": "16665077743682738264"
+  },
+  {
+    "title": "Dr P Karmakar's Clinic",
+    "subTitle": "ডাঃ পি কর্মকার ক্লিনিক",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "Rambagan Doctor's Colony, Raniganj, West Bengal 713358, India",
+    "neighborhood": "Rambagan Doctor's Colony",
+    "street": null,
+    "city": "Raniganj",
+    "postalCode": "713358",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6303134,
+      "lng": 87.116794
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ0U0WsDAR9zkR3HC2s-GNCKQ",
+    "categories": [
+      "Doctor"
+    ],
+    "fid": "0x39f71130b0164dd1:0xa4088de1b3b670dc",
+    "cid": "11819853222556102876",
+    "reviewsCount": 21,
+    "reviewsDistribution": {
+      "oneStar": 6,
+      "twoStar": 1,
+      "threeStar": 1,
+      "fourStar": 5,
+      "fiveStar": 8
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:38:51.669Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Friday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20P%20Karmakar's%20Clinic&query_place_id=ChIJ0U0WsDAR9zkR3HC2s-GNCKQ",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Gastroenterologist/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": " Gastroenterologist",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkiCWOnYkf8n--FQ6GymAZCRRMaTkGYchgZ2MPWW9NSDvZpnuR8Yr_BsVnvzZ__1RV8EndBa_GGIpIWMDzXOIDlPVSwTWSLahZpedmHY7osuNb9Dk6qLqZHoPa4RrsrJ14WaKxm=w408-h544-k-no",
+    "kgmid": "/g/11gcmkbnlg",
+    "businessProfileId": "13394245529728503301"
+  },
+  {
+    "title": "Dr Abhijit Mukherjee Chamber",
+    "subTitle": "ডাঃ অভিজিৎ মুখার্জী চেম্বার",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "H3J7+RVF, Unnamed Road, Bhului, Jot-Sriram, West Bengal 722143, India",
+    "neighborhood": null,
+    "street": "H3J7+RVF, Unnamed Road",
+    "city": "Bhului, Jot-Sriram",
+    "postalCode": "722143",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.5820667,
+      "lng": 87.0646652
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJr-r2M3gQ9zkRx4jTgFpiLEE",
+    "categories": [
+      "Doctor"
+    ],
+    "fid": "0x39f7107833f6eaaf:0x412c625a80d388c7",
+    "cid": "4696236652288510151",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:38:51.669Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7 AM to 10 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Abhijit%20Mukherjee%20Chamber&query_place_id=ChIJr-r2M3gQ9zkRx4jTgFpiLEE",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Gastroenterologist/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": " Gastroenterologist",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkGYameNeGV0bIMy84CWDNgPRXj-m63wirGe7JkrxETw3JYaSS8Du59syJDkxK-4OR5E4C8VlnutU9V8IxutqzaBsbdrjusAu5JW67wkMjHpbcGXNIL47z7IhciP1apqZ9n_Gwp8g=w426-h240-k-no",
+    "kgmid": "/g/11hbbkg3xr",
+    "businessProfileId": null
+  },
+  {
+    "title": "Shuvadarsini Multispeciality Hospital",
+    "subTitle": "শুভদর্ষিণী মাল্টিস্পেশালিটি হসপিটাল",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Private hospital",
+    "address": "Square Building, More, Banshra, Raniganj, West Bengal 713347, India",
+    "neighborhood": null,
+    "street": "Square Building, More",
+    "city": "Banshra, Raniganj",
+    "postalCode": "713347",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://shuvadarsinihospital.com/",
+    "phone": "+91 98004 04039",
+    "phoneUnformatted": "+919800404039",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6266597,
+      "lng": 87.1334391
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJNY4Bli0R9zkRBO7_Y5cxaM4",
+    "categories": [
+      "Private hospital",
+      "Cardiologist",
+      "Emergency care service",
+      "Hospital",
+      "Maternity hospital",
+      "Neurologist",
+      "Women's health clinic",
+      "Orthopedic surgeon",
+      "Pregnancy care center"
+    ],
+    "fid": "0x39f7112d96018e35:0xce68319763ffee04",
+    "cid": "14873192295678602756",
+    "reviewsCount": 125,
+    "reviewsDistribution": {
+      "oneStar": 17,
+      "twoStar": 1,
+      "threeStar": 3,
+      "fourStar": 12,
+      "fiveStar": 92
+    },
+    "imagesCount": 178,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:38:51.669Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ],
+      "Children": [
+        {
+          "Nursing room": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Shuvadarsini%20Multispeciality%20Hospital&query_place_id=ChIJNY4Bli0R9zkRBO7_Y5cxaM4",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Gastroenterologist/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": " Gastroenterologist",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmpKOWoU3bN_eA6Zl7qLiB2e-IAl2Z_eEc1HvqZ8q1EFxNa6KB3eZ4mKyMjkYEs2eEqa_hwVoSzyLD7uI-q6U_eBXQwZP5byhCbcpFpvh2YvrQ7rS9lXoZaaqI3NkUKgoGoPX8_d-jOFqU=w408-h306-k-no",
+    "kgmid": "/g/11lcrkywd5",
+    "businessProfileId": "9256501919156712130"
+  },
+  {
+    "title": "Scan-X Medical Centre Ukhra",
+    "subTitle": "স্ক্যান-এক্স মেডিক্যাল সেন্টার উখিয়া",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Medical Center",
+    "address": "P.O, Ukhra(Ananda More, opposite Natun Sanyasi Kali Mandir, Ukhra, West Bengal 713363, India",
+    "neighborhood": null,
+    "street": "P.O, Ukhra(Ananda More, opposite Natun Sanyasi Kali Mandir",
+    "city": "Ukhra",
+    "postalCode": "713363",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 76999 92514",
+    "phoneUnformatted": "+917699992514",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6487775,
+      "lng": 87.2499668
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJvUZvxyxr9zkRjjPczeGL0rc",
+    "categories": [
+      "Medical Center"
+    ],
+    "fid": "0x39f76b2cc76f46bd:0xb7d28be1cddc338e",
+    "cid": "13245803255987712910",
+    "reviewsCount": 8,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 3,
+      "fiveStar": 5
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:38:51.669Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7:30 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:30 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:30 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:30 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:30 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7:30 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7:30 AM to 8 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Payments": [
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Scan-X%20Medical%20Centre%20Ukhra&query_place_id=ChIJvUZvxyxr9zkRjjPczeGL0rc",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Gastroenterologist/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": " Gastroenterologist",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmxgC8d2tRz6BTMDRkQdY2FZQIw2GZmGZzwNgqQWrZcDnSUJ7LtWlPnY69UD64cLLvqMR8spwY_HZuLe4pU9gvTUwdE8PkvLJrWW_EyjnyEtAVz9KTJaXDr_Jz9UcuDb4Bogha_Yg=w408-h544-k-no",
+    "kgmid": "/g/11t7fdxhp8",
+    "businessProfileId": "1529283736419641166"
+  },
+  {
+    "title": "RAY MEDICAL STORE",
+    "subTitle": "রায় মেডিক্যাল স্টোর",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Medical group",
+    "address": "Doctor's Colony, Rambagan Doctor's Colony, Raniganj, West Bengal 713358, India",
+    "neighborhood": "Doctor's Colony, Rambagan Doctor's Colony",
+    "street": null,
+    "city": "Raniganj",
+    "postalCode": "713358",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 98514 44415",
+    "phoneUnformatted": "+919851444415",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6319344,
+      "lng": 87.1170747
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJg2lS7LsR9zkRcSXfaoliFBg",
+    "categories": [
+      "Medical group"
+    ],
+    "fid": "0x39f711bbec526983:0x181462896adf2571",
+    "cid": "1735120098787534193",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:38:51.669Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=RAY%20MEDICAL%20STORE&query_place_id=ChIJg2lS7LsR9zkRcSXfaoliFBg",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Gastroenterologist/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": " Gastroenterologist",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmP8BY3CqwV5VmhuXBSpQOZ48RXXYy2D38Uhgn1Inm3Lbx8QwVwO83yQLawTRImzmE3IjQkJNLUkpRjUrLo0a0j5fU0tFrMa8hHGiV5w1idOy4UiCf4nsIw4GzPh5o1rv_JnN-GUGBxG2d1=w408-h306-k-no",
+    "kgmid": "/g/11rtd2910c",
+    "businessProfileId": "4644967795413137725"
+  },
+  {
+    "title": "Dr S K Basu",
+    "subTitle": "ডিআর এস কে বসু",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "Raniganj-Bansra Road, Rambagan Doctor's Colony, Raniganj, West Bengal 713358, India",
+    "neighborhood": "Rambagan Doctor's Colony",
+    "street": "Raniganj-Bansra Road",
+    "city": "Raniganj",
+    "postalCode": "713358",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 99321 33180",
+    "phoneUnformatted": "+919932133180",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6296098,
+      "lng": 87.117093
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJjU0rH2wR9zkRrmuKnZxHH7M",
+    "categories": [
+      "Doctor"
+    ],
+    "fid": "0x39f7116c1f2b4d8d:0xb31f479c9d8a6bae",
+    "cid": "12907113795050695598",
+    "reviewsCount": 59,
+    "reviewsDistribution": {
+      "oneStar": 10,
+      "twoStar": 2,
+      "threeStar": 1,
+      "fourStar": 6,
+      "fiveStar": 40
+    },
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:38:51.669Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 12 AM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "12 to 6:30 AM, 10 AM to 12 AM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "12 to 6 AM, 10 AM to 5 AM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10:30 AM to 12 AM"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        },
+        {
+          "Google Pay": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20S%20K%20Basu&query_place_id=ChIJjU0rH2wR9zkRrmuKnZxHH7M",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Gastroenterologist/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": " Gastroenterologist",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm5GYL3CDeqdol3_B5Xvr-NSnsdDvGOgw_TveVDFzhI0IIdORpDSpUODOiQeDKf0re_Z1e51lwLJSRkABB2vyAAL-AtEM5HEH6ysHJG96tGepgkflFykujVMNZDbV7QyPq8mG8IPw=w408-h884-k-no",
+    "kgmid": "/g/11gy4_hthx",
+    "businessProfileId": "3459261740672380225"
+  },
+  {
+    "title": "Marwari Relief Society Hospital, Raniganj, Asansol",
+    "subTitle": "মাড়োয়ারি রিলিফ সোসাইটি হসপিটাল",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Hospital",
+    "address": "44, NSB Rd, Raniganj, West Bengal 713347, India",
+    "neighborhood": null,
+    "street": "44, NSB Rd",
+    "city": "Raniganj",
+    "postalCode": "713347",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://mrshospital.org/",
+    "phone": "+91 341 244 2140",
+    "phoneUnformatted": "+913412442140",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6077809,
+      "lng": 87.1150918
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ4SF1shER9zkRc5Gfxjogwf0",
+    "categories": [
+      "Hospital"
+    ],
+    "fid": "0x39f71111b27521e1:0xfdc1203ac69f9173",
+    "cid": "18284931398913462643",
+    "reviewsCount": 110,
+    "reviewsDistribution": {
+      "oneStar": 13,
+      "twoStar": 6,
+      "threeStar": 22,
+      "fourStar": 28,
+      "fiveStar": 41
+    },
+    "imagesCount": 58,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:38:51.669Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Offerings": [
+        {
+          "Medication disposal": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Marwari%20Relief%20Society%20Hospital%2C%20Raniganj%2C%20Asansol&query_place_id=ChIJ4SF1shER9zkRc5Gfxjogwf0",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Gastroenterologist/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": " Gastroenterologist",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlmvAL79k_wbFlJJ2IukWgEDhyxdQIzFggZtUKdNrxbtUL3G8UglMSArsPA07LCO2cOPDFIZRW_gMDuh75eim2THRPory31suI7YXByppYETX9S5yuCUCeCRPU-sDD__acyP0u5=w408-h306-k-no",
+    "kgmid": "/g/11c1wsr_74",
+    "businessProfileId": null
+  },
+  {
+    "title": "School Para (Gyan Pradip)",
+    "subTitle": "স্কুল পারা (জ্ঞান প্রদীপ)",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Coaching center",
+    "address": "High school, School para, beside of, Raniganj, West Bengal 713347, India",
+    "neighborhood": null,
+    "street": "High school, School para, beside of",
+    "city": "Raniganj",
+    "postalCode": "713347",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "http://gyanpradip.in/",
+    "phone": "+91 93393 12131",
+    "phoneUnformatted": "+919339312131",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6063384,
+      "lng": 87.1135836
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ3ZoJc6YR9zkRriKGqT9qU0o",
+    "categories": [
+      "Coaching center",
+      "Chess instructor",
+      "Educational institution"
+    ],
+    "fid": "0x39f711a673099add:0x4a536a3fa98622ae",
+    "cid": "5355741203533275822",
+    "reviewsCount": 60,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 3,
+      "fourStar": 3,
+      "fiveStar": 52
+    },
+    "imagesCount": 73,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:38:51.670Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:30 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:30 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8:30 AM to 1:30 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Online classes": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": false
+        },
+        {
+          "Wheelchair accessible seating": false
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        }
+      ],
+      "Exams": [
+        {
+          "CBSE Board": true
+        },
+        {
+          "ICSE Board": true
+        },
+        {
+          "JEE": true
+        },
+        {
+          "NEET": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=School%20Para%20(Gyan%20Pradip)&query_place_id=ChIJ3ZoJc6YR9zkRriKGqT9qU0o",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Gastroenterologist/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": " Gastroenterologist",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlSoOKyl0zXemloKnanopbtWRC1l9peymXZScyHhRAL2Wx0GtOWvh_v9y-tvLjTKxmsrq5JLzNoHUkB3R9O8-Hwu7-BlgiJgKAFOT7E1dt1fWSzBoltJvTS6jtwV7BheNiq2tFG-w=w426-h240-k-no",
+    "kgmid": "/g/11j5qdy_lt",
+    "businessProfileId": "8944157534983587123"
+  },
+  {
+    "title": "Dr. Ranbir Singh Diagnostic Centre and Polyclinic",
+    "subTitle": "ডিআর. রণবীর সিং ডায়াগনস্টিক সেন্টার অ্যান্ড পল্য্চ্লিনিক",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Diagnostic center",
+    "address": "North bazar, Hari mandir para, near Bamakali fitness centre, Andal, West Bengal 713321, India",
+    "neighborhood": null,
+    "street": "North bazar, Hari mandir para, near Bamakali fitness centre",
+    "city": "Andal",
+    "postalCode": "713321",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 62961 12578",
+    "phoneUnformatted": "+916296112578",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.5826322,
+      "lng": 87.1923702
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJD2N7H64T9zkR6xMenn46ntc",
+    "categories": [
+      "Diagnostic center",
+      "Biochemistry lab",
+      "Blood testing service",
+      "Dermatologist",
+      "Gynecologist",
+      "Medical Center",
+      "Medical laboratory",
+      "Otolaryngologist",
+      "Pathologist",
+      "Skin care clinic"
+    ],
+    "fid": "0x39f713ae1f7b630f:0xd79e3a7e9e1e13eb",
+    "cid": "15536920079967851499",
+    "reviewsCount": 21,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 3,
+      "fiveStar": 17
+    },
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:38:51.670Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 7 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Onsite services": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        },
+        {
+          "Restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cash-only": true
+        },
+        {
+          "Google Pay": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Ranbir%20Singh%20Diagnostic%20Centre%20and%20Polyclinic&query_place_id=ChIJD2N7H64T9zkR6xMenn46ntc",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Gastroenterologist/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": " Gastroenterologist",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk7RCslceYpDcYgXsCdhuztEZ0zIgLJK1BSaXweglyrGtkcWvcKHV6ubG8mlclDYZaiW33mGsJ4g9d2wnEWdPnniuRaaeh_G9_SIjBrLr8TY2IRUjZKSMfAGz7DZU-GloLgPxldZU6QZi__=w426-h240-k-no",
+    "kgmid": "/g/11xgjr0h9m",
+    "businessProfileId": "17078741081164592989"
+  },
+  {
+    "title": "Spondon Homeo Clinic (Dr Jayanta Mukherjee)",
+    "subTitle": "স্পন্দন হোমিও ক্লিনিক (ডিআর জয়ন্ত মুখার্জি)",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "42.N.S.B, road Mallick market, opp. to drinks corner, Raniganj, West Bengal 713347, India",
+    "neighborhood": null,
+    "street": "42.N.S.B, road Mallick market, opp. to drinks corner",
+    "city": "Raniganj",
+    "postalCode": "713347",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 94754 84826",
+    "phoneUnformatted": "+919475484826",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6084412,
+      "lng": 87.1148502
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJV-33AwcR9zkRKernZ_eT8Ew",
+    "categories": [
+      "Doctor"
+    ],
+    "fid": "0x39f7110703f7ed57:0x4cf093f767e7ea29",
+    "cid": "5544093832102537769",
+    "reviewsCount": 3,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 3
+    },
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:38:51.670Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 1:30 PM, 5 to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 1:30 PM, 5 to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 1:30 PM, 5 to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 1:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 1:30 PM, 5 to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 1:30 PM, 5 to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9:30 AM to 1:30 PM, 5 to 7 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Payments": [
+        {
+          "Google Pay": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Spondon%20Homeo%20Clinic%20(Dr%20Jayanta%20Mukherjee)&query_place_id=ChIJV-33AwcR9zkRKernZ_eT8Ew",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Gastroenterologist/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": " Gastroenterologist",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnBpVH0reTnZiYEjN0qOF_E9sQLlALuyaQ6GEtKlwKf8Jp6_UrD7tnNrkZjie-WdWCh4pUH30aFIFVpf44USE71qoRh0j1VBwuZmcTS7VsBd2z3T7NGtIzla3QnwKZRaUcczOT1EA=w408-h306-k-no",
+    "kgmid": "/g/11k6jyn8_f",
+    "businessProfileId": "4557343609514353617"
+  },
+  {
+    "title": "Dr. Raghuram Tangirala | Hyderabad Gastroenterologist in Asansol",
+    "subTitle": "ডিআর. রঘুরাম টঙ্গীরালা | হায়দরাবাদ গ্যাস্ট্রোএন্টারোলজিস্ট ইন আসানসোল",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Gastroenterologist",
+    "address": "62 N, SB Gorai Rd, MORE, Islampur, Ismile, Asansol, West Bengal 713301, India",
+    "neighborhood": "Master Para, Islampur, Pathak Bari",
+    "street": "62 N, SB Gorai Rd, MORE",
+    "city": "Ismile, Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://acharjeehealth.in/doctors-post/gastroenterologist-in-asansol-kolkata/",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6767853,
+      "lng": 86.9684606
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJl0dSfWcf9zkR8wVtKWUvfso",
+    "categories": [
+      "Gastroenterologist",
+      "Gastrointestinal surgeon"
+    ],
+    "fid": "0x39f71f677d524797:0xca7e2f65296d05f3",
+    "cid": "14591151954260198899",
+    "reviewsCount": 28,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 2,
+      "fiveStar": 26
+    },
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:38:55.494Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 12 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        },
+        {
+          "Assistive hearing loop": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Raghuram%20Tangirala%20%7C%20Hyderabad%20Gastroenterologist%20in%20Asansol&query_place_id=ChIJl0dSfWcf9zkR8wVtKWUvfso",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Gastroenterologist/@23.436761272869628,86.975395,12z?hl=en",
+    "searchString": " Gastroenterologist",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnxXpU3WeW8mmOv-HjXZHzUcWMLt_JpS_FgzaD79r2VSNjZjOJBf-GATb0nhCRNwMaDbWPQY_NcKLEhoUzj_SOyh2Z6jA7-Tfa6eDIODLL70HDFyj1moqyT_3wyGgkGdrxLXXpaqn9XZYA=w408-h544-k-no",
+    "kgmid": "/g/11z83v3xr5",
+    "businessProfileId": "10762382649785849648"
+  },
+  {
+    "title": "Dr. Binidra Banerjee – Gastroenterologist & Endoscopy Specialist | Acharjee Health Clinic, Asansol",
+    "subTitle": "ডিআর. বিনিদ্র ব্যানার্জি - গ্যাস্ট্রোএন্টারোলজিস্ট & এন্ডোস্কোপি স্পেশালিস্ট | আচার্য হেলথ ক্লিনিক, আসানসোল",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Gastroenterologist",
+    "address": "62 N, SB Gorai Rd, Ismile, Islampur, more, Asansol, West Bengal 713301, India",
+    "neighborhood": "Ismile, Islampur, more",
+    "street": "62 N, SB Gorai Rd",
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://acharjeehealth.in/doctors-post/dr-binidra-banerjee-leading-gastroenterologist-in-asansol-durgapur-dhanbad-and-jharkhand/",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6767543,
+      "lng": 86.9687917
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJIVOfrZMf9zkRkiNEcFLLc-Q",
+    "categories": [
+      "Gastroenterologist",
+      "Gastrointestinal surgeon"
+    ],
+    "fid": "0x39f71f93ad9f5321:0xe473cb5270442392",
+    "cid": "16461724617900565394",
+    "reviewsCount": 21,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 19
+    },
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:38:55.494Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 10:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 10:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 10:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 10:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 10:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 2 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        },
+        {
+          "Assistive hearing loop": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Binidra%20Banerjee%20%E2%80%93%20Gastroenterologist%20%26%20Endoscopy%20Specialist%20%7C%20Acharjee%20Health%20Clinic%2C%20Asansol&query_place_id=ChIJIVOfrZMf9zkRkiNEcFLLc-Q",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Gastroenterologist/@23.436761272869628,86.975395,12z?hl=en",
+    "searchString": " Gastroenterologist",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkPyNhwRc5v3VhprwER71l3nW1Nj98mMosaiifcXtqF9b-0M7mFgkOYG_01dXzQTO_V2__21Nvl8IBVGain2SOjMU4EkO30rlIHIOxaf2Taap207ZkaAyzdi43n3iT2oP7ImGO1SSjti2Hs=w408-h544-k-no",
+    "kgmid": "/g/11n42nqx3g",
+    "businessProfileId": "10516228347999237162"
+  },
+  {
+    "title": "Dr. Kranthi Kumar Pasupuleti Best Gastroenterologist from Hyderabad now in Asansol",
+    "subTitle": "ডিআর. ক্রান্তি কুমার পশুপালেটি বেস্ট গ্যাস্ট্রোএন্টারোলজিস্ট ফ্রম হায়দরাবাদ নাও ইন আসানসোল",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Gastroenterologist",
+    "address": "Ismile more, 256/2, SB Gorai Rd, Islampur, Hamid Nagar, Asansol, West Bengal 713304, India",
+    "neighborhood": "Islampur, Hamid Nagar",
+    "street": "Ismile more, 256/2, SB Gorai Rd",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://acharjeehealth.in/",
+    "phone": "+91 73649 21002",
+    "phoneUnformatted": "+917364921002",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6841503,
+      "lng": 86.9553096
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJtxKQ7-cf9zkRio43NrSn-yU",
+    "categories": [
+      "Gastroenterologist",
+      "Gastrointestinal surgeon"
+    ],
+    "fid": "0x39f71fe7ef9012b7:0x25fba7b436378e8a",
+    "cid": "2736965591003270794",
+    "reviewsCount": 69,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 2,
+      "fourStar": 3,
+      "fiveStar": 64
+    },
+    "imagesCount": 19,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:38:55.494Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 1:30 AM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 1:30 PM, 6:30 to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 1:30 PM, 6:30 to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 1:30 PM, 6:30 to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 1:30 PM, 6:30 to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 1:30 PM, 6:30 to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 to 11:30 AM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Kranthi%20Kumar%20Pasupuleti%20Best%20Gastroenterologist%20from%20Hyderabad%20now%20in%20Asansol&query_place_id=ChIJtxKQ7-cf9zkRio43NrSn-yU",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Gastroenterologist/@23.436761272869628,86.975395,12z?hl=en",
+    "searchString": " Gastroenterologist",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl2SjacR2UMradHewS7c4eEnvpapmfQMdzcqhOKNRN3cA4o3IdJ9sB5E7ga3nvc7b5X8LuYxfvytP8RN4Mw92wXQutXIN5SSkg-IgiVq3IdpsE4oJ2iSMCW-5oXoAOky6uktvyblpjk9RL8=w408-h306-k-no",
+    "kgmid": "/g/11w9yh359k",
+    "businessProfileId": "4107395912336002283"
+  },
+  {
+    "title": "Dr t k roy",
+    "subTitle": "ডাঃ টি কে রয়",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Medical Center",
+    "address": "H5JQ+4VV, Durgapur, Andal, West Bengal 713321, India",
+    "neighborhood": "Durgapur",
+    "street": "H5JQ+4VV",
+    "city": "Andal",
+    "postalCode": "713321",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.5803622,
+      "lng": 87.1896602
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJqfPKLe4T9zkRuf08brUyjIw",
+    "categories": [
+      "Medical Center"
+    ],
+    "fid": "0x39f713ee2dcaf3a9:0x8c8c32b56e3cfdb9",
+    "cid": "10127525416869363129",
+    "reviewsCount": 9,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 1,
+      "fiveStar": 7
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:38:55.494Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20t%20k%20roy&query_place_id=ChIJqfPKLe4T9zkRuf08brUyjIw",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Gastroenterologist/@23.436761272869628,86.975395,12z?hl=en",
+    "searchString": " Gastroenterologist",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SJO39VIO6Go0F_e5ajX3mA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=329.76755&pitch=0&thumbfov=100",
+    "kgmid": "/g/11lgd0302b",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dr. G . RAHUL, Gastroenterology , HEALTHWORLD HOSPITAL,ASANSOL",
+    "subTitle": "ডিআর. জি . আরএএইচইউএল, গ্যাস্ট্রোএন্টারোলজি , হেলথওর্ল্ড হাসপাতাল,আসানসোল",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Gastroenterologist",
+    "address": "Healthworld hospital, Shristinagar, Asansol, West Bengal 713359, India",
+    "neighborhood": "Shristinagar",
+    "street": "Healthworld hospital",
+    "city": "Asansol",
+    "postalCode": "713359",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.7042388,
+      "lng": 86.9481751
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJb2ovDqcf9zkRJDpL2Lb_lL0",
+    "categories": [
+      "Gastroenterologist"
+    ],
+    "fid": "0x39f71fa70e2f6a6f:0xbd94ffb6d84b3a24",
+    "cid": "13660824730499496484",
+    "reviewsCount": 13,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 3,
+      "fiveStar": 9
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:38:55.494Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20G%20.%20RAHUL%2C%20Gastroenterology%20%2C%20HEALTHWORLD%20HOSPITAL%2CASANSOL&query_place_id=ChIJb2ovDqcf9zkRJDpL2Lb_lL0",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Gastroenterologist/@23.436761272869628,86.975395,12z?hl=en",
+    "searchString": " Gastroenterologist",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmDYLmBbMNX-tglYy2_8tdKIOEHnTR8ae4dvBYrS7_beBnuWv__RTP5BvA-LVKNv8U3ZQ-n265yfyqgExNjHIWRE-8U_8nC70wTvu982Dq4r4LY9i6MemZNu-WlsJEyVGxUhR7DxIXeT-k=w408-h997-k-no",
+    "kgmid": "/g/11lyx700h4",
+    "businessProfileId": "18081245219040235273"
+  }
+]

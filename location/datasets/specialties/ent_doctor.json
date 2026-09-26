@@ -1,0 +1,4341 @@
+[
+  {
+    "title": "Hope ENT Care",
+    "subTitle": "হোপ ইএনটি কেয়ার",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Hospital",
+    "address": "J4J8+369, Raniganj-Bansra Road, beside Gope Medical, Searsole Rajbari, Rambagan Doctor's Colony, Raniganj, West Bengal 713358, India",
+    "neighborhood": "Searsole Rajbari, Rambagan Doctor's Colony",
+    "street": "J4J8+369, Raniganj-Bansra Road, beside Gope Medical",
+    "city": "Raniganj",
+    "postalCode": "713358",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6301558,
+      "lng": 87.1156003
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJeyRJyg4R9zkRVVKSmRJfGeY",
+    "categories": [
+      "Hospital"
+    ],
+    "fid": "0x39f7110eca49247b:0xe6195f1299925255",
+    "cid": "16580388036631745109",
+    "reviewsCount": 13,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 11
+    },
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:08:56.042Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hope%20ENT%20Care&query_place_id=ChIJeyRJyg4R9zkRVVKSmRJfGeY",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.436761272869628,86.975395,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmOze-cdmKc9EwMu4KJDS80yN2vcWlSWx--nYvfgPS7Kvfq2ki92MgorDQLWz3F_s-Qf6xAS1XB4Ln_au73Z9yyHWgpOX__fkuFbRyGQmvTWjwl4LJeHr_mYWCG_jmfutyy4JMUc_Q=w426-h240-k-no",
+    "kgmid": "/g/11h_9g7vs4",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dr.Tania Mukherjee ENT Specialist | Best Ear Nose & Throat Doctor in Asansol",
+    "subTitle": "ডিআর.তানিয়া মুখার্জি ইএনটি স্পেশালিস্ট | বেস্ট আর নোস & থ্রোট ডক্টর ইন আসানসোল",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Otolaryngologist",
+    "address": "Mishra Medcare, Doctor Chamber, 192, Vivekananda Sarani, near Bhagat Singh More, Kanyapur, Asansol, West Bengal 713304, India",
+    "neighborhood": "Kanyapur",
+    "street": "Mishra Medcare, Doctor Chamber, 192, Vivekananda Sarani, near Bhagat Singh More",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "http://orthoentclinic.com/",
+    "phone": "+91 81454 71272",
+    "phoneUnformatted": "+918145471272",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6964302,
+      "lng": 86.9522741
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJQy_WQVvy_a4RWDU6wgEd8hA",
+    "categories": [
+      "Otolaryngologist",
+      "Ear piercing service",
+      "Endoscopist"
+    ],
+    "fid": "0xaefdf25b41d62f43:0x10f21d01c23a3558",
+    "cid": "1221070342361593176",
+    "reviewsCount": 362,
+    "reviewsDistribution": {
+      "oneStar": 21,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 9,
+      "fiveStar": 331
+    },
+    "imagesCount": 28,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:08:56.042Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 10 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Assistive hearing loop": false
+        },
+        {
+          "Wheelchair accessible restroom": false
+        },
+        {
+          "Wheelchair accessible seating": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.Tania%20Mukherjee%20ENT%20Specialist%20%7C%20Best%20Ear%20Nose%20%26%20Throat%20Doctor%20in%20Asansol&query_place_id=ChIJQy_WQVvy_a4RWDU6wgEd8hA",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.436761272869628,86.975395,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmMgpo9FUuluFuY_ALjH5cipxaIRBHa43-50nZCDmcvoZZzFnvwe-ixYhl2IPo2IMhZ28zB20e2TkEr-ZPRjdbyH2KoqVqy7kkGXtqfMyGpM5hYKv-0IgDtC5Cck0VpYF4czJL81_a5iJe4=w533-h240-k-no",
+    "kgmid": "/g/11wftlrxc1",
+    "businessProfileId": "2233745092671074306"
+  },
+  {
+    "title": "Best ENT Surgeons in Asansol,Acharjee Health Clinic",
+    "subTitle": "বেস্ট ইএনটি সার্জনস ইন আসানসোল,আচার্য হেলথ ক্লিনিক",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Otolaryngologist",
+    "address": "62 N, S.B Gorai Road, opp. IMA House, Master Para, Ismile More, Islampur, Pathak Bari, Asansol, West Bengal 713301, India",
+    "neighborhood": "Master Para, Ismile More, Islampur, Pathak Bari",
+    "street": "62 N, S.B Gorai Road, opp. IMA House",
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://acharjeehealth.in/",
+    "phone": "+91 73649 21002",
+    "phoneUnformatted": "+917364921002",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6767652,
+      "lng": 86.9688459
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJaSVS8A4f9zkR4E9wh6EZ0hk",
+    "categories": [
+      "Otolaryngologist",
+      "Head and neck surgeon",
+      "Otolaryngology clinic"
+    ],
+    "fid": "0x39f71f0ef0522569:0x19d219a187704fe0",
+    "cid": "1860577777610149856",
+    "reviewsCount": 371,
+    "reviewsDistribution": {
+      "oneStar": 32,
+      "twoStar": 1,
+      "threeStar": 1,
+      "fourStar": 7,
+      "fiveStar": 330
+    },
+    "imagesCount": 22,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:08:56.042Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 5 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Best%20ENT%20Surgeons%20in%20Asansol%2CAcharjee%20Health%20Clinic&query_place_id=ChIJaSVS8A4f9zkR4E9wh6EZ0hk",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.436761272869628,86.975395,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmPLyPRhhD6YpM3ulqvZ59Oc1D6mzT_aFURtZwIgtWtrTRFr7TVVrL12zWaMp_dVaUQC9Bvs9iKwAj71PiPVEasy0XiUgu8WrsRXn8JfSCMbWiMTJpMgOVgADKJ-yIFSEWeOQ4L_y-aq5nk=w408-h306-k-no",
+    "kgmid": "/g/11xl_5r3pm",
+    "businessProfileId": "7343982615026655347"
+  },
+  {
+    "title": "Dr Lalit Ray ENT Surgeon | INDIA'S BEST DOCTOR AWARDEE",
+    "subTitle": "ডিআর ললিত রায় ইএনটি সার্জন | আইএনডিআইএ'এস বিইএসটি ডিওসিটিওআর অ্যাওয়ার্ড",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Otolaryngologist",
+    "address": "Midwest Hospital, Apcar Garden, Asansol, West Bengal 713304, India",
+    "neighborhood": "Apcar Garden",
+    "street": "Midwest Hospital",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://drlalitrayent.com/public/",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6938868,
+      "lng": 86.9519135
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJrfRjDAAf9zkRqfDkqQHGyyQ",
+    "categories": [
+      "Otolaryngologist",
+      "Doctor",
+      "Endoscopist",
+      "Otolaryngology clinic",
+      "Speech pathologist",
+      "Surgeon"
+    ],
+    "fid": "0x39f71f000c63f4ad:0x24cbc601a9e4f0a9",
+    "cid": "2651430516085289129",
+    "reviewsCount": 350,
+    "reviewsDistribution": {
+      "oneStar": 26,
+      "twoStar": 0,
+      "threeStar": 2,
+      "fourStar": 4,
+      "fiveStar": 318
+    },
+    "imagesCount": 38,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:08:56.043Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10:30 AM to 1:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10:30 AM to 1:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10:30 AM to 1:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10:30 AM to 1:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10:30 AM to 1:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10:30 AM to 1:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Lalit%20Ray%20ENT%20Surgeon%20%7C%20INDIA'S%20BEST%20DOCTOR%20AWARDEE&query_place_id=ChIJrfRjDAAf9zkRqfDkqQHGyyQ",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.436761272869628,86.975395,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmPgfs3aFyHA8NB5zfpozmi4VDzQzeh4C516m_EaBH0UO6D2Rr-O9E6GgGyBjbyFeoUgM5Czr2-Fx2ckl07ncvrqM8p85wNNkYSftxJZ_Vn0tNNRzEDjYdalCvOVagUGsn7WZXZzzo-tweYn=w408-h544-k-no",
+    "kgmid": "/g/11y2pt2gwt",
+    "businessProfileId": "10742214964174128921"
+  },
+  {
+    "title": "Dr. S.K.Basu, MS(ENT) ENT",
+    "subTitle": "ডিআর. এস.কে.বসু, এমএস(ইএনটি) ইএনটি",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Otolaryngologist",
+    "address": "AKASH DEEP, Hill view Park South, Chelidanga, Asansol, West Bengal 713304, India",
+    "neighborhood": "Hill view Park South, Chelidanga",
+    "street": "AKASH DEEP",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 94344 42324",
+    "phoneUnformatted": "+919434442324",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.685432,
+      "lng": 86.9540084
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJDXGtIC4f9zkRyt3SqlKlnMg",
+    "categories": [
+      "Otolaryngologist"
+    ],
+    "fid": "0x39f71f2e20ad710d:0xc89ca552aad2ddca",
+    "cid": "14455610678424296906",
+    "reviewsCount": 53,
+    "reviewsDistribution": {
+      "oneStar": 8,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 45
+    },
+    "imagesCount": 72,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:08:56.043Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 to 11 AM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 to 11 AM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 to 11 AM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 to 11 AM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 to 11 AM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 to 11 AM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11:15 AM to 1 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20S.K.Basu%2C%20MS(ENT)%20ENT&query_place_id=ChIJDXGtIC4f9zkRyt3SqlKlnMg",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.436761272869628,86.975395,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmPk0pHdIeImvkQemKfiUEJjcIX0i3ZG3BJjuPhCueqZwOJHjpaAVKr5l-PtWhp4eCJfPaLTqw_r_76FmLxhiMEd5vbAfD0_srpZdc9Qv8ZuE9zXc3JD5yUXegzIkMpPEy40kBpR=w408-h408-k-no",
+    "kgmid": "/g/11fhv9ypqw",
+    "businessProfileId": "10662125172630591840"
+  },
+  {
+    "title": "Dr. B. K. Bhattacharjee",
+    "subTitle": "ডিআর. বি. কে. ভট্টাচার্য",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "J4H8+WR3, Unnamed Road, Rambagan Doctor's Colony, Raniganj, West Bengal 713358, India",
+    "neighborhood": "Rambagan Doctor's Colony",
+    "street": "J4H8+WR3, Unnamed Road",
+    "city": "Raniganj",
+    "postalCode": "713358",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 81588 08978",
+    "phoneUnformatted": "+918158808978",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6297648,
+      "lng": 87.1170602
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ79KbtjIR9zkRa4dbo12IloE",
+    "categories": [
+      "Doctor"
+    ],
+    "fid": "0x39f71132b69bd2ef:0x8196885da35b876b",
+    "cid": "9337800813153322859",
+    "reviewsCount": 53,
+    "reviewsDistribution": {
+      "oneStar": 6,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 3,
+      "fiveStar": 44
+    },
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:08:56.043Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 1 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 1 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 1 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 1 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 1 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 1 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20B.%20K.%20Bhattacharjee&query_place_id=ChIJ79KbtjIR9zkRa4dbo12IloE",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.436761272869628,86.975395,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmPG24tD7l8ZXifk43sJsK-uNwP0aKw5rbXQjP40qbXkgq3cfghn6_SvI9PRgaWvvkzLvcbTw_MaZQTjs58uXmN_cBlQmMUdJmVRsqNw30taqghTWszhjWj6ovHg6S19E3wB_eJ4TiJxWWBh=w408-h306-k-no",
+    "kgmid": "/g/11hdxg64f5",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dr. Sanjai Rastogi- Head & Neck Surgeons In Raniganj",
+    "subTitle": "ডিআর. সঞ্জয় রাস্তোগি- হেড & নেক সার্জনস ইন রানীগঞ্জ",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Otolaryngologist",
+    "address": "Hope Nursing Home A/ 88, Nsb Road, East, Searsole Rajbari, Raniganj, West Bengal 713358, India",
+    "neighborhood": "Searsole Rajbari",
+    "street": "Hope Nursing Home A/ 88, Nsb Road, East",
+    "city": "Raniganj",
+    "postalCode": "713358",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://drsanjairastogi.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6305883,
+      "lng": 87.1131759
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJfzW7oOIR9zkRh7FTi38kqWk",
+    "categories": [
+      "Otolaryngologist",
+      "Oral surgeon",
+      "Orthopedic clinic",
+      "Orthopedic surgeon",
+      "Orthotics & prosthetics service",
+      "Otolaryngology clinic",
+      "Pediatric orthopedic surgeon"
+    ],
+    "fid": "0x39f711e2a0bb357f:0x69a9247f8b53b187",
+    "cid": "7613656775263498631",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:08:57.611Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "2 to 3 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "2 to 3 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "2 to 3 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "2 to 3 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "2 to 3 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "2 to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "2 to 3 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Payments": [
+        {
+          "Google Pay": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Sanjai%20Rastogi-%20Head%20%26%20Neck%20Surgeons%20In%20Raniganj&query_place_id=ChIJfzW7oOIR9zkRh7FTi38kqWk",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=l1adUQ4Pl86r3POeGdxOWA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=81.10637&pitch=0&thumbfov=100",
+    "kgmid": "/g/11pd340qyl",
+    "businessProfileId": "394752696262715928"
+  },
+  {
+    "title": "Hope Nursing Home",
+    "subTitle": "হোপ নার্সিং হোম",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Nursing home",
+    "address": "A/88, NSB Rd, Raniganj, West Bengal 713358, India",
+    "neighborhood": null,
+    "street": "A/88, NSB Rd",
+    "city": "Raniganj",
+    "postalCode": "713358",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://hopenursinghome.in/",
+    "phone": "+91 94757 45869",
+    "phoneUnformatted": "+919475745869",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6307461,
+      "lng": 87.1151552
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ47O5jTAR9zkR3ywc4DKuoBk",
+    "categories": [
+      "Nursing home"
+    ],
+    "fid": "0x39f711308db9b3e3:0x19a0ae32e01c2cdf",
+    "cid": "1846667380753444063",
+    "reviewsCount": 224,
+    "reviewsDistribution": {
+      "oneStar": 22,
+      "twoStar": 9,
+      "threeStar": 8,
+      "fourStar": 28,
+      "fiveStar": 157
+    },
+    "imagesCount": 40,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:08:57.611Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Children": [
+        {
+          "Good for kids": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hope%20Nursing%20Home&query_place_id=ChIJ47O5jTAR9zkR3ywc4DKuoBk",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm0FruW8XxxsOa_Mj6YemoX5HmOfyMkT0RTpdn_POZG4hr7ZdQcb2Z2KJqytRJYVRD_RTDTJR0DzCE1DhdDqWa2hedGAPmatAUP-FF1jRF2zvAcqFDnc0OSTVPx-7RQC2_4jkwK=w408-h272-k-no",
+    "kgmid": "/g/1hc34lxf4",
+    "businessProfileId": "17272780274086429143"
+  },
+  {
+    "title": "Best Autism Centre in Raniganj - Kumar Residential Speech Therapy Centre",
+    "subTitle": "বেস্ট অটিজম সেন্টার ইন রানীগঞ্জ - কুমার রেসিডেন্সিয়াল স্পিচ থেরাপি সেন্টার",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Otolaryngologist",
+    "address": "Rambagan Doctor's Colony, Raniganj, West Bengal 713347, India",
+    "neighborhood": "Rambagan Doctor's Colony",
+    "street": null,
+    "city": "Raniganj",
+    "postalCode": "713347",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6306301,
+      "lng": 87.1170347
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJdc3ABpwR9zkRtYg_lBk-IVU",
+    "categories": [
+      "Otolaryngologist"
+    ],
+    "fid": "0x39f7119c06c0cd75:0x55213e19943f88b5",
+    "cid": "6134252447037622453",
+    "reviewsCount": null,
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:08:57.611Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Best%20Autism%20Centre%20in%20Raniganj%20-%20Kumar%20Residential%20Speech%20Therapy%20Centre&query_place_id=ChIJdc3ABpwR9zkRtYg_lBk-IVU",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iWh6Fq5d2sdnJofkW6U0bA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=186.18353&pitch=0&thumbfov=100",
+    "kgmid": "/g/11yqflhf2q",
+    "businessProfileId": "12344437958900186032"
+  },
+  {
+    "title": "DR.T.K DUTTA CHAMBER",
+    "subTitle": "ডিআর.টি.কে দত্ত চেম্বার",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Medical Center",
+    "address": "6, GT Rd,Bansra, more, Raniganj, West Bengal 713358, India",
+    "neighborhood": null,
+    "street": "6, GT Rd,Bansra, more",
+    "city": "Raniganj",
+    "postalCode": "713358",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 94345 91273",
+    "phoneUnformatted": "+919434591273",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6335946,
+      "lng": 87.1233803
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJxZq3xPwR9zkRu3W65MsrBdw",
+    "categories": [
+      "Medical Center"
+    ],
+    "fid": "0x39f711fcc4b79ac5:0xdc052bcbe4ba75bb",
+    "cid": "15854126217943479739",
+    "reviewsCount": 4,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 4
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:08:57.611Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 to 10:30 AM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 to 10:30 AM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 to 10:30 AM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 to 10:30 AM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 to 10:30 AM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 to 10:30 AM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=DR.T.K%20DUTTA%20CHAMBER&query_place_id=ChIJxZq3xPwR9zkRu3W65MsrBdw",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnFVIM1brIdjvLEgghlcSS6eWuIsrVRXNSPaTiJ7sjf0DLFSVtVD1ZqFUanm52jz57zJZuXXws8PqyE5EmqsQZU0J_zpExLz5uG3HhExKrMEzmkkU9wGXIyss-j-syjki6tVxVkFw=w426-h240-k-no",
+    "kgmid": "/g/11hz3k770c",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dr Nimisha Chopane",
+    "subTitle": "ডিআর নিমিষা চাপান",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Eye care center",
+    "address": "109, NSB Rd, near eye hospital, Raniganj, West Bengal 713347, India",
+    "neighborhood": null,
+    "street": "109, NSB Rd, near eye hospital",
+    "city": "Raniganj",
+    "postalCode": "713347",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6199512,
+      "lng": 87.1125088
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ2eHDbboR9zkRc3IdxyU0Y64",
+    "categories": [
+      "Eye care center",
+      "Ophthalmologist"
+    ],
+    "fid": "0x39f711ba6dc3e1d9:0xae633425c71d7273",
+    "cid": "12565944722152845939",
+    "reviewsCount": 22,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 22
+    },
+    "imagesCount": 21,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:08:57.611Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Appointments recommended": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Nimisha%20Chopane&query_place_id=ChIJ2eHDbboR9zkRc3IdxyU0Y64",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl3pmBSoQcXf3tdCpLWw54VIttLPo02IhtjU5O2vQehzVsTuoidHd4IUbLVOMF1G5eZ5uyNgxa_IB2ARgvtrphjizuJYH9t2oLa3ZAQjsEU2pnuMi5oIByhnZfXU2M4krDHrvbSNA=w408-h544-k-no",
+    "kgmid": "/g/11s0s1wmy4",
+    "businessProfileId": "10096969769308715079"
+  },
+  {
+    "title": "Dr. P R Ghosh's Clinic",
+    "subTitle": "ডিআর. পি আর ঘোষ'এস ক্লিনিক",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Medical clinic",
+    "address": "J4J9+73G, Rambagan Doctor's Colony, Raniganj, West Bengal 713358, India",
+    "neighborhood": "Rambagan Doctor's Colony",
+    "street": "J4J9+73G",
+    "city": "Raniganj",
+    "postalCode": "713358",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6306897,
+      "lng": 87.1177033
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJtTOuKacR9zkRKnilcQMRE54",
+    "categories": [
+      "Medical clinic"
+    ],
+    "fid": "0x39f711a729ae33b5:0x9e13110371a5782a",
+    "cid": "11390466589039360042",
+    "reviewsCount": 6,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 6
+    },
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:08:57.611Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20P%20R%20Ghosh's%20Clinic&query_place_id=ChIJtTOuKacR9zkRKnilcQMRE54",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Xtv1oZV8PqSYHyYTw4rG7g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=341.6828&pitch=0&thumbfov=100",
+    "kgmid": "/g/11f61ps8n5",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dr. Ranbir Singh Diagnostic Centre and Polyclinic",
+    "subTitle": "ডিআর. রণবীর সিং ডায়াগনস্টিক সেন্টার অ্যান্ড পল্য্চ্লিনিক",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Diagnostic center",
+    "address": "North bazar, Hari mandir para, near Bamakali fitness centre, Andal, West Bengal 713321, India",
+    "neighborhood": null,
+    "street": "North bazar, Hari mandir para, near Bamakali fitness centre",
+    "city": "Andal",
+    "postalCode": "713321",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 62961 12578",
+    "phoneUnformatted": "+916296112578",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.5826322,
+      "lng": 87.1923702
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJD2N7H64T9zkR6xMenn46ntc",
+    "categories": [
+      "Diagnostic center",
+      "Biochemistry lab",
+      "Blood testing service",
+      "Dermatologist",
+      "Gynecologist",
+      "Medical Center",
+      "Medical laboratory",
+      "Otolaryngologist",
+      "Pathologist",
+      "Skin care clinic"
+    ],
+    "fid": "0x39f713ae1f7b630f:0xd79e3a7e9e1e13eb",
+    "cid": "15536920079967851499",
+    "reviewsCount": 21,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 3,
+      "fiveStar": 17
+    },
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:08:57.611Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 7 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Onsite services": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        },
+        {
+          "Restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cash-only": true
+        },
+        {
+          "Google Pay": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Ranbir%20Singh%20Diagnostic%20Centre%20and%20Polyclinic&query_place_id=ChIJD2N7H64T9zkR6xMenn46ntc",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk7RCslceYpDcYgXsCdhuztEZ0zIgLJK1BSaXweglyrGtkcWvcKHV6ubG8mlclDYZaiW33mGsJ4g9d2wnEWdPnniuRaaeh_G9_SIjBrLr8TY2IRUjZKSMfAGz7DZU-GloLgPxldZU6QZi__=w426-h240-k-no",
+    "kgmid": "/g/11xgjr0h9m",
+    "businessProfileId": "17078741081164592989"
+  },
+  {
+    "title": "School Para (Gyan Pradip)",
+    "subTitle": "স্কুল পারা (জ্ঞান প্রদীপ)",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Coaching center",
+    "address": "High school, School para, beside of, Raniganj, West Bengal 713347, India",
+    "neighborhood": null,
+    "street": "High school, School para, beside of",
+    "city": "Raniganj",
+    "postalCode": "713347",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "http://gyanpradip.in/",
+    "phone": "+91 93393 12131",
+    "phoneUnformatted": "+919339312131",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6063384,
+      "lng": 87.1135836
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ3ZoJc6YR9zkRriKGqT9qU0o",
+    "categories": [
+      "Coaching center",
+      "Chess instructor",
+      "Educational institution"
+    ],
+    "fid": "0x39f711a673099add:0x4a536a3fa98622ae",
+    "cid": "5355741203533275822",
+    "reviewsCount": 60,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 3,
+      "fourStar": 3,
+      "fiveStar": 52
+    },
+    "imagesCount": 73,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:08:57.611Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:30 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:30 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8:30 AM to 1:30 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Online classes": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": false
+        },
+        {
+          "Wheelchair accessible seating": false
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        }
+      ],
+      "Exams": [
+        {
+          "CBSE Board": true
+        },
+        {
+          "ICSE Board": true
+        },
+        {
+          "JEE": true
+        },
+        {
+          "NEET": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=School%20Para%20(Gyan%20Pradip)&query_place_id=ChIJ3ZoJc6YR9zkRriKGqT9qU0o",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlSoOKyl0zXemloKnanopbtWRC1l9peymXZScyHhRAL2Wx0GtOWvh_v9y-tvLjTKxmsrq5JLzNoHUkB3R9O8-Hwu7-BlgiJgKAFOT7E1dt1fWSzBoltJvTS6jtwV7BheNiq2tFG-w=w426-h240-k-no",
+    "kgmid": "/g/11j5qdy_lt",
+    "businessProfileId": "8944157534983587123"
+  },
+  {
+    "title": "DR TAHIR 'S CLINIC",
+    "subTitle": "ডিআর তাহির 'এস ক্লিনিক",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Hospital",
+    "address": "J46F+QP3, Dr MN Ghosh Rd, Nabinagar, Raniganj, West Bengal 713347, India",
+    "neighborhood": "Nabinagar",
+    "street": "J46F+QP3, Dr MN Ghosh Rd",
+    "city": "Raniganj",
+    "postalCode": "713347",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 93331 38709",
+    "phoneUnformatted": "+919333138709",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6118927,
+      "lng": 87.1242837
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJlTfLsksR9zkRnpzkRZWxKSQ",
+    "categories": [
+      "Hospital"
+    ],
+    "fid": "0x39f7114bb2cb3795:0x2429b19545e49c9e",
+    "cid": "2605809114091396254",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:08:57.611Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 7:10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 7:10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 7:10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 7:10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 7:10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 7:10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 7:10 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=DR%20TAHIR%20'S%20CLINIC&query_place_id=ChIJlTfLsksR9zkRnpzkRZWxKSQ",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4oW-ZjqUXcpz_891c30SZg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=308.39307&pitch=0&thumbfov=100",
+    "kgmid": "/g/11f7bz174p",
+    "businessProfileId": null
+  },
+  {
+    "title": "DR. SUBRATA MUKHOPADHYAY",
+    "subTitle": "ডিআর. সুব্রত মুখোপাধ্যায়",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Ophthalmologist",
+    "address": "Bazar, North, Andal, West Bengal 713321, India",
+    "neighborhood": "Ramprasadpur",
+    "street": "Bazar, North",
+    "city": "Andal",
+    "postalCode": "713321",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 94346 64400",
+    "phoneUnformatted": "+919434664400",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.5757654,
+      "lng": 87.1853238
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ4YnwR_QS9zkR3BVKIdBCTf4",
+    "categories": [
+      "Ophthalmologist"
+    ],
+    "fid": "0x39f712f447f089e1:0xfe4d42d0214a15dc",
+    "cid": "18324375920519550428",
+    "reviewsCount": 5,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 5
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:08:57.611Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=DR.%20SUBRATA%20MUKHOPADHYAY&query_place_id=ChIJ4YnwR_QS9zkR3BVKIdBCTf4",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bvXd4rOYUU4BkRnp7L7VrA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=321.64047&pitch=0&thumbfov=100",
+    "kgmid": "/g/11f0wnsqvc",
+    "businessProfileId": "13946409308145130785"
+  },
+  {
+    "title": "Dr. Ravi Daruka",
+    "subTitle": "ডিআর. রবি ফারুক",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Eye care center",
+    "address": "Rambagan Doctor's Colony, Raniganj, West Bengal 713347, India",
+    "neighborhood": "Rambagan Doctor's Colony",
+    "street": null,
+    "city": "Raniganj",
+    "postalCode": "713347",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 63623 40432",
+    "phoneUnformatted": "+916362340432",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6318688,
+      "lng": 87.1163868
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ6xKxjCcR9zkRl9sqCL1qWqM",
+    "categories": [
+      "Eye care center"
+    ],
+    "fid": "0x39f711278cb112eb:0xa35a6abd082adb97",
+    "cid": "11770837936204602263",
+    "reviewsCount": 14,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 14
+    },
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:08:57.611Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "5:30 to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "5:30 to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "5:30 to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "5:30 to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "5:30 to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10:30 AM to 12:30 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Ravi%20Daruka&query_place_id=ChIJ6xKxjCcR9zkRl9sqCL1qWqM",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlujnQmh88UT01PRT237ds0Yr5JjlDOiVlZxyar9JYSIw-sXgU-jHc7ToU46nDWNlMKZyWagKyC2K6_uaCL90St13H_wEKss0DimK2P00x05oxwfOi8s2vTEVMM5OOShJ6yfJC_XaDlrB1r=w408-h409-k-no",
+    "kgmid": "/g/11h7c7b9ck",
+    "businessProfileId": "8495366708103643629"
+  },
+  {
+    "title": "Dr.Ritam khan",
+    "subTitle": "ডিআর.ঋতম খান",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Ophthalmologist",
+    "address": "116, NSB Rd, near eye hospital, Raniganj, West Bengal 713347, India",
+    "neighborhood": null,
+    "street": "116, NSB Rd, near eye hospital",
+    "city": "Raniganj",
+    "postalCode": "713347",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 98363 62190",
+    "phoneUnformatted": "+919836362190",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6201988,
+      "lng": 87.1135562
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ4R-cCZQR9zkRFZP_dQnZ9Kc",
+    "categories": [
+      "Ophthalmologist",
+      "Eye care center"
+    ],
+    "fid": "0x39f71194099c1fe1:0xa7f4d90975ff9315",
+    "cid": "12102536733308982037",
+    "reviewsCount": 18,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 17
+    },
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:08:57.611Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7 AM to 12 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7 AM to 12 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 AM to 12 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7 AM to 12 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7 AM to 12 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.Ritam%20khan&query_place_id=ChIJ4R-cCZQR9zkRFZP_dQnZ9Kc",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlawBIFsr8AETn6MQzl7_k-0F27fMhNFk_z5CbvDaJ-lm1YRflhTzo3ULq5oHh9x1mf-z1Zd9HzcGAZwScl-LsclZUqg9Uq4x53PhMCc5XW7LXaX7BmyktIdJTMDR2hWVlV2nTz=w408-h543-k-no",
+    "kgmid": "/g/11s1691ly2",
+    "businessProfileId": "17175007092484204294"
+  },
+  {
+    "title": "Dr C K Ghosh",
+    "subTitle": "ডাঃ সি কে ঘোষ",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Pediatrician",
+    "address": "Ukhra, West Bengal 713363, India",
+    "neighborhood": null,
+    "street": null,
+    "city": "Ukhra",
+    "postalCode": "713363",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 341 266 4234",
+    "phoneUnformatted": "+913412664234",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6518128,
+      "lng": 87.2383315
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJAdEuXVxr9zkRyj4UjaaQ34Q",
+    "categories": [
+      "Pediatrician"
+    ],
+    "fid": "0x39f76b5c5d2ed101:0x84df90a68d143eca",
+    "cid": "9574530377818848970",
+    "reviewsCount": 8,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 4,
+      "fiveStar": 4
+    },
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:08:57.611Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20C%20K%20Ghosh&query_place_id=ChIJAdEuXVxr9zkRyj4UjaaQ34Q",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnTB9ZA17lN_nQeXRSfkycqVv7T3RY9rIyAr26SrrdRd75Avfysef-mQOIitkMaplcMe-pZRkd_rFDS9QbYl6tyWdP70sgtwix8i-yuopoZgrQEneH8Hw93CH20szTQZUZu910=w426-h240-k-no",
+    "kgmid": "/g/11c57wytcv",
+    "businessProfileId": "9490495576221909199"
+  },
+  {
+    "title": "Dr. U.C.Khan's clinic",
+    "subTitle": "ডিআর. ইউ.সি.খান'এস ক্লিনিক",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "80, NSB Rd, Raniganj, West Bengal 713347, India",
+    "neighborhood": null,
+    "street": "80, NSB Rd",
+    "city": "Raniganj",
+    "postalCode": "713347",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6086279,
+      "lng": 87.1146403
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ5QDy37wR9zkR15qMxhfI3zM",
+    "categories": [
+      "Doctor"
+    ],
+    "fid": "0x39f711bcdff200e5:0x33dfc817c68c9ad7",
+    "cid": "3737926220181707479",
+    "reviewsCount": 2,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:00.348Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20U.C.Khan's%20clinic&query_place_id=ChIJ5QDy37wR9zkR15qMxhfI3zM",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 21,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=sTZBDMldggnCaS0ds82zJg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=288.65753&pitch=0&thumbfov=100",
+    "kgmid": "/g/11h8t92m8v",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dr. Debasish Bhattacharya",
+    "subTitle": "ডাঃ দেবাশিস ভট্টাচার্য",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Gynecologist",
+    "address": "NSB Rd, Rambagan Doctor's Colony, Raniganj, West Bengal 713358, India",
+    "neighborhood": "Rambagan Doctor's Colony",
+    "street": "NSB Rd",
+    "city": "Raniganj",
+    "postalCode": "713358",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 94758 60860",
+    "phoneUnformatted": "+919475860860",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6306719,
+      "lng": 87.1142676
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJbfGO_joR9zkRTyI_uSky9I0",
+    "categories": [
+      "Gynecologist"
+    ],
+    "fid": "0x39f7113afe8ef16d:0x8df43229b93f224f",
+    "cid": "10228855808448209487",
+    "reviewsCount": 105,
+    "reviewsDistribution": {
+      "oneStar": 34,
+      "twoStar": 2,
+      "threeStar": 2,
+      "fourStar": 12,
+      "fiveStar": 55
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:00.348Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 3 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 3 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 3 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 3 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Appointments recommended": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Debasish%20Bhattacharya&query_place_id=ChIJbfGO_joR9zkRTyI_uSky9I0",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 22,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkhtyXGTK4ZP5cyPiIB7slPhW-CkciWEP5ZusKJIf4XfngmwT8Ej0tZHgvEs_bfsutlox4yOgrGCgb5G_0GFEzFqdTCFXfycMc_s7CmaEDnU_W0OAQY8bJ6pUxR2NOhN67hu5un7w=w408-h306-k-no",
+    "kgmid": "/g/11c5hj4g_5",
+    "businessProfileId": "16669457301765904604"
+  },
+  {
+    "title": "Dr S K Basu",
+    "subTitle": "ডিআর এস কে বসু",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "Raniganj-Bansra Road, Rambagan Doctor's Colony, Raniganj, West Bengal 713358, India",
+    "neighborhood": "Rambagan Doctor's Colony",
+    "street": "Raniganj-Bansra Road",
+    "city": "Raniganj",
+    "postalCode": "713358",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 99321 33180",
+    "phoneUnformatted": "+919932133180",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6296098,
+      "lng": 87.117093
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJjU0rH2wR9zkRrmuKnZxHH7M",
+    "categories": [
+      "Doctor"
+    ],
+    "fid": "0x39f7116c1f2b4d8d:0xb31f479c9d8a6bae",
+    "cid": "12907113795050695598",
+    "reviewsCount": 59,
+    "reviewsDistribution": {
+      "oneStar": 10,
+      "twoStar": 2,
+      "threeStar": 1,
+      "fourStar": 6,
+      "fiveStar": 40
+    },
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:00.348Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 12 AM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "12 to 6:30 AM, 10 AM to 12 AM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "12 to 6 AM, 10 AM to 5 AM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10:30 AM to 12 AM"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        },
+        {
+          "Google Pay": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20S%20K%20Basu&query_place_id=ChIJjU0rH2wR9zkRrmuKnZxHH7M",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 23,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm5GYL3CDeqdol3_B5Xvr-NSnsdDvGOgw_TveVDFzhI0IIdORpDSpUODOiQeDKf0re_Z1e51lwLJSRkABB2vyAAL-AtEM5HEH6ysHJG96tGepgkflFykujVMNZDbV7QyPq8mG8IPw=w408-h884-k-no",
+    "kgmid": "/g/11gy4_hthx",
+    "businessProfileId": "3459261740672380225"
+  },
+  {
+    "title": "Dr.Arpan Roy Chowdhury",
+    "subTitle": "ডিআর.অর্পণ রয় চৌধুরি",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "H5JQ+3V8, Durgapur, Andal, West Bengal 713321, India",
+    "neighborhood": "Durgapur",
+    "street": "H5JQ+3V8",
+    "city": "Andal",
+    "postalCode": "713321",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 94343 31986",
+    "phoneUnformatted": "+919434331986",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.5801702,
+      "lng": 87.1897179
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJcbd7afcS9zkRksbB1LwQxJ4",
+    "categories": [
+      "Doctor"
+    ],
+    "fid": "0x39f712f7697bb771:0x9ec410bcd4c1c692",
+    "cid": "11440287356637267602",
+    "reviewsCount": 7,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 1,
+      "fiveStar": 4
+    },
+    "imagesCount": 0,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:00.348Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.Arpan%20Roy%20Chowdhury&query_place_id=ChIJcbd7afcS9zkRksbB1LwQxJ4",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 29,
+    "isAdvertisement": false,
+    "imageUrl": null,
+    "kgmid": "/g/11bxbbygz_",
+    "businessProfileId": null
+  },
+  {
+    "title": "Om Medico",
+    "subTitle": "ওম মেডিকো",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "MG Rd, near Allahabad Bank, Ukhra, West Bengal 713363, India",
+    "neighborhood": null,
+    "street": "MG Rd, near Allahabad Bank",
+    "city": "Ukhra",
+    "postalCode": "713363",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 90837 57548",
+    "phoneUnformatted": "+919083757548",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6526077,
+      "lng": 87.2427102
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJuVcGbcVr9zkR4sHBh1972GI",
+    "categories": [
+      "Doctor",
+      "Pharmacy"
+    ],
+    "fid": "0x39f76bc56d0657b9:0x62d87b5f87c1c1e2",
+    "cid": "7122578460916171234",
+    "reviewsCount": 4,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 3
+    },
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:00.348Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 10:15 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 10:15 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 10:15 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 10:15 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 10:15 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8:30 AM to 10:15 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Drive-through": true
+        }
+      ],
+      "Planning": [
+        {
+          "Quick visit": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Om%20Medico&query_place_id=ChIJuVcGbcVr9zkR4sHBh1972GI",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.688036999999998,87.24922694849035,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 30,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkb_j3YH5C2RkYXQ4WmXSVAZkKcmgC3gEGkZEMFUfMeRkeRxH74_mjlLhcpH2G85KrKVAYPlSODh-oxp3m-lZuIiOAzmiUz403JJI4O0-SFPD4NFqr3Rh37PDwhwPZCzD4ZHz-IKQ=w408-h306-k-no",
+    "kgmid": "/g/11q9352k_2",
+    "businessProfileId": "7618086266983107831"
+  },
+  {
+    "title": "Dr. Rituparna Mukherjee, MBBS, MS (ENT)",
+    "subTitle": "ডিআর. ঋতুপর্ণা মুখার্জি, এমবিবিএস, এমএস (ইএনটি)",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Otolaryngologist",
+    "address": "62 N, SB Gorai Rd, opposite of IMA house, Master Para, Islampur, Pathak Bari, Asansol, West Bengal 713301, India",
+    "neighborhood": "Master Para, Islampur, Pathak Bari",
+    "street": "62 N, SB Gorai Rd, opposite of IMA house",
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://acharjeehealth.in/doctors-post/dr-rituparna-mukherjee-mbbs-nilratan-sirkar-medical-college-hospital-kolkata/",
+    "phone": "+91 73649 21002",
+    "phoneUnformatted": "+917364921002",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6767597,
+      "lng": 86.9688673
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJL4a71F8f9zkR_1k7nFqmVg4",
+    "categories": [
+      "Otolaryngologist",
+      "Head and neck surgeon"
+    ],
+    "fid": "0x39f71f5fd4bb862f:0xe56a65a9c3b59ff",
+    "cid": "1033196072626510335",
+    "reviewsCount": 23,
+    "reviewsDistribution": {
+      "oneStar": 4,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 19
+    },
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:05.773Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 9:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 9:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 9:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 9:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 9:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 9:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 2 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        },
+        {
+          "Assistive hearing loop": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Rituparna%20Mukherjee%2C%20MBBS%2C%20MS%20(ENT)&query_place_id=ChIJL4a71F8f9zkR_1k7nFqmVg4",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.939312727130368,87.24922694849035,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmN2thO3PZevAqQ6656sLeVQ1_444BFCLDrtiQ5oCvaUecJdsckXnV9mDp5_ERj6hkRGAa6sEHrajiwFg99T8TKfxl0hSpp7EBPt3fqWsnnSw_HgDc4GtjYGVNXACqNb4cs4TofTrwbkJeQ=w426-h240-k-no",
+    "kgmid": "/g/11z514y57b",
+    "businessProfileId": "6974324151509520675"
+  },
+  {
+    "title": "ENT SPECIALIST CONSULTATION & ENDOSCOPY DIAGNOSIS",
+    "subTitle": "এনে স্পেশালিস্ট কনসালটেশন & এন্ডোস্কোপি ডায়াগনোসিস",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Medical clinic",
+    "address": "Sada Shiv Healthcare, near ACP office and Kidzee School, Ranitala, Kulti, West Bengal 713343, India",
+    "neighborhood": "Ranitala",
+    "street": "Sada Shiv Healthcare, near ACP office and Kidzee School",
+    "city": "Kulti",
+    "postalCode": "713343",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 70036 31523",
+    "phoneUnformatted": "+917003631523",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.7289753,
+      "lng": 86.8421788
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJp6y-X0ff9jkRT_K2abSlYFc",
+    "categories": [
+      "Medical clinic",
+      "Otolaryngology clinic"
+    ],
+    "fid": "0x39f6df475fbeaca7:0x5760a5b469b6f24f",
+    "cid": "6296214473350246991",
+    "reviewsCount": 11,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 10
+    },
+    "imagesCount": 17,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:05.774Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "6 to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "6 to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6 to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6 to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6 to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "1 to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible seating": true
+        },
+        {
+          "Wheelchair accessible restroom": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=ENT%20SPECIALIST%20CONSULTATION%20%26%20ENDOSCOPY%20DIAGNOSIS&query_place_id=ChIJp6y-X0ff9jkRT_K2abSlYFc",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.939312727130368,87.24922694849035,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmNdhbXNxlDobQSl5MBaJ2F5cS3wql_YlcsKhQvmcAWxy91lHW2ATg1zBcpnlhJPEPkkt8yniiiP-nTkEtGHG_q299E62nwJ2E6zttMfAUAawn8VriIKh1qxo0VTV4zW3w_Q_SSG=w426-h240-k-no",
+    "kgmid": "/g/11rsc6cz3g",
+    "businessProfileId": "15417979135621880239"
+  },
+  {
+    "title": "Dr.Sayan Banerjee ENT Specialist",
+    "subTitle": "ডিআর.সায়ন ব্যানার্জি ইএনটি স্পেশালিস্ট",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Otolaryngologist",
+    "address": "Burnpur Rd, beside KHADIMS, Court More, Asansol, West Bengal 713304, India",
+    "neighborhood": "Court More",
+    "street": "Burnpur Rd, beside KHADIMS",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.690594,
+      "lng": 86.9469595
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 2.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJv4omLzIf9zkRJkiYOCobQb4",
+    "categories": [
+      "Otolaryngologist",
+      "Otolaryngology clinic"
+    ],
+    "fid": "0x39f71f322f268abf:0xbe411b2a38984826",
+    "cid": "13709268608844580902",
+    "reviewsCount": 12,
+    "reviewsDistribution": {
+      "oneStar": 7,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 5
+    },
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:05.774Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10:30 AM to 12 AM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10:30 AM to 12 AM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10:30 AM to 12 AM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10:30 AM to 12 AM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10:30 AM to 12 AM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10:30 AM to 12 AM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible entrance": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.Sayan%20Banerjee%20ENT%20Specialist&query_place_id=ChIJv4omLzIf9zkRJkiYOCobQb4",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.939312727130368,87.24922694849035,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmOJxv5g83WYliGl7tk1eqwwks9w5Uv0nX8moW_GBklA9KXoLcYeAORAQdqLBSM-CeEeCLkkIWwfg3oqTgU1rje8LO_a6x0Sn5A0kUI-BIBlXKbpHs7VPagnMMGfjXdLJqQQLww=w536-h240-k-no",
+    "kgmid": "/g/11tf8wtn9f",
+    "businessProfileId": "9621098295054910269"
+  },
+  {
+    "title": "DR SABYASACHI CHAKRAVARTY",
+    "subTitle": "ডিআর সব্যসাচী চক্রবর্তী",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Otolaryngologist",
+    "address": "RV7P+5GP Vinayak Tower, Rupnarayanpur, West Bengal 713386, India",
+    "neighborhood": null,
+    "street": "RV7P+5GP Vinayak Tower",
+    "city": "Rupnarayanpur",
+    "postalCode": "713386",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 79086 97509",
+    "phoneUnformatted": "+917908697509",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.8129375,
+      "lng": 86.8863125
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJW2B2OWbf9jkR4RnvbFDhwU4",
+    "categories": [
+      "Otolaryngologist",
+      "Head and neck surgeon"
+    ],
+    "fid": "0x39f6df663976605b:0x4ec1e1506cef19e1",
+    "cid": "5675064741004777953",
+    "reviewsCount": 14,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 14
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:05.774Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "5:30 to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Friday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=DR%20SABYASACHI%20CHAKRAVARTY&query_place_id=ChIJW2B2OWbf9jkR4RnvbFDhwU4",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.939312727130368,87.24922694849035,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Hx_pgzkzDzsYs91Pc7J5rg&cb_client=search.gws-prod.grass&w=408&h=240&yaw=331.4716&pitch=0&thumbfov=100",
+    "kgmid": "/g/11kqmzzvhk",
+    "businessProfileId": "12840394797555932648"
+  },
+  {
+    "title": "ENT Clinic Dr.Sabyasachi Chakravorty |ENT SURGEON in asansol|",
+    "subTitle": "ইএনটি ক্লিনিক ডিআর.সব্যসাচী চক্রবর্তী |ইএনটি সার্জন ইন আসানসোল|",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Otolaryngologist",
+    "address": "Srija Apartment, Upper, near Aaradhya Health HUb, Chelidanga, Asansol, West Bengal 713304, India",
+    "neighborhood": "Chelidanga",
+    "street": "Srija Apartment, Upper, near Aaradhya Health HUb",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "http://www.aaradhyaclinic.com/",
+    "phone": "+91 80130 11119",
+    "phoneUnformatted": "+918013011119",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6888074,
+      "lng": 86.9526804
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJr-teRQUf9zkRWSg-Ua7I79E",
+    "categories": [
+      "Otolaryngologist",
+      "Audiologist",
+      "Doctor",
+      "Otolaryngology clinic",
+      "Pediatric surgeon",
+      "Speech pathologist",
+      "Surgeon"
+    ],
+    "fid": "0x39f71f05455eebaf:0xd1efc8ae513e2859",
+    "cid": "15127530324373678169",
+    "reviewsCount": 18,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 17
+    },
+    "imagesCount": 71,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:05.774Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "5 to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "5 to 8:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "5 to 8:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "5 to 8:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "5 to 8:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "5 to 8:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "5 to 8:30 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Assistive hearing loop": true
+        },
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=ENT%20Clinic%20Dr.Sabyasachi%20Chakravorty%20%7CENT%20SURGEON%20in%20asansol%7C&query_place_id=ChIJr-teRQUf9zkRWSg-Ua7I79E",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.939312727130368,87.24922694849035,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmO7fJyAHTzm-abzNO5WTeYXpNBOYHFR4xrQMLrtP7Bsq1vXGAvQt5sMDvnUNHBZXR9XgapEyhP56Ke0_yr0UfDeCV-fpvPZfYjiFS111sFvvO9PDh4ujK6mtoaChBTDo1_C9uZjC9QTt31W=w408-h725-k-no",
+    "kgmid": "/g/11x6wr4p6q",
+    "businessProfileId": "4787783350408656273"
+  },
+  {
+    "title": "Aaradhya Health Hub ENT Clinic Dr. Aritro Bhattacharji",
+    "subTitle": "আরাধ্য হেলথ হাব ইএনটি ক্লিনিক ডিআর. অরিত্র ভট্টাচার্য",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Otolaryngologist",
+    "address": "Aaradhya Health Hub, SB Gorai Rd, near St.Marry Goretti School, Chelidanga, Asansol, West Bengal 713304, India",
+    "neighborhood": "Chelidanga",
+    "street": "Aaradhya Health Hub, SB Gorai Rd, near St.Marry Goretti School",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://click2cure.com/best-entspecialist-asansol-draritro/",
+    "phone": "+91 80130 11119",
+    "phoneUnformatted": "+918013011119",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6821573,
+      "lng": 86.957738
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJdWs3MDQf9zkR6-0YV2o6aog",
+    "categories": [
+      "Otolaryngologist",
+      "Doctor",
+      "Surgeon"
+    ],
+    "fid": "0x39f71f3430376b75:0x886a3a6a5718edeb",
+    "cid": "9829733365091724779",
+    "reviewsCount": 25,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 0,
+      "fiveStar": 22
+    },
+    "imagesCount": 59,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:05.774Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 9 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Aaradhya%20Health%20Hub%20ENT%20Clinic%20Dr.%20Aritro%20Bhattacharji&query_place_id=ChIJdWs3MDQf9zkR6-0YV2o6aog",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.939312727130368,87.24922694849035,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmPkvUW1anx_DsO9aUpgTzxAFlN8jRVVDUx0Buro3hEtnUAa7VkC4R3GbEbJgVlN_jnShOA94Lv-N3Ucow9HFuUaVCD2_s3cIxweqQ8M8K0rVucilfwXorO6CzYkwI9VUg95MXOMw6g3uuMS=w408-h544-k-no",
+    "kgmid": "/g/11w3b20fxd",
+    "businessProfileId": "12440423261804751321"
+  },
+  {
+    "title": "Dr. Vemuru Tejasvi | ENT, Sinus, Allergy & Vertigo Consultation | Apollo Hospitals, Hyderabad now in Asansol",
+    "subTitle": "ডিআর. ভেমুরু তেজস্বী | ইএনটি, সাইনাস, অ্যালার্জি & ভার্টিগো কনসালটেশন | অ্যাপোলো হাসপাতাল, হায়দরাবাদ নাও ইন আসানসোল",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Otolaryngologist",
+    "address": "256/2, SB Gorai Rd, opposite IMA house, Master Para, Islampur, Pathak Bari, Asansol, West Bengal 713301, India",
+    "neighborhood": "Master Para, Islampur, Pathak Bari",
+    "street": "256/2, SB Gorai Rd, opposite IMA house",
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://acharjeehealth.in/doctors-post/dr-vemuru-tejasvi-ent-specialist-asansol/",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6767472,
+      "lng": 86.9689077
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJMYvyXhIf9zkRYpxOTEVWVJA",
+    "categories": [
+      "Otolaryngologist",
+      "Doctor",
+      "Head and neck surgeon"
+    ],
+    "fid": "0x39f71f125ef28b31:0x905456454c4e9c62",
+    "cid": "10400032295138270306",
+    "reviewsCount": 6,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 6
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:05.774Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 2 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        },
+        {
+          "Assistive hearing loop": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Vemuru%20Tejasvi%20%7C%20ENT%2C%20Sinus%2C%20Allergy%20%26%20Vertigo%20Consultation%20%7C%20Apollo%20Hospitals%2C%20Hyderabad%20now%20in%20Asansol&query_place_id=ChIJMYvyXhIf9zkRYpxOTEVWVJA",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.939312727130368,87.24922694849035,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmMw4C0XUsvr_YyYELV07zLRBexkcDeG1U9NB7sCaLmbMLpPqPa2oHgJUnaZIh6Bdgc9ylxVc_FNmwSHCNynIdWfaRKJJF8n9IoCns-QW7xaiwofawowpCCi3d2haZ8l9AD-PJYYAOO7gaMg=w408-h272-k-no",
+    "kgmid": "/g/11zypcxgm2",
+    "businessProfileId": "4892941411621655422"
+  },
+  {
+    "title": "Dr. Rajkumar",
+    "subTitle": "डॉ. राजकुमार",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "opposite of MASJID, TALDANGA, Chirkunda, NIRSA, Jharkhand 828202, India",
+    "neighborhood": "TALDANGA",
+    "street": "opposite of MASJID",
+    "city": "Chirkunda, NIRSA",
+    "postalCode": "828202",
+    "state": "Jharkhand",
+    "countryCode": "IN",
+    "phone": "+91 94315 15241",
+    "phoneUnformatted": "+919431515241",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.7445617,
+      "lng": 86.7932483
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJJcbp2gXD9jkRrnzhmbCXCM8",
+    "categories": [
+      "Doctor"
+    ],
+    "fid": "0x39f6c305dae9c625:0xcf0897b099e17cae",
+    "cid": "14918340550416497838",
+    "reviewsCount": 19,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 2,
+      "fourStar": 0,
+      "fiveStar": 17
+    },
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:06.845Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10:30 AM to 1:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10:30 AM to 1:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 1 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10:30 AM to 1:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10:30 AM to 1:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10:30 AM to 1:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Rajkumar&query_place_id=ChIJJcbp2gXD9jkRrnzhmbCXCM8",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.688036999999998,86.70156305150967,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmM4O1wG0Sfh1bosR9vsEUfqKFjUO3WSBWtv1hfSg0hF21lMQ9CBGDF_2mIhpuTLNrVee7y7uw7vTrSwryOI2LM4BQYrJiFvmO-MFzQNOjYRv00Slj0wH54LpjN1AChRA2VxSDq7=w426-h240-k-no",
+    "kgmid": "/g/11hbc183w2",
+    "businessProfileId": "6042346097358484195"
+  },
+  {
+    "title": "Dr. Nesar Alam",
+    "subTitle": "ডাঃ মহঃ নিসার আলম - কিওর ক্লিনিক",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "GT Road, Neamatpur, Asansol, West Bengal 713359, India",
+    "neighborhood": null,
+    "street": "GT Road, Neamatpur",
+    "city": "Asansol, Neamatpur",
+    "postalCode": "713359",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 79088 90518",
+    "phoneUnformatted": "+917908890518",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.7157475,
+      "lng": 86.8839432
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJR03QEhPg9jkR0mIIs0oLbSg",
+    "categories": [
+      "Doctor"
+    ],
+    "fid": "0x39f6e01312d04d47:0x286d0b4ab30862d2",
+    "cid": "2912996949437735634",
+    "reviewsCount": 2,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 1,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 20,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:06.845Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Nesar%20Alam&query_place_id=ChIJR03QEhPg9jkR0mIIs0oLbSg",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.688036999999998,86.70156305150967,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmPsl1RZZLe4CjSE14d_X_V4ur6XJ7no1_ipVubDIuABEJNLUEwYgCoP1FrU3Tawcznzvm_pdnGt9vFRzugRVfPECV2DGpVDflGDaWR5hRA5h2j1R6sER-ZOGDRojvmCZYbAkBXewg=w426-h240-k-no",
+    "kgmid": "/g/11c5_2k6zd",
+    "businessProfileId": "3216287298642671286"
+  },
+  {
+    "title": "Aastha Hospital, Barakar, Asansol-24",
+    "subTitle": "আস্থা হাসপাতাল, বরাকর, আসানসোল-24",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Hospital",
+    "address": "PRMF+85Q, Grand Trunk Rd, Kulti, West Bengal 713324, India",
+    "neighborhood": null,
+    "street": "PRMF+85Q, Grand Trunk Rd",
+    "city": "Kulti",
+    "postalCode": "713324",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 93328 92234",
+    "phoneUnformatted": "+919332892234",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.7333458,
+      "lng": 86.8229911
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJvcFAZADe9jkRvTUQwXIooOU",
+    "categories": [
+      "Hospital"
+    ],
+    "fid": "0x39f6de006440c1bd:0xe5a02872c11035bd",
+    "cid": "16546269504289650109",
+    "reviewsCount": 71,
+    "reviewsDistribution": {
+      "oneStar": 22,
+      "twoStar": 4,
+      "threeStar": 11,
+      "fourStar": 10,
+      "fiveStar": 24
+    },
+    "imagesCount": 75,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:06.845Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Aastha%20Hospital%2C%20Barakar%2C%20Asansol-24&query_place_id=ChIJvcFAZADe9jkRvTUQwXIooOU",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.688036999999998,86.70156305150967,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmPpaW_aipGcIk488gOiMVSs0PEgqswa53ZfRqDNpX07rKyLtvcv3lEvyjtsFlZb53WS_1KEq_-hpR0QdYEednzF6frL_7FcZYt9kPVRc3Wv4dCniq8EkMjzY9p0gwwDOgJpI1S_=w408-h544-k-no",
+    "kgmid": "/g/11c2pk72m5",
+    "businessProfileId": null
+  },
+  {
+    "title": "Shri Hospital, Kulti",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Hospital",
+    "address": "Grand Trunk Rd, near Reliance Petrol Pump, Kulti, West Bengal 713343, India",
+    "neighborhood": null,
+    "street": "Grand Trunk Rd, near Reliance Petrol Pump",
+    "city": "Kulti",
+    "postalCode": "713343",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://shrihospital.org/",
+    "phone": "+91 86956 41880",
+    "phoneUnformatted": "+918695641880",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.7229976,
+      "lng": 86.8583152
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ9wATUcnh9jkRxbHs4RMApJY",
+    "categories": [
+      "Hospital"
+    ],
+    "fid": "0x39f6e1c9511300f7:0x96a40013e1ecb1c5",
+    "cid": "10854801087264502213",
+    "reviewsCount": 346,
+    "reviewsDistribution": {
+      "oneStar": 95,
+      "twoStar": 8,
+      "threeStar": 16,
+      "fourStar": 30,
+      "fiveStar": 197
+    },
+    "imagesCount": 93,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:06.845Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Shri%20Hospital%2C%20Kulti&query_place_id=ChIJ9wATUcnh9jkRxbHs4RMApJY",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.688036999999998,86.70156305150967,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmMcwM2RLPj5E7j-taMQMH92DaEsuDkrAJakOfR_EEFt-dCs_oiNeUMUTJgreXYaLBpO5TRuOoHiI5rPHCtMNzApegDEHIcwW2Bcs0wgi_WfZ-ub3rh_9Peg9DOAvV2snPUqqzB6=w426-h240-k-no",
+    "kgmid": "/g/11j4xq0_5q",
+    "businessProfileId": "2745927700489894307"
+  },
+  {
+    "title": "Unitech Diagnostic Centre (UDC)",
+    "subTitle": "উনিতেচ ডায়াগনস্টিক সেন্টার (ইউডিসি)",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Diagnostic center",
+    "address": "Bus stand, Grand Trunk Rd, Barakar, West Bengal 713324, India",
+    "neighborhood": null,
+    "street": "Bus stand, Grand Trunk Rd",
+    "city": "Barakar",
+    "postalCode": "713324",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 98328 05873",
+    "phoneUnformatted": "+919832805873",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.7346518,
+      "lng": 86.8193936
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ20tS9v7d9jkRVXTaLWUrlTY",
+    "categories": [
+      "Diagnostic center"
+    ],
+    "fid": "0x39f6ddfef6524bdb:0x36952b652dda7455",
+    "cid": "3933097563138978901",
+    "reviewsCount": 5,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 5
+    },
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:06.845Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 7 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Unitech%20Diagnostic%20Centre%20(UDC)&query_place_id=ChIJ20tS9v7d9jkRVXTaLWUrlTY",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.688036999999998,86.70156305150967,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmMsSQDQ1T63M5MPZcr12eKnFQ5XkpUVGiNk5WTgXa9NQUbl_xTF2bOEyn0tHEZVSOuGOBWkTLjryk7x8Of6EjkuXU9R7kO7E6h-6oVJehG9koZ22U6i1xGaITooOi9W7lfKNPCwHQ=w408-h306-k-no",
+    "kgmid": "/g/11c460zdbf",
+    "businessProfileId": "3440484459955645574"
+  },
+  {
+    "title": "Dr Kabir Ali's clinic",
+    "subTitle": "ডিআর কবির আলী'এস ক্লিনিক",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "PRRR+R2M, Kulti, West Bengal 713343, India",
+    "neighborhood": null,
+    "street": "PRRR+R2M",
+    "city": "Kulti",
+    "postalCode": "713343",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 93325 09616",
+    "phoneUnformatted": "+919332509616",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.7420947,
+      "lng": 86.8400496
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 1.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJyS2qMRje9jkRbPIl29SCYls",
+    "categories": [
+      "Doctor"
+    ],
+    "fid": "0x39f6de1831aa2dc9:0x5b6282d4db25f26c",
+    "cid": "6584969455890461292",
+    "reviewsCount": 4,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 0
+    },
+    "imagesCount": 0,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:06.845Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 1 AM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 1 AM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 1 AM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 1 AM"
+      },
+      {
+        "day": "Friday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1 AM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 1 AM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Kabir%20Ali's%20clinic&query_place_id=ChIJyS2qMRje9jkRbPIl29SCYls",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.688036999999998,86.70156305150967,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": null,
+    "kgmid": "/g/11g9jhxf8j",
+    "businessProfileId": null
+  },
+  {
+    "title": "Senior ENT Surgeon Dr Lalit Ray",
+    "subTitle": "সিনিয়র ইএনটি সার্জন ডিআর ললিত রায়",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Otolaryngologist",
+    "address": "MWQR+CQ3, Radha Nagar, Asansol, West Bengal 713304, India",
+    "neighborhood": "Radha Nagar",
+    "street": "MWQR+CQ3",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "http://www.drlalitray.com/",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6885099,
+      "lng": 86.9419163
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJP8P_XwAf9zkR6PMJyqq9cdQ",
+    "categories": [
+      "Otolaryngologist"
+    ],
+    "fid": "0x39f71f005fffc33f:0xd471bdaaca09f3e8",
+    "cid": "15308225149640766440",
+    "reviewsCount": 26,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 24
+    },
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:06.845Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "6:30 to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6:30 to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6:30 to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6:30 to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Senior%20ENT%20Surgeon%20Dr%20Lalit%20Ray&query_place_id=ChIJP8P_XwAf9zkR6PMJyqq9cdQ",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.688036999999998,86.70156305150967,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmMJHImQQXCWw9G5D-NnLX9JrjssOqsyxs-rxR__NFNQAehZiA3tKOwOzewO-OZINVKPYfDhufEolLe2P-hkUTGiVAsYM5aIuX71rUJ33QeYjaxRbFluyg4MbuWTYm5F5nw1rV6u=w408-h351-k-no",
+    "kgmid": "/g/11wvpyz8l8",
+    "businessProfileId": null
+  },
+  {
+    "title": "RC Mallik ENT specialist",
+    "subTitle": "আরসি মল্লিক ইএনটি স্পেশালিস্ট",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Otolaryngologist",
+    "address": "Lord's Tower, Court More, Asansol, West Bengal 713304, India",
+    "neighborhood": "Court More",
+    "street": "Lord's Tower",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.690086,
+      "lng": 86.9464901
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ1Y1lJiUf9zkR5Dn_9jZqC4o",
+    "categories": [
+      "Otolaryngologist"
+    ],
+    "fid": "0x39f71f2526658dd5:0x8a0b6a36f6ff39e4",
+    "cid": "9947160986282572260",
+    "reviewsCount": 9,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 8
+    },
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:06.845Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 12 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 12 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 12 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 12 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=RC%20Mallik%20ENT%20specialist&query_place_id=ChIJ1Y1lJiUf9zkR5Dn_9jZqC4o",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.688036999999998,86.70156305150967,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmNrj65i4dp231p3rnKRi0ugUkpcEMncVA3F8H6jdwhrj4cDoDcmsCgj7-L5p5GqOBmKosqDf5hdTUjqUiM1lw7ClYiyCWoFW20549gEMLLpeFKDtUiEsIAlfb_Q0lvWsEiEzO0ksg=w408-h725-k-no",
+    "kgmid": "/g/11mx882znl",
+    "businessProfileId": null
+  },
+  {
+    "title": "Apollo Hospital's Information Centre",
+    "subTitle": "অ্যাপোলো হাসপাতাল'এস ইনফরমেশন সেন্টার",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Medical group",
+    "address": "SUKHOBRISTI APARTMENT, Samdi Rd, Rupnarayanpur, Chittaranjan, West Bengal 713386, India",
+    "neighborhood": null,
+    "street": "SUKHOBRISTI APARTMENT, Samdi Rd",
+    "city": "Rupnarayanpur, Chittaranjan",
+    "postalCode": "713386",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 90830 51771",
+    "phoneUnformatted": "+919083051771",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.8102971,
+      "lng": 86.8937756
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJk5t5iVrf9jkRGu6KHd7b_W4",
+    "categories": [
+      "Medical group"
+    ],
+    "fid": "0x39f6df5a89799b93:0x6efddbde1d8aee1a",
+    "cid": "7997790260304735770",
+    "reviewsCount": 3,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 0,
+      "fiveStar": 2
+    },
+    "imagesCount": 19,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-24T01:09:06.846Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Apollo%20Hospital's%20Information%20Centre&query_place_id=ChIJk5t5iVrf9jkRGu6KHd7b_W4",
+    "searchPageUrl": "https://www.google.com/maps/search/ENT%20doctor/@23.688036999999998,86.70156305150967,12z?hl=en",
+    "searchString": "ENT doctor",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmN9MZSTuvCMeKIsLPechcaoKrhrzBUdGLvgBRVNBIVa9jzzwGsRg9-i1sH7LWzL1VNRw4GD7yNB5iLsCpdFkuQR6FdBdfEcqQmJ89IpJ3mMk5ocLWo0HlnRiYJyLWXTMf25BA_pQTQ4c1u7=w408-h306-k-no",
+    "kgmid": "/g/11n69x3cbm",
+    "businessProfileId": "7127937474025538604"
+  }
+]

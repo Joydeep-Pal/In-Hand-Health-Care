@@ -1,0 +1,29 @@
+{
+  "name": "smart-doctor-server",
+  "version": "1.0.0",
+  "description": "Smart Doctor - Nearby Healthcare Finder Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "import": "node scripts/importDataset.js"
+  },
+  "keywords": [
+    "healthcare",
+    "nearby",
+    "doctor",
+    "hospital",
+    "pharmacy"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.4",
+    "express": "^4.22.3",
+    "helmet": "^8.3.0",
+    "mongoose": "^9.10.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

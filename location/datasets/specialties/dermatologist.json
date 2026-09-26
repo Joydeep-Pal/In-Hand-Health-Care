@@ -1,0 +1,4699 @@
+[
+  {
+    "title": "Dr Soumyadeep Mandal",
+    "subTitle": "ডিআর সৌম্যদীপ মন্ডল",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dermatologist",
+    "address": "Mahima Pharmacy, Mohishila Colony, SF Road(Silicet Factory Road, Grand Trunk Rd, near Murgasole, attached, Ushagram, Asansol, West Bengal 713303, India",
+    "neighborhood": "Mohishila Colony, attached, Ushagram",
+    "street": "Mahima Pharmacy, Mohishila Colony, SF Road(Silicet Factory Road, Grand Trunk Rd, near Murgasole",
+    "city": "Asansol",
+    "postalCode": "713303",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 79085 21564",
+    "phoneUnformatted": "+917908521564",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6751381,
+      "lng": 86.9917979
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ-RxE0jcZ9zkRO2ZnaCvVUJ8",
+    "categories": [
+      "Dermatologist"
+    ],
+    "fid": "0x39f71937d2441cf9:0x9f50d52b6867663b",
+    "cid": "11479909832579311163",
+    "reviewsCount": 47,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 45
+    },
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:28.185Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Soumyadeep%20Mandal&query_place_id=ChIJ-RxE0jcZ9zkRO2ZnaCvVUJ8",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlz9zlXoG9DO74wE_OBPrStqeUVX3MVby8wkSV5HOeb416ulGPsmjqIxqQIkNqSsAtxlhi4FNfRG53Q5RHfSqMnYOmXiKPazkeqS_00VLLbFqDuGbkwyoh8W-2VoCisIiVuAjEnfVMioIc=w408-h306-k-no",
+    "kgmid": "/g/11nhtp74x4",
+    "businessProfileId": "12663828860127236576"
+  },
+  {
+    "title": "Dr. Atul Kumar",
+    "subTitle": "ডঃ অতুল কুমার",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dermatologist",
+    "address": "Masjid ð, near Hutton Road, near Youth Computer, Pathak Bari, Asansol, West Bengal 713301, India",
+    "neighborhood": "Pathak Bari",
+    "street": "Masjid ð, near Hutton Road, near Youth Computer",
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6816464,
+      "lng": 86.9691411
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ9QWeq3of9zkR7YxkTPxUy44",
+    "categories": [
+      "Dermatologist"
+    ],
+    "fid": "0x39f71f7aab9e05f5:0x8ecb54fc4c648ced",
+    "cid": "10289411216248179949",
+    "reviewsCount": 447,
+    "reviewsDistribution": {
+      "oneStar": 14,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 24,
+      "fiveStar": 409
+    },
+    "imagesCount": 108,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:28.185Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "5 to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "5 to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "5 AM to 8:30 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Atul%20Kumar&query_place_id=ChIJ9QWeq3of9zkR7YxkTPxUy44",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlNhU6glmYi5hgRSRRn0EHS3EanbtMfW1mwsUgMoDc-_O96cWFQ2zivfTPz8aqeyOojFhd0eIfyKIRDaQulNbNz8Rysl5A-j0liEt2P0oPC1MtFWguuTKmrk8FKj5p9OKdGpL8URTLUvNqb=w408-h271-k-no",
+    "kgmid": "/g/11rc6lrpq0",
+    "businessProfileId": "14111715898487775635"
+  },
+  {
+    "title": "Dr. Shreya Poddar",
+    "subTitle": "ডিআর. শ্রেয়া পোদ্দার",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dermatologist",
+    "address": "SUDHANSU PHARMACY, SB Gorai Rd, near AAM BAGAN, VIDYASAGAR ABASAN, PHASE -2, Asansol, West Bengal 713301, India",
+    "neighborhood": "VIDYASAGAR ABASAN, PHASE -2",
+    "street": "SUDHANSU PHARMACY, SB Gorai Rd, near AAM BAGAN",
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 62948 04828",
+    "phoneUnformatted": "+916294804828",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6763938,
+      "lng": 86.9709365
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJGysC5Hsf9zkRzJPi24vhPE4",
+    "categories": [
+      "Dermatologist"
+    ],
+    "fid": "0x39f71f7be4022b1b:0x4e3ce18bdbe293cc",
+    "cid": "5637628824366781388",
+    "reviewsCount": 71,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 69
+    },
+    "imagesCount": 17,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:28.186Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Shreya%20Poddar&query_place_id=ChIJGysC5Hsf9zkRzJPi24vhPE4",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmyPEBG_ySA1Ld-CvyNKefmkaCdBPjr85bAbvbMF_t0T2xxirUsQlmNIbVRBECcQVav4cEllyhMcxdrP7u3yXvoDTAW1YdH82wgMe049-qwu9aiE_oqH9Dj51Bt_sP2brCs4mSNSQ=w408-h306-k-no",
+    "kgmid": "/g/11s2lb7q6k",
+    "businessProfileId": "6263092471762523410"
+  },
+  {
+    "title": "DR.SK MASUD HASSAN",
+    "subTitle": "ডিআর.এসকে মাসুদ হাসান",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dermatologist",
+    "address": "The Hindustan Pharmacy, Hutton Rd, near Ranjon Cabin Sweet Shop, Masjid, Asansol, West Bengal 713301, India",
+    "neighborhood": "Masjid",
+    "street": "The Hindustan Pharmacy, Hutton Rd, near Ranjon Cabin Sweet Shop",
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://skinandhairspecialistmasud.com/",
+    "phone": "+91 97321 44446",
+    "phoneUnformatted": "+919732144446",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6807956,
+      "lng": 86.9690295
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ9e35ENke9zkRj7FeeB6K5k8",
+    "categories": [
+      "Dermatologist"
+    ],
+    "fid": "0x39f71ed910f9edf5:0x4fe68a1e785eb18f",
+    "cid": "5757441037112881551",
+    "reviewsCount": 325,
+    "reviewsDistribution": {
+      "oneStar": 15,
+      "twoStar": 1,
+      "threeStar": 4,
+      "fourStar": 8,
+      "fiveStar": 297
+    },
+    "imagesCount": 31,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:28.186Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "5 to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8:30 AM to 9 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=DR.SK%20MASUD%20HASSAN&query_place_id=ChIJ9e35ENke9zkRj7FeeB6K5k8",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmcWQRxzoO7CU2EFavLz4FXMLb6JcY6v1idmBQQ_pY1No8b01TmWB0XlCqYKA1C2Fuz4IUL_hgFLiYOFrLDEl36ofMs9f01SRj_v0L6wxOsZuGVZMWkj-nQkMUmSW7ST60bMsFti7sOGsBz=w408-h408-k-no",
+    "kgmid": "/g/11f1v6pzxb",
+    "businessProfileId": "7796411159029828915"
+  },
+  {
+    "title": "Dr. H. P. Chakraborty",
+    "subTitle": "ডিআর. এইচ. পি. চক্রবর্তী",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dermatologist",
+    "address": "Plot No-3, B.C Road, near HLG Memorial Hospital, Kalyanpur Housing, Kanyapur, Asansol, West Bengal 713305, India",
+    "neighborhood": "Kalyanpur Housing, Kanyapur",
+    "street": "Plot No-3, B.C Road, near HLG Memorial Hospital",
+    "city": "Asansol",
+    "postalCode": "713305",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://drhpchakraborty.in/",
+    "phone": "+91 70013 87136",
+    "phoneUnformatted": "+917001387136",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.7053408,
+      "lng": 86.9552582
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ_aV4WCwf9zkRX36HteIrzMk",
+    "categories": [
+      "Dermatologist",
+      "Fertility clinic",
+      "Fertility physician",
+      "Sexologist",
+      "Skin care clinic"
+    ],
+    "fid": "0x39f71f2c5878a5fd:0xc9cc2be2b5877e5f",
+    "cid": "14541045549580648031",
+    "reviewsCount": 274,
+    "reviewsDistribution": {
+      "oneStar": 12,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 2,
+      "fiveStar": 260
+    },
+    "imagesCount": 336,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:28.186Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 7:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 7:30 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20H.%20P.%20Chakraborty&query_place_id=ChIJ_aV4WCwf9zkRX36HteIrzMk",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk3yh3Z2rRNYr-0QPoNnDb10Kdvk_kwQzxbE5WC6yxm-G3Dpy-WjDX4EHOAkMyAPmKx16B4GLIblFyN-cl62X0CGYCkMElbbrEgolsxxlHA3R1I3bT42zpumgVupPtTQdQFz8i64w=w408-h544-k-no",
+    "kgmid": "/g/11tmv3tw29",
+    "businessProfileId": "6155105939476673197"
+  },
+  {
+    "title": "Dr. Sadanand Burnwal - MBBS,MD,(DVL)",
+    "subTitle": "ডিআর. সদানন্দ বার্নিয়া - এমবিবিএস,এমডি,(ডিভিএল)",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dermatologist",
+    "address": "Jyoti Apartment, 251, Hutton Rd, near Kali Bari, Pathak Bari, Asansol, West Bengal 713301, India",
+    "neighborhood": "Pathak Bari",
+    "street": "Jyoti Apartment, 251, Hutton Rd, near Kali Bari",
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 62967 02572",
+    "phoneUnformatted": "+916296702572",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6781081,
+      "lng": 86.9683562
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJUfF5lo8f9zkRlQ6LQlA0duc",
+    "categories": [
+      "Dermatologist"
+    ],
+    "fid": "0x39f71f8f9679f151:0xe7763450428b0e95",
+    "cid": "16678575789331648149",
+    "reviewsCount": 118,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 118
+    },
+    "imagesCount": 24,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:28.186Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 10 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Sadanand%20Burnwal%20-%20MBBS%2CMD%2C(DVL)&query_place_id=ChIJUfF5lo8f9zkRlQ6LQlA0duc",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnDk20gJoYpqflNfqGkRllh3M60six3UupdWtR4NzkuWbumj-_2vF-sUmkzhZUiEIggVM6zjwjaqMxKisXgQ4hsBpmolKUhZj078I8eYGfpiMXTaO9OcxsMnPzA0P6Yleo5HnLKo_xgU6nM=w408-h306-k-no",
+    "kgmid": "/g/11n9mwhz4w",
+    "businessProfileId": "5312555803297417055"
+  },
+  {
+    "title": "Dr. Shibashis Chatterjee | Dermatologist | Acharjee Health Clinic",
+    "subTitle": "ডিআর. শিবাশিস চ্যাটার্জি | ডার্মাটোলজিস্ট | আচার্য হেলথ ক্লিনিক",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dermatologist",
+    "address": "256/2, SB Gorai Rd, Islampur, Hamid Nagar, Ismile, Asansol, West Bengal 713301, India",
+    "neighborhood": "Islampur, Hamid Nagar",
+    "street": "256/2, SB Gorai Rd",
+    "city": "Ismile, Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://acharjeehealth.in/",
+    "phone": "+91 73649 21002",
+    "phoneUnformatted": "+917364921002",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6841124,
+      "lng": 86.9553623
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJN0hVJpgf9zkRTptN5nBG4VQ",
+    "categories": [
+      "Dermatologist",
+      "Hair transplantation clinic",
+      "Skin care clinic"
+    ],
+    "fid": "0x39f71f9826554837:0x54e14670e64d9b4e",
+    "cid": "6116247219659971406",
+    "reviewsCount": 61,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 1,
+      "threeStar": 0,
+      "fourStar": 2,
+      "fiveStar": 55
+    },
+    "imagesCount": 33,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:28.186Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10:30 AM to 1:30 PM, 6 to 9:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10:30 AM to 1:30 PM, 6 to 9:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10:30 AM to 1:30 PM, 6 to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10:30 AM to 1:30 PM, 6 to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10:30 AM to 1:30 PM, 6 to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10:30 AM to 1:30 PM, 6 to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 2 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Shibashis%20Chatterjee%20%7C%20Dermatologist%20%7C%20Acharjee%20Health%20Clinic&query_place_id=ChIJN0hVJpgf9zkRTptN5nBG4VQ",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWngtp5w4nwci0Z-SpRs9Hy_K7O8Qx51Tfy5C2XYi2CA8OkJB6G8Og3myLiQkf4oFgO3cqCvAkZFViTpc3jCQNr3eLhpD0l0sQR9QOWiO7HwSCSiQXn7aB97DJacB8zMtmliYHydhjYz9QY=w408-h306-k-no",
+    "kgmid": "/g/11t40gmg74",
+    "businessProfileId": "14270361075778617482"
+  },
+  {
+    "title": "Dr Widhi Agrawal",
+    "subTitle": "ডিআর ভিধি অগ্রল",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dermatologist",
+    "address": "Murgasol Medical Hall, SP Mukherjee Rd, behind Durga Foods, Murgasol, Ushagram, Asansol, West Bengal 713303, India",
+    "neighborhood": "Murgasol, Ushagram",
+    "street": "Murgasol Medical Hall, SP Mukherjee Rd, behind Durga Foods",
+    "city": "Asansol",
+    "postalCode": "713303",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 82504 05055",
+    "phoneUnformatted": "+918250405055",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6800699,
+      "lng": 86.9918827
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJtRlsBsAZ9zkRBQPj4p_Ef8s",
+    "categories": [
+      "Dermatologist",
+      "Cosmetic surgeon",
+      "Health consultant",
+      "Skin care clinic"
+    ],
+    "fid": "0x39f719c0066c19b5:0xcb7fc49fe2e30305",
+    "cid": "14663655102726996741",
+    "reviewsCount": 22,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 2,
+      "fiveStar": 20
+    },
+    "imagesCount": 8,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:28.186Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "11 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 12 AM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Widhi%20Agrawal&query_place_id=ChIJtRlsBsAZ9zkRBQPj4p_Ef8s",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmXHcylLYpm1yfgUHEK_W4v8Jj10dov2VBsV1Z4XG4_12xR_naganH0R7xVK_fBM-lPQQ-6H3WgAC_J--z3QhmWQpGiagrA6DV2T5NuzyCm_60eiR0mxjfxFPACyL3m7Nzah0dF=w408-h544-k-no",
+    "kgmid": "/g/11vxw8tmnp",
+    "businessProfileId": "10154695125521450955"
+  },
+  {
+    "title": "Dermatology & Cosmetic Clinic",
+    "subTitle": "ডার্মাটোলজি & কসমেটিক ক্লিনিক",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dermatologist",
+    "address": "Masjid, &, PharmacyHutton Road, beside The Hindustan Clinic, near Hutton Road, Pathak Bari, Asansol, West Bengal 713301, India",
+    "neighborhood": "Pathak Bari",
+    "street": "Masjid, &, PharmacyHutton Road, beside The Hindustan Clinic, near Hutton Road",
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6821927,
+      "lng": 86.9691005
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ02T_g4Mf9zkRJ-l5HJmfOHY",
+    "categories": [
+      "Dermatologist"
+    ],
+    "fid": "0x39f71f8383ff64d3:0x76389f991c79e927",
+    "cid": "8518734175127857447",
+    "reviewsCount": 4,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 4
+    },
+    "imagesCount": 14,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:28.186Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 10 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible seating": true
+        },
+        {
+          "Wheelchair accessible restroom": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dermatology%20%26%20Cosmetic%20Clinic&query_place_id=ChIJ02T_g4Mf9zkRJ-l5HJmfOHY",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWksZOVQvZq8y-k3pl2lgoZm7UDSPJaVeFQyYOpkXsUZb8XjQntU_6INPTem5hJT26Nun02P4Mv0z0bQpmt95KJ6dVYFDphQX4srtjPitNTSWKxzZ2k3nMBhZ78L0Yw4xrctoGWSnA=w426-h240-k-no",
+    "kgmid": "/g/11hzxgc2p3",
+    "businessProfileId": "2835562647043575615"
+  },
+  {
+    "title": "Dr. Sadanand Burnwal – Dermatologist",
+    "subTitle": "ডিআর. সদানন্দ বার্নিয়া - ডার্মাটোলজিস্ট",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Medical Center",
+    "address": "Tirupati Medical Centre, MB Ln, Pathak Bari, Asansol, West Bengal 713301, India",
+    "neighborhood": "Pathak Bari",
+    "street": "Tirupati Medical Centre, MB Ln",
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6818475,
+      "lng": 86.9787822
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJd6PjGQAf9zkRZwb57G0mzGQ",
+    "categories": [
+      "Medical Center"
+    ],
+    "fid": "0x39f71f0019e3a377:0x64cc266decf90667",
+    "cid": "7263222552610801255",
+    "reviewsCount": 23,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 23
+    },
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:28.186Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Sadanand%20Burnwal%20%E2%80%93%20Dermatologist&query_place_id=ChIJd6PjGQAf9zkRZwb57G0mzGQ",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlx-EzaLbO9-c64Wqz2365o9LONERdxVt6IhRbvwvvpZm4ozrIxrLPKev4_cAKtFlwZH6Ri9vfx_MlWnAG9bHcGwpMMphntu4-anaopGY-7uRIjXbqwAkLs42XFpvUz9LLoQA3fmHUObEk=w408-h725-k-no",
+    "kgmid": "/g/11n49f0grs",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dr Diptasree Sen",
+    "subTitle": "ডিআর দীপ্তিশ্রী সেন",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dermatologist",
+    "address": "PW2J+67R, Asansol - Barakar Rd, opposite The Memorial clinic and Nursing Home, Narshamuda Village, Gopalpur, Asansol, West Bengal 713304, India",
+    "neighborhood": "Narshamuda Village, Gopalpur",
+    "street": "PW2J+67R, Asansol - Barakar Rd, opposite The Memorial clinic and Nursing Home",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.7006009,
+      "lng": 86.9306315
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ78e720Uf9zkRrFHrtWaAW60",
+    "categories": [
+      "Dermatologist"
+    ],
+    "fid": "0x39f71f45dbbbc7ef:0xad5b8066b5eb51ac",
+    "cid": "12491719170069320108",
+    "reviewsCount": 35,
+    "reviewsDistribution": {
+      "oneStar": 10,
+      "twoStar": 2,
+      "threeStar": 2,
+      "fourStar": 4,
+      "fiveStar": 17
+    },
+    "imagesCount": 7,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:28.186Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Diptasree%20Sen&query_place_id=ChIJ78e720Uf9zkRrFHrtWaAW60",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlGCSq9M1EkVaYFx9rOQGH3JHIjpI6BBcH9ZzbzO8GAOcrsc5XkbsVrLqJFpi1zC-pjq_oE6WPeo658m_pVZ20iOAorw3DpSCZF43_LS7JlXdxHCET1_c7qOjVuG3Vf1cGv-8hF=w426-h240-k-no",
+    "kgmid": "/g/11mw77fmh0",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dr Rajat sarkar",
+    "subTitle": "ডিআর রজত সরকার",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dermatologist",
+    "address": "PVF2+VGM, Ram Krishna Sarani Rd, Kulti, West Bengal 713343, India",
+    "neighborhood": null,
+    "street": "PVF2+VGM, Ram Krishna Sarani Rd",
+    "city": "Kulti",
+    "postalCode": "713343",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 98322 22821",
+    "phoneUnformatted": "+919832222821",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.724722,
+      "lng": 86.8512881
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJg2O5_2Th9jkRJ3DTrr4LgI4",
+    "categories": [
+      "Dermatologist"
+    ],
+    "fid": "0x39f6e164ffb96383:0x8e800bbeaed37027",
+    "cid": "10268220064009515047",
+    "reviewsCount": 84,
+    "reviewsDistribution": {
+      "oneStar": 7,
+      "twoStar": 0,
+      "threeStar": 4,
+      "fourStar": 20,
+      "fiveStar": 53
+    },
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:28.186Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 2 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 2 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 2 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 2 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 2 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 2 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Rajat%20sarkar&query_place_id=ChIJg2O5_2Th9jkRJ3DTrr4LgI4",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkroXMKDcD2n2coBOFuTKEcZYyUgmVYYdY7i2JmdebGER24uPd5unSTVo8jed9bgHI_ghMT4mZu7wYR3hOey3OXQTfZ8m3kdCwPcb-cqiKqAhVzBlNlKOjaDHn7K8dcIaAQZPTt=w408-h935-k-no",
+    "kgmid": "/g/11qplwn29g",
+    "businessProfileId": null
+  },
+  {
+    "title": "Nivaara Skin Clinic",
+    "subTitle": "নিবার স্কিন ক্লিনিক",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dermatologist",
+    "address": "Sahana Apartment, Mother Teresa Road, Chelidanga Main Rd, Chelidanga, Asansol, West Bengal 713304, India",
+    "neighborhood": "Chelidanga",
+    "street": "Sahana Apartment, Mother Teresa Road, Chelidanga Main Rd",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 82504 05055",
+    "phoneUnformatted": "+918250405055",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6896384,
+      "lng": 86.9584094
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJVTfyXoEf9zkR2k_f6c_0ris",
+    "categories": [
+      "Dermatologist"
+    ],
+    "fid": "0x39f71f815ef23755:0x2baef4cfe9df4fda",
+    "cid": "3147722363397689306",
+    "reviewsCount": 42,
+    "reviewsDistribution": {
+      "oneStar": 4,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 38
+    },
+    "imagesCount": 18,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:28.186Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 9 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Nivaara%20Skin%20Clinic&query_place_id=ChIJVTfyXoEf9zkR2k_f6c_0ris",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkpf1SnTU9zBfMoSCK3-svwp9lUe6mb5Z7rFw-iH4b0-pxHPf_wyKQjLlr19xCk0rnmuARBss3QNnf8TUALNgYqFZuagf6aYygdv4OMzO1P0ctFvG_PHkDrIxLvwl6tF67PycSKjLkjRv7n=w408-h306-k-no",
+    "kgmid": "/g/11xrzdq6fx",
+    "businessProfileId": "10446729209167536479"
+  },
+  {
+    "title": "DR AJOY BHATTACHARYYA",
+    "subTitle": "ডিআর অজয় ভট্টাচার্য",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dermatologist",
+    "address": "MXQ3+CF9, Chelidanga Rd, Chelidanga, Asansol, West Bengal 713304, India",
+    "neighborhood": "Chelidanga",
+    "street": "MXQ3+CF9, Chelidanga Rd",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6885451,
+      "lng": 86.9537495
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJP4Na5qQf9zkRAs29dM1BHjk",
+    "categories": [
+      "Dermatologist"
+    ],
+    "fid": "0x39f71fa4e65a833f:0x391e41cd74bdcd02",
+    "cid": "4115799460145908994",
+    "reviewsCount": 22,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 3,
+      "fiveStar": 17
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:28.186Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 2 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 2 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 2 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 2 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=DR%20AJOY%20BHATTACHARYYA&query_place_id=ChIJP4Na5qQf9zkRAs29dM1BHjk",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlqH_YvOUSnXFVEaBfYOFUsNn6iAAlAKqyFa7zKiohin2EzJGhxiqWmW-qyWeXQip263wYQu8D5LyH9TCOn-fn1CVjEjmnFyokxYBJvnMima-Cl8L9t8WzCcxtXNC0o_oWwJXYJ=w408-h544-k-no",
+    "kgmid": "/g/11rhrn844v",
+    "businessProfileId": null
+  },
+  {
+    "title": "BEST Dermatology & cosmetic CLINIC IN ASANSOL",
+    "subTitle": "বিইএসটি ডার্মাটোলজি & কসমেটিক সিএলআইএনআইসি আইএন আসানসোল",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dermatologist",
+    "address": "Srija Apartment ,Upper, near Aaradhya Health Hub, Chelidanga, Asansol, West Bengal 713304, India",
+    "neighborhood": "Chelidanga",
+    "street": "Srija Apartment ,Upper, near Aaradhya Health Hub",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "http://www.aaradhyaclinic.com/",
+    "phone": "+91 80130 11118",
+    "phoneUnformatted": "+918013011118",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6888077,
+      "lng": 86.9526516
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJY57OU2wf9zkRwZSQk8gVjQU",
+    "categories": [
+      "Dermatologist",
+      "Cosmetic surgeon",
+      "Cosmetics store",
+      "Hair removal service",
+      "Laser hair removal service",
+      "Pediatric dermatologist",
+      "Skin care clinic",
+      "Skin care products vending machine",
+      "Waxing hair removal service"
+    ],
+    "fid": "0x39f71f6c53ce9e63:0x58d15c8939094c1",
+    "cid": "399999893119210689",
+    "reviewsCount": 2,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 2
+    },
+    "imagesCount": 53,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:28.186Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 10:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 10 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=BEST%20Dermatology%20%26%20cosmetic%20CLINIC%20IN%20ASANSOL&query_place_id=ChIJY57OU2wf9zkRwZSQk8gVjQU",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm9VD8MnNbbZxv6nEnXiYGiAfTNEVB-oForiT_W2FUyNY5Np76xtD_wV29l8QIejdYSx99uPhT1homRswfKWsnUufTpTTTrt54TZWLcHywmqx3bdN4QGfGR-VLGlqs-wP2Slm7-ZKFT3M3e=w408-h725-k-no",
+    "kgmid": "/g/11yf73r274",
+    "businessProfileId": "5622511740221400036"
+  },
+  {
+    "title": "Dr Amiya",
+    "subTitle": "ডিআর অমিয়",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dermatologist",
+    "address": "MXM3+XVM, SB Gorai Rd, Chelidanga, Asansol, West Bengal 713304, India",
+    "neighborhood": "Chelidanga",
+    "street": "MXM3+XVM, SB Gorai Rd",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6849692,
+      "lng": 86.9546687
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJq43XWAAf9zkR_IA6ewpGL4w",
+    "categories": [
+      "Dermatologist"
+    ],
+    "fid": "0x39f71f0058d78dab:0x8c2f460a7b3a80fc",
+    "cid": "10101369500046360828",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:28.186Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Amiya&query_place_id=ChIJq43XWAAf9zkR_IA6ewpGL4w",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nvhrGZ96lgbh9vVhd0vUeA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=329.70032&pitch=0&thumbfov=100",
+    "kgmid": "/g/11mm80snhf",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dr. Rohan Bhattacharjee MBBS MD Fellow (JIPMER) | Dermatologist in Asansol I Skin, Hair, & Pigmentation treatment",
+    "subTitle": "ডিআর. রোহান ভট্টাচার্য এমবিবিএস এমডি ফেলো (জেআইপিএমইআর) | ডার্মাটোলজিস্ট ইন আসানসোল আই স্কিন, হেয়ার, & পিগমেন্টেশন ট্রিটমেন্ট",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dermatologist",
+    "address": "Roy Medicine Centre, 4/126, Lane Crossing, near Masjid Bari, Pathak Bari, Asansol, West Bengal 713301, India",
+    "neighborhood": "Pathak Bari",
+    "street": "Roy Medicine Centre, 4/126, Lane Crossing, near Masjid Bari",
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://dermdocrohan.com/",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6813241,
+      "lng": 86.9780818
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJyXRW4Wcf9zkRkKSREm-8vgM",
+    "categories": [
+      "Dermatologist"
+    ],
+    "fid": "0x39f71f67e15674c9:0x3bebc6f1291a490",
+    "cid": "269860212927734928",
+    "reviewsCount": 5,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 4
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:28.186Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 12 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Friday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Rohan%20Bhattacharjee%20MBBS%20MD%20Fellow%20(JIPMER)%20%7C%20Dermatologist%20in%20Asansol%20I%20Skin%2C%20Hair%2C%20%26%20Pigmentation%20treatment&query_place_id=ChIJyXRW4Wcf9zkRkKSREm-8vgM",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0ftIhwh5S5PYvsBW2zzjLw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=262.13834&pitch=0&thumbfov=100",
+    "kgmid": "/g/11v0mmc3ph",
+    "businessProfileId": "6280201006907810922"
+  },
+  {
+    "title": "Dr Biswanath Banerjee (MD)Dermatology",
+    "subTitle": "ডিআর বিশ্বনাথ ব্যানার্জি (এমডি)ডার্মাটোলজি",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "Tagore Upasona Building, R N, Road, Ushagram, Asansol, West Bengal 713303, India",
+    "neighborhood": "Ushagram",
+    "street": "Tagore Upasona Building, R N, Road",
+    "city": "Asansol",
+    "postalCode": "713303",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 341 227 4483",
+    "phoneUnformatted": "+913412274483",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6821243,
+      "lng": 86.9961542
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 2.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJZQB1ySMZ9zkRrl6YcfMEegU",
+    "categories": [
+      "Doctor"
+    ],
+    "fid": "0x39f71923c9750065:0x57a04f371985eae",
+    "cid": "394633360977714862",
+    "reviewsCount": 48,
+    "reviewsDistribution": {
+      "oneStar": 22,
+      "twoStar": 3,
+      "threeStar": 2,
+      "fourStar": 4,
+      "fiveStar": 17
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:28.186Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "4 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "4 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "4 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "4 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "4 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Biswanath%20Banerjee%20(MD)Dermatology&query_place_id=ChIJZQB1ySMZ9zkRrl6YcfMEegU",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWksebugM5DdM1YpaZWdS6bLsZYNGMThdYN73NUX-X98uP5nCh6KQD_RKY3Szvu22vDW0eRkSisOBd14HzXML4CZ2T_kSkJ7sMQ79ufz3GwTxd2tncEsG_ewbKpldMwzbQcbbC3a=w426-h240-k-no",
+    "kgmid": "/g/11h_1k_5ff",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dr P Sarkar (New Med-Life)",
+    "subTitle": "ডিআর পি সরকার (নিউ মেদ-লাইফ)",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dermatologist",
+    "address": "Med-Life, HINDUSTHAN PARK, asansol 4, opp. LIC building, Rabindra Nagar, Asansol, West Bengal 713304, India",
+    "neighborhood": "Rabindra Nagar",
+    "street": "Med-Life, HINDUSTHAN PARK, asansol 4, opp. LIC building",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 94753 34082",
+    "phoneUnformatted": "+919475334082",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.695169,
+      "lng": 86.9474031
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJdcA6dpkf9zkRxRBPDAu3dUI",
+    "categories": [
+      "Dermatologist",
+      "Doctor",
+      "Skin care clinic"
+    ],
+    "fid": "0x39f71f99763ac075:0x4275b70b0c4f10c5",
+    "cid": "4788935036857422021",
+    "reviewsCount": 5,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 5
+    },
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:28.186Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 12 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Friday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Saturday",
+        "hours": "5 to 6:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20P%20Sarkar%20(New%20Med-Life)&query_place_id=ChIJdcA6dpkf9zkRxRBPDAu3dUI",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlDq2ssvdfvDnIgr_qwJ3faUGhpaBBlQNOYZ6Buw_ZuOZvFKfZi5PApExzTt3M0QcBwiE-j8cioK97FkTquGrwbFsj-Iq-rrZA5iLza7zOvjNJ7LKJhbvUuqwghkpUj6qwxDQrYhQ47c2I=w408-h306-k-no",
+    "kgmid": "/g/11ntgmkz07",
+    "businessProfileId": "6541159559708638547"
+  },
+  {
+    "title": "Prof Dr. raghubir Banerjee",
+    "subTitle": "প্রফ ডিআর. রঘুবীর ব্যানার্জি",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "Boys Park, 1st.Road, Apcar Garden, Asansol, West Bengal 713304, India",
+    "neighborhood": "Apcar Garden",
+    "street": "Boys Park, 1st.Road",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6937268,
+      "lng": 86.9538329
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ62W1PaEf9zkR823DSq7XVvg",
+    "categories": [
+      "Doctor"
+    ],
+    "fid": "0x39f71fa13db565eb:0xf856d7ae4ac36df3",
+    "cid": "17894727312981847539",
+    "reviewsCount": 40,
+    "reviewsDistribution": {
+      "oneStar": 10,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 3,
+      "fiveStar": 27
+    },
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:28.186Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Prof%20Dr.%20raghubir%20Banerjee&query_place_id=ChIJ62W1PaEf9zkR823DSq7XVvg",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkZ1PKzdzPlG2t_OyeOpSF_HlSNbW7C4JbR0qurq9wFChT46NjGIjFdFZpTW18a_Bp76eWylHqrTuzbIQNlokvpFe3JHVcWJe-v1uzt9lIM2x-sLxo9GXhV41E_0azGc_9Fih4S=w408-h306-k-no",
+    "kgmid": "/g/11q4hwfy32",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dr Kalyan Chakraborty Clinic",
+    "subTitle": "ডাঃ কল্যাণ চক্রবর্তী ক্লিনিক",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Medical clinic",
+    "address": "MXJH+QRM, Samiran Roy Road, Pathak Bari, Asansol, West Bengal 713301, India",
+    "neighborhood": "Pathak Bari",
+    "street": "MXJH+QRM, Samiran Roy Road",
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 94340 02151",
+    "phoneUnformatted": "+919434002151",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6819731,
+      "lng": 86.9795592
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ_5DsXdQe9zkRNL7qO8Lz6RI",
+    "categories": [
+      "Medical clinic"
+    ],
+    "fid": "0x39f71ed45dec90ff:0x12e9f3c23beabe34",
+    "cid": "1362888377810730548",
+    "reviewsCount": 2,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 1
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:30.697Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 12 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 12 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 12 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 12 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 12 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Kalyan%20Chakraborty%20Clinic&query_place_id=ChIJ_5DsXdQe9zkRNL7qO8Lz6RI",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 27,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ia20xXSlDxXOU5G0y9SavQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=95.57108&pitch=0&thumbfov=100",
+    "kgmid": "/g/11g6t_7t6y",
+    "businessProfileId": null
+  },
+  {
+    "title": "Asansol Hair Wig & Patch Studio",
+    "subTitle": "আসানসোল হেয়ার বিগ & প্যাচ স্টুডিও",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Hair replacement service",
+    "address": "Shop No 8, Jaganath Plaza, Girls College Rd, beside Chitra Daily Market, near galaxy mall, IISCO Steel Plant, Burnpur, Asansol, West Bengal 713325, India",
+    "neighborhood": "IISCO Steel Plant, Burnpur",
+    "street": "Shop No 8, Jaganath Plaza, Girls College Rd, beside Chitra Daily Market, near galaxy mall",
+    "city": "Asansol",
+    "postalCode": "713325",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://asansolhairwigpatchstudio.com/",
+    "phone": "+91 82500 56579",
+    "phoneUnformatted": "+918250056579",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6844232,
+      "lng": 86.9431409
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ1RmqN-wf9zkRVHZRqB9P4EQ",
+    "categories": [
+      "Hair replacement service",
+      "Barber shop",
+      "Beauty salon",
+      "Dermatologist",
+      "Hair extension technician",
+      "Hair extensions supplier",
+      "Skin care clinic",
+      "Hairdresser",
+      "Wig shop"
+    ],
+    "fid": "0x39f71fec37aa19d5:0x44e04f1fa8517654",
+    "cid": "4963053786748778068",
+    "reviewsCount": 70,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 69
+    },
+    "imagesCount": 120,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:30.697Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 10 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Google Pay": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Children": [
+        {
+          "Good for kids": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Asansol%20Hair%20Wig%20%26%20Patch%20Studio&query_place_id=ChIJ1RmqN-wf9zkRVHZRqB9P4EQ",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 28,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlKyU0W3iiWjvUkVcq0CZg9QPJIc9kmC2uHFth4L9cpbJufJBJS59xEgLGz2CxMsbg4X1ZUerlliqFtwbmBqMN5-yqMuRIfEaI3rwGt0mZVBxhxhk-YhpMjMIR9EthMki6dl4DJenVBots=w408-h731-k-no",
+    "kgmid": "/g/11yqql6hhl",
+    "businessProfileId": "9422754071825086291"
+  },
+  {
+    "title": "DR. ROHAN BHATTACHARJEE",
+    "subTitle": "ডিআর. রোহান ভট্টাচার্য",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dermatologist",
+    "address": "Holding No. 467, Club By Lane, Agrani Ln, Court More, Asansol, West Bengal 713304, India",
+    "neighborhood": "Court More",
+    "street": "Holding No. 467, Club By Lane, Agrani Ln",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://www.apollo247.com/doctors/dr-rohan-bhattacharjee-5a37a59c-07d2-4c96-9c71-d1faa361040a?utm_source=gmb_docverse&utm_medium=clinics&utm_campaign=doctors",
+    "phone": "+91 80 4696 1835",
+    "phoneUnformatted": "+918046961835",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.690351,
+      "lng": 86.94588
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJPbW1ERof9zkR_vBf35hgDJk",
+    "categories": [
+      "Dermatologist",
+      "Doctor",
+      "Hair transplantation clinic",
+      "Hospital",
+      "Laser hair removal service",
+      "Skin care clinic"
+    ],
+    "fid": "0x39f71f1a11b5b53d:0x990c6098df5ff0fe",
+    "cid": "11028295797222404350",
+    "reviewsCount": 2,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:30.698Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 5:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Online service hours": [
+        {
+          "day": "Monday",
+          "hours": "10 AM–6 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10 AM–6 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10 AM–6 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10 AM–6 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10 AM–6 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10 AM–6 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=DR.%20ROHAN%20BHATTACHARJEE&query_place_id=ChIJPbW1ERof9zkR_vBf35hgDJk",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 29,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Gw714m7gpP6-yvXxsWmt9w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=41.5935&pitch=0&thumbfov=100",
+    "kgmid": "/g/11vh_7kmt4",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dr. H P Chakroborty",
+    "subTitle": "ডিআর. এইচ পি চক্রবর্তী",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dermatologist",
+    "address": "NSB Road, MORE, opposite MARWARI SANATAN SCHOOL BAZAR, near MOHAN FAMILY STORE, Raniganj, West Bengal 713347, India",
+    "neighborhood": null,
+    "street": "NSB Road, MORE, opposite MARWARI SANATAN SCHOOL BAZAR, near MOHAN FAMILY STORE",
+    "city": "Raniganj",
+    "postalCode": "713347",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 70013 87136",
+    "phoneUnformatted": "+917001387136",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.609787,
+      "lng": 87.1144643
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJOaJOxGER9zkRkIk1Ec2LJ8k",
+    "categories": [
+      "Dermatologist",
+      "Skin care clinic",
+      "Sexologist"
+    ],
+    "fid": "0x39f71161c44ea239:0xc9278bcd11358990",
+    "cid": "14494707638588508560",
+    "reviewsCount": 118,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 1,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 114
+    },
+    "imagesCount": 315,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:30.698Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 9 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20H%20P%20Chakroborty&query_place_id=ChIJOaJOxGER9zkRkIk1Ec2LJ8k",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 30,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkpq_1d9dtfTh6JVdfvsJQA-Pcji5HT5bIoHpnyhIZyTOXdLpKDxPVnd8N0G1p9QcQcYm13YSq8vAf7CBgFYPZ1ZRejBjOTotE2zflfiaU7Imsbm2UXsJPzOe7mKeaBMczJ9FqGjirYSmc=w408-h544-k-no",
+    "kgmid": "/g/11vlnfkyft",
+    "businessProfileId": "16665077743682738264"
+  },
+  {
+    "title": "Dr. Rohan Bhattacharjee MBBS MD Fellow (JIPMER) | Dermatologist in Raniganj I Skin, Hair, & Pigmentation treatment",
+    "subTitle": "ডিআর. রোহান ভট্টাচার্য এমবিবিএস এমডি ফেলো (জেআইপিএমইআর) | ডার্মাটোলজিস্ট ইন রানীগঞ্জ আই স্কিন, হেয়ার, & পিগমেন্টেশন ট্রিটমেন্ট",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dermatologist",
+    "address": "Saniya Medical, Searsole Rajbari, Rambagan Doctor's Colony, Raniganj, West Bengal 713358, India",
+    "neighborhood": "Searsole Rajbari, Rambagan Doctor's Colony",
+    "street": "Saniya Medical",
+    "city": "Raniganj",
+    "postalCode": "713358",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://dermdcorohan.com/",
+    "phone": "+91 89725 87077",
+    "phoneUnformatted": "+918972587077",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6305144,
+      "lng": 87.1165
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJvxhoiRkR9zkR0RjtypilUpQ",
+    "categories": [
+      "Dermatologist"
+    ],
+    "fid": "0x39f71119896818bf:0x9452a598caed18d1",
+    "cid": "10687786941361756369",
+    "reviewsCount": 3,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 2
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:30.698Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "11 AM to 2 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Friday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Rohan%20Bhattacharjee%20MBBS%20MD%20Fellow%20(JIPMER)%20%7C%20Dermatologist%20in%20Raniganj%20I%20Skin%2C%20Hair%2C%20%26%20Pigmentation%20treatment&query_place_id=ChIJvxhoiRkR9zkR0RjtypilUpQ",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 31,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fWETbav32-sRqZG_pjpINg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=177.61775&pitch=0&thumbfov=100",
+    "kgmid": "/g/11v0z1h3m8",
+    "businessProfileId": "4891844185621825350"
+  },
+  {
+    "title": "DR. SHREYA SUSHIL PODDAR",
+    "subTitle": "ডিআর. শ্রেয়া সুশীল পোদ্দার",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dermatologist",
+    "address": "192, Vivekananda Sarani, near Eveland Nursing Home, Kanyapur, Asansol, Kolkata, West Bengal 713304, India",
+    "neighborhood": "Kanyapur",
+    "street": "192, Vivekananda Sarani, near Eveland Nursing Home",
+    "city": "Asansol, Kolkata",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://www.apollo247.com/doctors/dr-shreya-sushil-poddar-03d83f46-12c6-4da3-be0f-58129fcead1c?utm_source=gmb_docverse&utm_medium=clinics&utm_campaign=doctors",
+    "phone": "+91 80 4463 4533",
+    "phoneUnformatted": "+918044634533",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6966655,
+      "lng": 86.9523166
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 2.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJhf09GZwf9zkRLK6JzYqsSio",
+    "categories": [
+      "Dermatologist",
+      "Doctor",
+      "Hair transplantation clinic",
+      "Hospital",
+      "Laser hair removal service",
+      "Skin care clinic"
+    ],
+    "fid": "0x39f71f9c193dfd85:0x2a4aac8acd89ae2c",
+    "cid": "3047437810023378476",
+    "reviewsCount": 2,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 0
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:30.698Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Online service hours": [
+        {
+          "day": "Monday",
+          "hours": "10 AM–6 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10 AM–6 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10 AM–6 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10 AM–6 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10 AM–6 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10 AM–6 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=DR.%20SHREYA%20SUSHIL%20PODDAR&query_place_id=ChIJhf09GZwf9zkRLK6JzYqsSio",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 32,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wCexpqlh_o4ExwtVHMkP7Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=296.463&pitch=0&thumbfov=100",
+    "kgmid": "/g/11l6m64hsw",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dr. Rohan Bhattacharjee MBBS MD Fellow (JIPMER) | Best Dermatologist in Asansol I Skin, Hair, Pigmentation treatment",
+    "subTitle": "ডিআর. রোহান ভট্টাচার্য এমবিবিএস এমডি ফেলো (জেআইপিএমইআর) | বেস্ট ডার্মাটোলজিস্ট ইন আসানসোল আই স্কিন, হেয়ার, পিগমেন্টেশন ট্রিটমেন্ট",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Skin care clinic",
+    "address": "Dawn Pharmacy, petrol pump, more, near Budha Road, opposite more supermarket, Barafkol, Asansol, West Bengal 713301, India",
+    "neighborhood": null,
+    "street": "Dawn Pharmacy, petrol pump, more, near Budha Road, opposite more supermarket",
+    "city": "Barafkol, Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6776806,
+      "lng": 86.9607791
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ7WhWa1cf9zkRTHwHI5VLIn4",
+    "categories": [
+      "Skin care clinic"
+    ],
+    "fid": "0x39f71f576b5668ed:0x7e224b9523077c4c",
+    "cid": "9088910101896985676",
+    "reviewsCount": null,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:30.698Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 to 11 AM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 to 11 AM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 to 11 AM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 to 11 AM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 to 11 AM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 to 11 AM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 to 11 AM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Rohan%20Bhattacharjee%20MBBS%20MD%20Fellow%20(JIPMER)%20%7C%20Best%20Dermatologist%20in%20Asansol%20I%20Skin%2C%20Hair%2C%20Pigmentation%20treatment&query_place_id=ChIJ7WhWa1cf9zkRTHwHI5VLIn4",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 35,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GO08TsMTh0eMhJWPYPp4kQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=159.3026&pitch=0&thumbfov=100",
+    "kgmid": "/g/11vxg7vl82",
+    "businessProfileId": null
+  },
+  {
+    "title": "Data Masoom Clinic",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Medical clinic",
+    "address": "J47J+PJW, Dr MN Ghosh Rd, Raniganj, West Bengal 713347, India",
+    "neighborhood": null,
+    "street": "J47J+PJW, Dr MN Ghosh Rd",
+    "city": "Raniganj",
+    "postalCode": "713347",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6143546,
+      "lng": 87.1315658
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJFZdkTtgR9zkR-Q5LhDrYSDo",
+    "categories": [
+      "Medical clinic"
+    ],
+    "fid": "0x39f711d84e649715:0x3a48d83a844b0ef9",
+    "cid": "4199844398362201849",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:30.698Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 8 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Data%20Masoom%20Clinic&query_place_id=ChIJFZdkTtgR9zkR-Q5LhDrYSDo",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 36,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=a8unoPt9LgDow2BHG8qbvw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=283.11368&pitch=0&thumbfov=100",
+    "kgmid": "/g/11gns84w8g",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dr. Uttam Kumar Khan",
+    "subTitle": "ডিআর. উত্তম কুমার খান",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dermatologist",
+    "address": "J447+WQ5, Raniganj, West Bengal 713347, India",
+    "neighborhood": null,
+    "street": "J447+WQ5",
+    "city": "Raniganj",
+    "postalCode": "713347",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6072636,
+      "lng": 87.1144812
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJwZZcHgAR9zkRfoFzseniovg",
+    "categories": [
+      "Dermatologist"
+    ],
+    "fid": "0x39f711001e5c96c1:0xf8a2e2e9b173817e",
+    "cid": "17916131760965648766",
+    "reviewsCount": 2,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 1
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:30.698Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 1:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 1:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 1:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 1:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 1:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 1:30 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Uttam%20Kumar%20Khan&query_place_id=ChIJwZZcHgAR9zkRfoFzseniovg",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 37,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-okRd8vlrYE91AqP18DEog&cb_client=search.gws-prod.gps&w=408&h=240&yaw=318.36826&pitch=0&thumbfov=100",
+    "kgmid": "/g/11ltm9qqvp",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dr P K Banerjee Clinic - Upasna Building",
+    "subTitle": "ডাঃ পি কে ব্যানার্জী ক্লিনিক - উপাসনা বিল্ডিং",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "MXJW+WH8, Unnamed Road, Ushagram, Asansol, West Bengal 713303, India",
+    "neighborhood": "Ushagram",
+    "street": "MXJW+WH8, Unnamed Road",
+    "city": "Asansol",
+    "postalCode": "713303",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 94341 00626",
+    "phoneUnformatted": "+919434100626",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6822828,
+      "lng": 86.996451
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJYYOUwCYZ9zkR5v8_dmiY9SQ",
+    "categories": [
+      "Doctor"
+    ],
+    "fid": "0x39f71926c0948361:0x24f59868763fffe6",
+    "cid": "2663202329087442918",
+    "reviewsCount": 28,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 4,
+      "fourStar": 6,
+      "fiveStar": 17
+    },
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:30.698Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "11:30 AM to 2 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "11:30 AM to 2 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "11:30 AM to 2 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "11:30 AM to 2 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "11:30 AM to 2 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20P%20K%20Banerjee%20Clinic%20-%20Upasna%20Building&query_place_id=ChIJYYOUwCYZ9zkR5v8_dmiY9SQ",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 38,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnnDM3fMtQTsWiVxktqztzUV0E-begFgFBGmKjDVutxG6nA-aVnb-cvBAgY8ueIWnc01vqTSyPlC073bc0tUXMl3k_G-N-YvSi5bRBOJA-k199h1qZM2i1uFRDUW4firrY4vG1ivg=w408-h725-k-no",
+    "kgmid": "/g/11g6qv6wz1",
+    "businessProfileId": null
+  },
+  {
+    "title": "Rajguru Clinic",
+    "subTitle": "রাজগুরু ক্লিনিক",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "MXQ3+CG7, Chelidanga, Asansol, West Bengal 713304, India",
+    "neighborhood": "Chelidanga",
+    "street": "MXQ3+CG7",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 97322 24506",
+    "phoneUnformatted": "+919732224506",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6885383,
+      "lng": 86.9537834
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJNYvjHh0f9zkRwdzc8K3duaI",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x39f71f1d1ee38b35:0xa2b9ddadf0dcdcc1",
+    "cid": "11725646843975883969",
+    "reviewsCount": 22,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 1,
+      "threeStar": 2,
+      "fourStar": 3,
+      "fiveStar": 14
+    },
+    "imagesCount": 0,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:30.698Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Rajguru%20Clinic&query_place_id=ChIJNYvjHh0f9zkRwdzc8K3duaI",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 39,
+    "isAdvertisement": false,
+    "imageUrl": null,
+    "kgmid": "/g/11f15fmf33",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dr SK. MASUD HASSAN",
+    "subTitle": "ডাঃ শেখ মাসুদ হাসান",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dermatologist",
+    "address": "ASUTOSH MEDICAL HOUSE, 3, B.B. ROAD, SCHOOL PARA MORE, Raniganj, West Bengal 713347, India",
+    "neighborhood": "SCHOOL PARA MORE",
+    "street": "ASUTOSH MEDICAL HOUSE, 3, B.B. ROAD",
+    "city": "Raniganj",
+    "postalCode": "713347",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 97321 44446",
+    "phoneUnformatted": "+919732144446",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6070011,
+      "lng": 87.1146018
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJr6qqqnoR9zkRpT7T5isEb6Q",
+    "categories": [
+      "Dermatologist"
+    ],
+    "fid": "0x39f7117aaaaaaaaf:0xa46f042be6d33ea5",
+    "cid": "11848693731237772965",
+    "reviewsCount": 4,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 3
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:30.698Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Friday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11 AM to 2 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20SK.%20MASUD%20HASSAN&query_place_id=ChIJr6qqqnoR9zkRpT7T5isEb6Q",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 40,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=m_iYDAsXJz2HGPcV7Hlw-A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=126.27914&pitch=0&thumbfov=100",
+    "kgmid": "/g/11gf9ndj5l",
+    "businessProfileId": "2623612546809742156"
+  },
+  {
+    "title": "JEEN MATA MEDICAL",
+    "subTitle": "জীন মাতা মেডিক্যাল",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Medical Center",
+    "address": "DISHERGARH ROAD BEGUNIA, MORE, Barakar, West Bengal 713324, India",
+    "neighborhood": null,
+    "street": "DISHERGARH ROAD BEGUNIA, MORE",
+    "city": "Barakar",
+    "postalCode": "713324",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 87098 26269",
+    "phoneUnformatted": "+918709826269",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.7334802,
+      "lng": 86.814546
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJz0DkdK7d9jkRPhqxE4bnfSY",
+    "categories": [
+      "Medical Center"
+    ],
+    "fid": "0x39f6ddae74e440cf:0x267de78613b11a3e",
+    "cid": "2773627508572101182",
+    "reviewsCount": 8,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 8
+    },
+    "imagesCount": 9,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:33.909Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 9:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 9:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 9:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 9:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 9:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 9:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 9:30 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=JEEN%20MATA%20MEDICAL&query_place_id=ChIJz0DkdK7d9jkRPhqxE4bnfSY",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 41,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TbDvgfL2aTRt4X9WNmx9qg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=149.20601&pitch=0&thumbfov=100",
+    "kgmid": "/g/11tdkzzs4y",
+    "businessProfileId": "5270163947865897075"
+  },
+  {
+    "title": "Samriddhi Aesthetics- Skin clinic Asansol, Hair clinic Asansol, Skin and hair clinic in Asansol",
+    "subTitle": "সমৃদ্ধি অ্যাস্টেটিকস- স্কিন ক্লিনিক আসানসোল, হেয়ার ক্লিনিক আসানসোল, স্কিন অ্যান্ড হেয়ার ক্লিনিক ইন আসানসোল",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dermatologist",
+    "address": "Burnpur Rd, IISCO Steel Plant, Burnpur, Asansol, West Bengal 713304, India",
+    "neighborhood": "IISCO Steel Plant, Burnpur",
+    "street": "Burnpur Rd",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://samriddhiaesthetic.com/",
+    "phone": "+91 98741 87398",
+    "phoneUnformatted": "+919874187398",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6896861,
+      "lng": 86.9468036
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJZd-6yHQf9zkR1zphoOy8QYE",
+    "categories": [
+      "Dermatologist",
+      "Skin care clinic",
+      "Electrolysis hair removal service",
+      "Hair removal service",
+      "Hair transplantation clinic",
+      "Laser hair removal service"
+    ],
+    "fid": "0x39f71f74c8badf65:0x8141bceca0613ad7",
+    "cid": "9313933228867926743",
+    "reviewsCount": 5,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 5
+    },
+    "imagesCount": 0,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:33.909Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "11 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "11 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "11 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "11 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "11 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11 AM to 7 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Samriddhi%20Aesthetics-%20Skin%20clinic%20Asansol%2C%20Hair%20clinic%20Asansol%2C%20Skin%20and%20hair%20clinic%20in%20Asansol&query_place_id=ChIJZd-6yHQf9zkR1zphoOy8QYE",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 44,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWljWsWbHGPmdVVjw76m-XpqheJTgLrvTt5boqowVf0IfJ28hDGTk0-dNN0Q4Z-maRNwWNwdyQ6abpGk7sYfw9wgYpYkO_WTZdYYLy0isIgQSKlJygtEenSYrMT7FFj8iitidzL8qWjjcjE=w408-h408-k-no",
+    "kgmid": "/g/11x8_wr5r2",
+    "businessProfileId": "14188908646174381480"
+  },
+  {
+    "title": "Niharika Polyclinic",
+    "subTitle": "নীহারিকা পল্য্চ্লিনিক",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Medical clinic",
+    "address": "near Shiv Mandir, Manberia, Barakar, West Bengal 713324, India",
+    "neighborhood": "Manberia",
+    "street": "near Shiv Mandir",
+    "city": "Barakar",
+    "postalCode": "713324",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 98325 77070",
+    "phoneUnformatted": "+919832577070",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.7457382,
+      "lng": 86.8223234
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJa6u4wi7f9jkRmTEoh7tHg6o",
+    "categories": [
+      "Medical clinic"
+    ],
+    "fid": "0x39f6df2ec2b8ab6b:0xaa8347bb87283199",
+    "cid": "12286743079148859801",
+    "reviewsCount": 19,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 19
+    },
+    "imagesCount": 23,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:33.909Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Delivery": [
+        {
+          "day": "Monday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9 AM–5 PM"
+        }
+      ]
+    },
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Niharika%20Polyclinic&query_place_id=ChIJa6u4wi7f9jkRmTEoh7tHg6o",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 47,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl7uk44t9I_OszKCAuj7gN25TlCDd_Eb4clwONh-boHb0ykA4xGXFq8KiEjK1fOJFBkXTo4O8ztp9QSXhvE0_pmBcDy9PtYfS5rwg8a5KIPaqXeiHV2biezwwLs7ZcgJPbAhyQmkA=w426-h240-k-no",
+    "kgmid": "/g/11tx_t0_ny",
+    "businessProfileId": "16654114103462264659"
+  },
+  {
+    "title": "Dr Kakali Mridha",
+    "subTitle": "ডিআর কাকলি মৃধা",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "Murgasol polyclinic, Grand Trunk Rd, Asansol, West Bengal 713359, India",
+    "neighborhood": null,
+    "street": "Murgasol polyclinic, Grand Trunk Rd",
+    "city": "Asansol",
+    "postalCode": "713359",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://www.drkakalimridha.in/",
+    "phone": "+91 94345 92989",
+    "phoneUnformatted": "+919434592989",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.7073729,
+      "lng": 86.9148287
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ6ZJRHNEf9zkRjIhmZtt7WQo",
+    "categories": [
+      "Doctor"
+    ],
+    "fid": "0x39f71fd11c5192e9:0xa597bdb6666888c",
+    "cid": "745763395552577676",
+    "reviewsCount": 4,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 3
+    },
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:33.910Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Kakali%20Mridha&query_place_id=ChIJ6ZJRHNEf9zkRjIhmZtt7WQo",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 50,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmM7v_4GM9olBm3U_vBm9pY7NU9fMO7urR-sx2K2g4o1xbJS87vEx6j9x3F9zE3egLHZTSPbotfAXqBIyU3C-rU4LFyU2NEY40SuJr-o8z1SJf0ZmqBI-_sViTkUChi5I_25D-XcCKDBwc=w408-h544-k-no",
+    "kgmid": "/g/11xfj0b8d7",
+    "businessProfileId": "16197049443104289269"
+  },
+  {
+    "title": "SKIN HAIR & LASER CENTER",
+    "subTitle": "স্কিন হেয়ার & লেজার সেন্টার",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Skin care clinic",
+    "address": "Hutton Rd, near MASJID YOUTH COMPUTER, Pathak Bari, Asansol, West Bengal 713301, India",
+    "neighborhood": "Pathak Bari",
+    "street": "Hutton Rd, near MASJID YOUTH COMPUTER",
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 83888 31308",
+    "phoneUnformatted": "+918388831308",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6821934,
+      "lng": 86.9690916
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJrXEOEdke9zkRTG2O6kW3CKo",
+    "categories": [
+      "Skin care clinic"
+    ],
+    "fid": "0x39f71ed9110e71ad:0xaa08b745ea8e6d4c",
+    "cid": "12252244297177263436",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 0
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:33.910Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=SKIN%20HAIR%20%26%20LASER%20CENTER&query_place_id=ChIJrXEOEdke9zkRTG2O6kW3CKo",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 52,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7sRdOFdOfs8kA-eDXfLSYA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=239.81894&pitch=0&thumbfov=100",
+    "kgmid": "/g/11srzwny24",
+    "businessProfileId": "5944976701927275517"
+  },
+  {
+    "title": "Prof.Dr.Kakali Mirdha (Skin,Hair,Nail,Laser)",
+    "subTitle": "প্রফ.ডিআর.কাকলি মৃধা (স্কিন,হেয়ার,নেইল,লেজার)",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dermatologist",
+    "address": "Arpan Tower, SB Gorai Rd, near Aaradhya Health Hub, beside BSNL Office, Chelidanga, Asansol, West Bengal 713304, India",
+    "neighborhood": "Chelidanga",
+    "street": "Arpan Tower, SB Gorai Rd, near Aaradhya Health Hub, beside BSNL Office",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "http://www.aaradhyaclinic.com/",
+    "phone": "+91 80130 11119",
+    "phoneUnformatted": "+918013011119",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6821553,
+      "lng": 86.9576684
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJTcns3DEf9zkR3nwlYBIdjro",
+    "categories": [
+      "Dermatologist",
+      "Beauty product supplier",
+      "Cosmetic surgeon",
+      "Cosmetics store",
+      "Hair removal service",
+      "Hair replacement service",
+      "Hair transplantation clinic",
+      "Pediatric dermatologist",
+      "Skin care clinic",
+      "Skin care products vending machine"
+    ],
+    "fid": "0x39f71f31dcecc94d:0xba8e1d1260257cde",
+    "cid": "13442713902507195614",
+    "reviewsCount": 3,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 3
+    },
+    "imagesCount": 59,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:33.910Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8:30 AM to 9 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Prof.Dr.Kakali%20Mirdha%20(Skin%2CHair%2CNail%2CLaser)&query_place_id=ChIJTcns3DEf9zkR3nwlYBIdjro",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 54,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkrN4EMA2HBQB1szudL60xh4l6B2cEzAOERVsU2LkNwc94CJ5X5J5PrE4wKJGqFcJyfHvoCOK4bV4hEJdV-uGW6fSvYPJxy0kcPfTnEqwoqGBL3ATfK5inzS1Ey0Ol9XKzBTO_u=w408-h726-k-no",
+    "kgmid": "/g/11ldszg5wg",
+    "businessProfileId": "8399387843791975552"
+  },
+  {
+    "title": "Dr. Ujjal kha",
+    "subTitle": "ডিআর. উজ্জল খাঁ",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dermatologist",
+    "address": "3-18, Dr B Banerjee Rd, Raniganj, West Bengal 713347, India",
+    "neighborhood": null,
+    "street": "3-18, Dr B Banerjee Rd",
+    "city": "Raniganj",
+    "postalCode": "713347",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 341 244 6391",
+    "phoneUnformatted": "+913412446391",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6071215,
+      "lng": 87.1145554
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ3dNtJAAR9zkRAjYKGCXnjbE",
+    "categories": [
+      "Dermatologist"
+    ],
+    "fid": "0x39f71100246dd3dd:0xb18de725180a3602",
+    "cid": "12794136262932575746",
+    "reviewsCount": null,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:33.910Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 1:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 1:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 1:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 1:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 1:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 1:30 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Ujjal%20kha&query_place_id=ChIJ3dNtJAAR9zkRAjYKGCXnjbE",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 55,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-okRd8vlrYE91AqP18DEog&cb_client=search.gws-prod.gps&w=408&h=240&yaw=274.9442&pitch=0&thumbfov=100",
+    "kgmid": "/g/11wfhdcp9w",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dr T K Nandi MBBS (Cal) MS (Cal)",
+    "subTitle": "ডাঃ তাপস কুমার নন্দী",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Otolaryngologist",
+    "address": "Pathak Bari, Asansol, West Bengal 713301, India",
+    "neighborhood": "Pathak Bari",
+    "street": null,
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 97494 51692",
+    "phoneUnformatted": "+919749451692",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6831631,
+      "lng": 86.9732596
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJG0_cddce9zkR1Ul1SmMQijc",
+    "categories": [
+      "Otolaryngologist"
+    ],
+    "fid": "0x39f71ed775dc4f1b:0x378a10634a7549d5",
+    "cid": "4002029237509114325",
+    "reviewsCount": 67,
+    "reviewsDistribution": {
+      "oneStar": 24,
+      "twoStar": 2,
+      "threeStar": 5,
+      "fourStar": 7,
+      "fiveStar": 29
+    },
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:33.910Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "4:30 to 6:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "4:30 to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "4:30 to 6:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "4:30 to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "4:30 to 6:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 to 11 AM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": false
+        },
+        {
+          "Wheelchair accessible parking lot": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20T%20K%20Nandi%20MBBS%20(Cal)%20MS%20(Cal)&query_place_id=ChIJG0_cddce9zkR1Ul1SmMQijc",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 59,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkrf5NOuzDbDXswZ3UauqNINmdWm62bspI-Av34_kWllIOZPQZg40V1RnJ_8vWAUr4DwvEYnNfJg857tnNyFcL3qsbSuv7ZQEZtFHfQmJyTcJISJE_QhW67zFcnSshMmJz4wnSANA=w408-h725-k-no",
+    "kgmid": "/g/11fx_3d8b2",
+    "businessProfileId": "5153477611029181443"
+  },
+  {
+    "title": "Suraksha Diagnostics - Asansol",
+    "subTitle": "সুরক্ষা ডায়াগনস্টিক - আসানসোল",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Medical diagnostic imaging center",
+    "address": "9/190,Anand Appartment,G.T. Road, W Apcar Garden Main Rd, W) croma, Asansol, West Bengal 713304, India",
+    "neighborhood": "W) croma",
+    "street": "9/190,Anand Appartment,G.T. Road, W Apcar Garden Main Rd",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://www.surakshanet.com/",
+    "phone": "+91 33 6619 1000",
+    "phoneUnformatted": "+913366191000",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6949485,
+      "lng": 86.9491353
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJQRGkSOwf9zkRraMXJ0ImZoI",
+    "categories": [
+      "Medical diagnostic imaging center",
+      "Blood testing service",
+      "Diagnostic center",
+      "Doctor",
+      "Medical clinic"
+    ],
+    "fid": "0x39f71fec48a41141:0x826626422717a3ad",
+    "cid": "9396239738120676269",
+    "reviewsCount": 769,
+    "reviewsDistribution": {
+      "oneStar": 36,
+      "twoStar": 3,
+      "threeStar": 15,
+      "fourStar": 77,
+      "fiveStar": 638
+    },
+    "imagesCount": 46,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:36.808Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "6:30 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "6:30 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "6:30 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "6:30 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "6:30 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "6:30 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "6:30 AM to 4 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Suraksha%20Diagnostics%20-%20Asansol&query_place_id=ChIJQRGkSOwf9zkRraMXJ0ImZoI",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 62,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkBi3jAoKuJ1fq4M-S6FulvN_B9JQSnrXe3_FCNNRIX4iW7ff7UAf5_dWzHaV8p5QaWj5R06WtkxligIFPZ9qr-X56RfTvcPLn70DPkv6Hf-xDFqiqbc-j6Qs6GpnQuNeUwnmruUw=w532-h240-k-no",
+    "kgmid": "/g/11q8s75wkx",
+    "businessProfileId": "10996809431472494615"
+  },
+  {
+    "title": "Sree Durga Medical Mart",
+    "subTitle": "শ্রী দুর্গা মেডিক্যাল মাট",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "MXQ2+3R7, SB Gorai Rd, Chelidanga, Asansol, West Bengal 713304, India",
+    "neighborhood": "Chelidanga",
+    "street": "MXQ2+3R7, SB Gorai Rd",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 341 228 2839",
+    "phoneUnformatted": "+913412282839",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6876624,
+      "lng": 86.9520394
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJWX5LyQIf9zkR5htKqsmfRSw",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x39f71f02c94b7e59:0x2c459fc9aa4a1be6",
+    "cid": "3190131599556090854",
+    "reviewsCount": 15,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 2,
+      "threeStar": 3,
+      "fourStar": 2,
+      "fiveStar": 7
+    },
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:36.809Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 9:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 9:30 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": false
+        },
+        {
+          "Wheelchair accessible parking lot": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sree%20Durga%20Medical%20Mart&query_place_id=ChIJWX5LyQIf9zkR5htKqsmfRSw",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 65,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmNtreT4-Q54prSxcgAkl9btrCcQcrXsvLQ74wU5ek7a26yRU6dmlBuEQdX_2cQaZThZ3eibuGfsgNGfNQAsGnBcIFQsWFpfY4UBfLPSt0T1pdYePxP7i6PhtvBPd3IBd6qgL9j1tbX3lRJ=w408-h544-k-no",
+    "kgmid": "/g/11clscnxcs",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dr. Biswanath Banerjee",
+    "subTitle": "ডিআর. বিশ্বনাথ ব্যানার্জি",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "22b, Raimoni Ln, Pathak Bari, Asansol, West Bengal 713301, India",
+    "neighborhood": "Pathak Bari",
+    "street": "22b, Raimoni Ln",
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6842474,
+      "lng": 86.9787588
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJsytKHsof9zkRXejFF_JfIL8",
+    "categories": [
+      "Doctor"
+    ],
+    "fid": "0x39f71fca1e4a2bb3:0xbf205ff217c5e85d",
+    "cid": "13772113153884547165",
+    "reviewsCount": 7,
+    "reviewsDistribution": {
+      "oneStar": 5,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 1
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:36.809Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Biswanath%20Banerjee&query_place_id=ChIJsytKHsof9zkRXejFF_JfIL8",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 66,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-75umYBFNNDLe7-3NHE5PQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=220.35924&pitch=0&thumbfov=100",
+    "kgmid": "/g/11qszkynxd",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dr S Chatterjee",
+    "subTitle": "ডাঃ এস চ্যাটার্জী",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Dermatologist",
+    "address": "J4C8+4M5, Old Registry Office Ln, Raniganj, West Bengal 713347, India",
+    "neighborhood": null,
+    "street": "J4C8+4M5, Old Registry Office Ln",
+    "city": "Raniganj",
+    "postalCode": "713347",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 89018 73323",
+    "phoneUnformatted": "+918901873323",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.620262,
+      "lng": 87.1167399
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJJxAG0j0R9zkRjcI1ImDfa1I",
+    "categories": [
+      "Dermatologist",
+      "Medical clinic",
+      "Doctor",
+      "Sexologist"
+    ],
+    "fid": "0x39f7113dd2061027:0x526bdf602235c28d",
+    "cid": "5939086137601933965",
+    "reviewsCount": 8,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 2,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 4
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:36.809Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20S%20Chatterjee&query_place_id=ChIJJxAG0j0R9zkRjcI1ImDfa1I",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 67,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EEnbCuDkPzsZF7LWa_GdzQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=67.87651&pitch=0&thumbfov=100",
+    "kgmid": "/g/11cs32kl3r",
+    "businessProfileId": null
+  },
+  {
+    "title": "Uttam Medical Store",
+    "subTitle": "উত্তম মেডিক্যাল স্টোর",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Medical clinic",
+    "address": "Jamuria kuya more, Jamuria, Asansol, West Bengal 713336, India",
+    "neighborhood": "Jamuria",
+    "street": "Jamuria kuya more",
+    "city": "Asansol",
+    "postalCode": "713336",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://uttam-medical-404793.grexa.site/",
+    "phone": "+91 89069 22469",
+    "phoneUnformatted": "+918906922469",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6941478,
+      "lng": 87.0793843
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJp4wCkR0X9zkRNkOT8OJMjW0",
+    "categories": [
+      "Medical clinic",
+      "Medical Center"
+    ],
+    "fid": "0x39f7171d91028ca7:0x6d8d4ce2f0934336",
+    "cid": "7894050259432850230",
+    "reviewsCount": 14,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 14
+    },
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:36.809Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 9 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Uttam%20Medical%20Store&query_place_id=ChIJp4wCkR0X9zkRNkOT8OJMjW0",
+    "searchPageUrl": "https://www.google.com/maps/search/Dermatologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Dermatologist",
+    "language": "en",
+    "rank": 69,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkGLdUZfR-lNEWzZozZM-wVbvciqlOIV0GLlrwLDrONEeOlopsFj8hj1QRfo_2tZL64zv-b3SU4ksScPp2rvxfU59eeJhCtOX6c_CMXqBmZzTFXPZUPqmp3Zpv8i2AZBDcN5V9B4S8eR2_Q=w408-h906-k-no",
+    "kgmid": "/g/11tfhp0h2s",
+    "businessProfileId": "11003031077561181794"
+  }
+]

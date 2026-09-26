@@ -1,0 +1,9 @@
+openai
+gradio
+speechrecognition
+pyaudio
+pydub
+python-dotenv
+fastapi
+uvicorn
+python-multipart

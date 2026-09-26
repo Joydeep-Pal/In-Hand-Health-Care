@@ -1,0 +1,5324 @@
+[
+  {
+    "title": "Dr. Bikramjit Das,MD Paediatrics",
+    "subTitle": "ডিআর. বিক্রমজিৎ ডা,এমডি পেডিয়াট্রিক",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Pediatrician",
+    "address": "Tirupati Medical Centre(তিরুপতি মেডিক্যাল সেন্টার)Bottle Masjid Bari lane, Masjid Bari Lane, Pathak Bari, Asansol, West Bengal 713301, India",
+    "neighborhood": "Pathak Bari",
+    "street": "Tirupati Medical Centre(তিরুপতি মেডিক্যাল সেন্টার)Bottle Masjid Bari lane, Masjid Bari Lane",
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6818094,
+      "lng": 86.9786887
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJpRvFkZwf9zkRFShHNld7VgE",
+    "categories": [
+      "Pediatrician"
+    ],
+    "fid": "0x39f71f9c91c51ba5:0x1567b5736472815",
+    "cid": "96400056538048533",
+    "reviewsCount": 196,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 3,
+      "fiveStar": 192
+    },
+    "imagesCount": 22,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.879Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Bikramjit%20Das%2CMD%20Paediatrics&query_place_id=ChIJpRvFkZwf9zkRFShHNld7VgE",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnA0cVAYugT3RnfgqSBtEb9l_UxpPtcwaRQmGh8pUNt-9OM-UiVKE8gOmNunaju-xg-gmITfk-tSe2UXqFe8DKURdpL_p8JEU30hblOuTU0J4AQoTTqwod1bxRGsbBaJoiJbs_3NqclQkXA=w426-h240-k-no",
+    "kgmid": "/g/11rzfrjxwr",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dr Nibedita Kabiraj Child Specialist Parbati Medical Asansol",
+    "subTitle": "ডিআর নিবেদিতা কবিরাজ চাইল্ড স্পেশালিস্ট পার্বতী মেডিক্যাল আসানসোল",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Pediatrician",
+    "address": "Upper, Chelidanga, Asansol, West Bengal 713304, India",
+    "neighborhood": "Upper, Chelidanga",
+    "street": null,
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://sites.google.com/view/parbati-medical/home",
+    "phone": "+91 98328 56666",
+    "phoneUnformatted": "+919832856666",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6898825,
+      "lng": 86.953229
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJQ0xn4I0f9zkRTJx-sdoH8YE",
+    "categories": [
+      "Pediatrician",
+      "Child health care center",
+      "Doctor",
+      "Medical Center",
+      "Pharmacy"
+    ],
+    "fid": "0x39f71f8de0674c43:0x81f107dab17e9c4c",
+    "cid": "9363273736142101580",
+    "reviewsCount": 36,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 2,
+      "fiveStar": 31
+    },
+    "imagesCount": 17,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.880Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 12 PM, 6 to 8:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 12 PM, 6 to 8:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 12 PM, 6 to 8:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 12 PM, 6 to 8:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 12 PM, 6 to 8:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 12 PM, 6 to 8:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 12 PM, 6 to 8:30 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Google Pay": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Nibedita%20Kabiraj%20Child%20Specialist%20Parbati%20Medical%20Asansol&query_place_id=ChIJQ0xn4I0f9zkRTJx-sdoH8YE",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm8gwwYsF9PzJZ--v5y8RyRKYOldWSTBzUQAxZ7fv5Zb3xzSktZ_HFkMi_8JiV7SXlEmrM-o5D7yvechAjh2xCp6-hqbIUhP4OJ0sN6wIl1KSsoA1ocIG1DcpDEzrIGsorGMV6BSQFCRDs=w408-h725-k-no",
+    "kgmid": "/g/11mhh6zr95",
+    "businessProfileId": "14072777207527401755"
+  },
+  {
+    "title": "Dr. Atul Mantri",
+    "subTitle": "ডিআর. অতুল মন্ত্রী",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Pediatrician",
+    "address": "NSB Rd, opposite Fire Brigade, near Half Ticket Shoppe, Raniganj, West Bengal 713347, India",
+    "neighborhood": null,
+    "street": "NSB Rd, opposite Fire Brigade, near Half Ticket Shoppe",
+    "city": "Raniganj",
+    "postalCode": "713347",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://www.dratulmantri.com/",
+    "phone": "+91 90339 19788",
+    "phoneUnformatted": "+919033919788",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6120306,
+      "lng": 87.1135149
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJD7KwzH4R9zkRxgeCmqExsxY",
+    "categories": [
+      "Pediatrician"
+    ],
+    "fid": "0x39f7117eccb0b20f:0x16b331a19a8207c6",
+    "cid": "1635705659817330630",
+    "reviewsCount": 110,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 110
+    },
+    "imagesCount": 16,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.880Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "11:30 AM to 2 PM, 6:30 to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "11:30 AM to 2 PM, 6:30 to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "11:30 AM to 2 PM, 6:30 to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "11:30 AM to 2 PM, 6:30 to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "11:30 AM to 2 PM, 6:30 to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11:30 AM to 2 PM, 6:30 to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Atul%20Mantri&query_place_id=ChIJD7KwzH4R9zkRxgeCmqExsxY",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnE08dGm5TOT2mD_pcI2XJiyW-uUOGtnPY-d-FSAiNYAYfwDSTVUt49tr2eNpG6djebW0_p_yZmmsXkXqNCq-ZNoG-zGnN5XlJbEzTAngMgsMBdL0ugY24S3lpJX_FGSwFvf8CGMNGjUtvn=w408-h306-k-no",
+    "kgmid": "/g/11xlcbsszd",
+    "businessProfileId": "15459417780275424418"
+  },
+  {
+    "title": "Dr Soumya Jana (Child Specialist)",
+    "subTitle": "ডিআর সৌম্য জানা (চাইল্ড স্পেশালিষ্ট)",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Pediatrician",
+    "address": "Kumarpur, Asansol, West Bengal 713304, India",
+    "neighborhood": "Kumarpur",
+    "street": null,
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 86701 05835",
+    "phoneUnformatted": "+918670105835",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6959523,
+      "lng": 86.9386186
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJFdAFFq0f9zkRT4L1OyEyIaI",
+    "categories": [
+      "Pediatrician"
+    ],
+    "fid": "0x39f71fad1605d015:0xa22132213bf5824f",
+    "cid": "11682674026697032271",
+    "reviewsCount": 7,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 6
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.880Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Soumya%20Jana%20(Child%20Specialist)&query_place_id=ChIJFdAFFq0f9zkRT4L1OyEyIaI",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FNrjoMlqoqt50B1XgEL4xg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=236.51292&pitch=0&thumbfov=100",
+    "kgmid": "/g/11n55jjl81",
+    "businessProfileId": "3438463940334355941"
+  },
+  {
+    "title": "Dr Devdeep Mukherjee - pediatrician and new born specialist - Asansol and Durgapur",
+    "subTitle": "ডিআর দেবদীপ মুখার্জি - পেডিয়াট্রিশিয়ান অ্যান্ড নিউ বর্ন স্পেশালিস্ট - আসানসোল অ্যান্ড দুর্গাপুর",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Pediatrician",
+    "address": "opposite Hill View Nursing Home, Chelidanga, Asansol, West Bengal 713304, India",
+    "neighborhood": "Chelidanga",
+    "street": "opposite Hill View Nursing Home",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 81167 33010",
+    "phoneUnformatted": "+918116733010",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6852092,
+      "lng": 86.9548335
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJf2i6DUEf9zkR3frjDOsSRzU",
+    "categories": [
+      "Pediatrician"
+    ],
+    "fid": "0x39f71f410dba687f:0x354712eb0ce3fadd",
+    "cid": "3839058008099519197",
+    "reviewsCount": 104,
+    "reviewsDistribution": {
+      "oneStar": 26,
+      "twoStar": 1,
+      "threeStar": 2,
+      "fourStar": 0,
+      "fiveStar": 75
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.880Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 to 10 AM, 5:30 to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 to 10 AM, 6 to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 to 10 AM, 6 to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 to 10 AM, 6 to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 to 10 AM, 6 to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 to 10 AM, 6 to 7:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 to 10:30 AM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Payments": [
+        {
+          "Google Pay": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Devdeep%20Mukherjee%20-%20pediatrician%20and%20new%20born%20specialist%20-%20Asansol%20and%20Durgapur&query_place_id=ChIJf2i6DUEf9zkR3frjDOsSRzU",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkZ5c9NpMGVTD8roYh2j3gFRn9SrN-8w1D7S-g3EWEzmxaK4_k_1EgOZV4lsDYyay1TUlTBkJZi67tgZU9Ju1l6O0ndrCG4MIlBxCHmZv1gavLsH3zBoNZyJCQa2MMOexhVarvZOQ=w408-h544-k-no",
+    "kgmid": "/g/11mr2_fln0",
+    "businessProfileId": "16289404452985189280"
+  },
+  {
+    "title": "DR. Nibedita Kabiraj | Child Specialist | Pediatrician | Pediatric Doctor | Child Physician Health Clinic in Asansol",
+    "subTitle": "ডিআর. নিবেদিতা কবিরাজ | চাইল্ড স্পেশালিস্ট | পেডিয়াট্রিশিয়ান | পেডিয়াট্রিক ডক্টর | চাইল্ড ফিজিশিয়ান হেলথ ক্লিনিক ইন আসানসোল",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Pediatrician",
+    "address": "256/2, SB Gorai Rd, Ismile, Islampur, more, Asansol, West Bengal 713301, India",
+    "neighborhood": "Ismile, Islampur, more",
+    "street": "256/2, SB Gorai Rd",
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://acharjeehealth.in/doctors-post/top-pediatrician-in-asansol-kolkata/",
+    "phone": "+91 73649 21002",
+    "phoneUnformatted": "+917364921002",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.676771,
+      "lng": 86.9688683
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ2dhFOyUf9zkRva2dNW1dw6U",
+    "categories": [
+      "Pediatrician",
+      "Child health care center"
+    ],
+    "fid": "0x39f71f253b45d8d9:0xa5c35d6d359dadbd",
+    "cid": "11944493360349031869",
+    "reviewsCount": 31,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 0,
+      "fiveStar": 30
+    },
+    "imagesCount": 19,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.881Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 9:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 9:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 9:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 9:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 9:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 9:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 2 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Service options": [
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        },
+        {
+          "Assistive hearing loop": false
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        },
+        {
+          "Restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "Google Pay": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ],
+      "Children": [
+        {
+          "Nursing room": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=DR.%20Nibedita%20Kabiraj%20%7C%20Child%20Specialist%20%7C%20Pediatrician%20%7C%20Pediatric%20Doctor%20%7C%20Child%20Physician%20Health%20Clinic%20in%20Asansol&query_place_id=ChIJ2dhFOyUf9zkRva2dNW1dw6U",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmPWxoasdRDwxfL658JsWz9ZiOP8XRcwnzKV99p7xtx8bq8QRma1i5IOQp5aRoa85QXb7jaFeezuRCv7loupN94IdvWBzQQiDGsfAVENM7Crwf_1Ihw58JiTcrJkacacZHn909dPiBB5qyl=w408-h725-k-no",
+    "kgmid": "/g/11ycjc7ddb",
+    "businessProfileId": "2289558147446872757"
+  },
+  {
+    "title": "Dr. Dibyendu Chakraborty - Pediatrician",
+    "subTitle": "ডাক্তার দিবেন্দু চক্রবর্তী",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Pediatrician",
+    "address": "St. Vincent School, Opp:, S. B. Garai Road, Gate, Chelidanga, Asansol, West Bengal 713304, India",
+    "neighborhood": "Gate, Chelidanga",
+    "street": "St. Vincent School, Opp:, S. B. Garai Road",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "http://www.childsp.in/",
+    "phone": "+91 94328 00814",
+    "phoneUnformatted": "+919432800814",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6832502,
+      "lng": 86.9568674
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ-2F6Kvcf9zkR_hiRZw-XfPA",
+    "categories": [
+      "Pediatrician",
+      "Neonatal physician",
+      "Doctor"
+    ],
+    "fid": "0x39f71ff72a7a61fb:0xf07c970f679118fe",
+    "cid": "17328891558632691966",
+    "reviewsCount": 103,
+    "reviewsDistribution": {
+      "oneStar": 21,
+      "twoStar": 0,
+      "threeStar": 7,
+      "fourStar": 15,
+      "fiveStar": 60
+    },
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.881Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 2 PM, 7 to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 2 PM, 7 to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 2 PM, 7 to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 2 PM, 7 to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 2 PM, 7 to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 2 PM, 7 to 9 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Dibyendu%20Chakraborty%20-%20Pediatrician&query_place_id=ChIJ-2F6Kvcf9zkR_hiRZw-XfPA",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkk5n39IFS3aX8vtKfA6VstRMwEX1jqYlrlaOnFIqSooepy7WQtD0dFr0IaCB1t8tYsvA7XbZsbhgUOlkGMHDGsciY5_YUJ0acUqEpHf1rPjdT_CrwrZUiMSmfwuGKOgBHrMrKa8A=w408-h544-k-no",
+    "kgmid": "/g/11ghp8rnsd",
+    "businessProfileId": "16695895254633157394"
+  },
+  {
+    "title": "Dr.P.S.Maitra (Child Specialist)",
+    "subTitle": "ডাঃ পি এস মিত্র",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Pediatrician",
+    "address": "Netaji Subhas Road, opposite Pathak Bari, Pathak Bari, Asansol, West Bengal 713301, India",
+    "neighborhood": "Pathak Bari",
+    "street": "Netaji Subhas Road, opposite Pathak Bari",
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 94749 12985",
+    "phoneUnformatted": "+919474912985",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6815015,
+      "lng": 86.9781536
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJz_jhENQe9zkRXrp02H035ew",
+    "categories": [
+      "Pediatrician"
+    ],
+    "fid": "0x39f71ed410e1f8cf:0xece5377dd874ba5e",
+    "cid": "17070110976259701342",
+    "reviewsCount": 17,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 2,
+      "fiveStar": 14
+    },
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.881Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "11 AM to 12:30 PM, 6 to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "11 AM to 12:30 PM, 6 to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "11 AM to 12:30 PM, 6 to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "11 AM to 12:30 PM, 6 to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "11 AM to 12:30 PM, 6 to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11 AM to 12:30 PM, 6 to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11 AM to 12:30 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": false
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.P.S.Maitra%20(Child%20Specialist)&query_place_id=ChIJz_jhENQe9zkRXrp02H035ew",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnEt1Jl5gwwvFEezKkgB19jkTJFl5P-kDvlq8A7alrkn45qxTDGAuh-3PSV5pk51ikx-3SbL78KcFp9VMVmtU5PoSRfNH4bL8TRC-xeNtBJX3707_76IikStT1QIGgIWf3OG-LcfJba16L-=w408-h544-k-no",
+    "kgmid": "/g/11g9jm2ktg",
+    "businessProfileId": "1224277261164444462"
+  },
+  {
+    "title": "Dr Ashim Kumar Ghosh",
+    "subTitle": "ডাঃ অসীম কুমার ঘোষ",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Pediatrician",
+    "address": "Apcar Garden, Asansol, West Bengal 713304, India",
+    "neighborhood": "Apcar Garden",
+    "street": null,
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "http://www.drakgasn.com/",
+    "phone": "+91 74773 50771",
+    "phoneUnformatted": "+917477350771",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6953692,
+      "lng": 86.9542538
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJrYsI5Rof9zkRopcDAQSKVkU",
+    "categories": [
+      "Pediatrician"
+    ],
+    "fid": "0x39f71f1ae5088bad:0x45568a04010397a2",
+    "cid": "4996332586415658914",
+    "reviewsCount": 99,
+    "reviewsDistribution": {
+      "oneStar": 26,
+      "twoStar": 3,
+      "threeStar": 5,
+      "fourStar": 17,
+      "fiveStar": 48
+    },
+    "imagesCount": 24,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.881Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:15 AM to 12:15 PM, 5 to 6:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:15 AM to 12 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:15 AM to 12:15 PM, 5 to 6:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:15 AM to 12 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:15 AM to 12:15 PM, 5 to 6:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:15 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9:15 AM to 12 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        },
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        },
+        {
+          "Google Pay": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Ashim%20Kumar%20Ghosh&query_place_id=ChIJrYsI5Rof9zkRopcDAQSKVkU",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkPudumRw-JZCxtY-lQUJKsk5PuzgE8FzeZj3WsOuaOnfV2L1MKXkipQpW0zDpSy8y-GcIeHLmiYR0Y3WhYU9KelSe_Kbhqh4iR4wnuFnjZ6nU7n3XSSzVua9FowRYB3CH0XpBWpi0IlvqF=w408-h306-k-no",
+    "kgmid": "/g/11c30_s6jd",
+    "businessProfileId": "14594572621887630829"
+  },
+  {
+    "title": "Dr. Rudranil Lahiri ( Asansol Child Care Center)",
+    "subTitle": "ডিআর. রুদ্রনীল লাহিড়ী ( আসানসোল চাইল্ড কেয়ার সেন্টার)",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Pediatrician",
+    "address": "Child Care, Sahana Commercial Complex, Chelidanga Main Rd, Chelidanga, Asansol, West Bengal 713304, India",
+    "neighborhood": "Chelidanga",
+    "street": "Child Care, Sahana Commercial Complex, Chelidanga Main Rd",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://drrudranillahiri.com/",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6895632,
+      "lng": 86.9584476
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJM4FxymCclo8R4djujLCcK5I",
+    "categories": [
+      "Pediatrician",
+      "Child health care center",
+      "Doctor"
+    ],
+    "fid": "0x8f969c60ca718133:0x922b9cb08ceed8e1",
+    "cid": "10532684435628677345",
+    "reviewsCount": 3,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 3
+    },
+    "imagesCount": 15,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.881Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Rudranil%20Lahiri%20(%20Asansol%20Child%20Care%20Center)&query_place_id=ChIJM4FxymCclo8R4djujLCcK5I",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlEKPqt1QBBqxOBJUejqkYqwkBdm0nWe5ARt91ZUIdvMQLYqi0cPdlNXlOpCzLQBxlC60pqYmK2UEqnovgFqfjU_VrdBlF_0sjpegVXwSCY_8MAkkBQ7uW_wzhw2idRxKyHGciUbXlfvw=w408-h306-k-no",
+    "kgmid": "/g/11zyt0jjn2",
+    "businessProfileId": "14514115264461834437"
+  },
+  {
+    "title": "Dr Pradeep Mukherjee",
+    "subTitle": "ডাঃ প্রদীপ মুখার্জী",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Pediatrician",
+    "address": "hill view north, near Wonderland School, off SB Gorai Road, Chelidanga, Asansol, West Bengal 713304, India",
+    "neighborhood": "Chelidanga",
+    "street": "hill view north, near Wonderland School, off SB Gorai Road",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 96095 00494",
+    "phoneUnformatted": "+919609500494",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6855025,
+      "lng": 86.9553633
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJX8gtESgf9zkRZNrUfWGO6tY",
+    "categories": [
+      "Pediatrician"
+    ],
+    "fid": "0x39f71f28112dc85f:0xd6ea8e617dd4da64",
+    "cid": "15486346818040945252",
+    "reviewsCount": 58,
+    "reviewsDistribution": {
+      "oneStar": 9,
+      "twoStar": 3,
+      "threeStar": 1,
+      "fourStar": 2,
+      "fiveStar": 43
+    },
+    "imagesCount": 14,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.881Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 12 PM, 5:30 to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 12 PM, 5:30 to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 12 PM, 5:30 to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 12 PM, 5:30 to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 12 PM, 5:30 to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": false
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Appointments recommended": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Pradeep%20Mukherjee&query_place_id=ChIJX8gtESgf9zkRZNrUfWGO6tY",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlf1ltZUGyAHd2ToPD5X7c-Z-hnvZOcIYEdwOPbPbKoFjCTsYiczDNwkkLjHeQPPVX6znHS3hYTnRLOJ97QLMYoE_m3YM7ifxW_-trn5ooplL4OI4jcWEg81TtW6pf_-XVviyXZ2n-pUJMh=w408-h541-k-no",
+    "kgmid": "/g/1v4prdkg",
+    "businessProfileId": "17161378534616689394"
+  },
+  {
+    "title": "Dr.Avik Banerjee MBBS,Md Pediatrics",
+    "subTitle": "ডিআর.অভীক ব্যানার্জি এমবিবিএস,এমডি পেডিয়াট্রিক",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Medical clinic",
+    "address": "SB Gorai Rd, Pathak Bari, Asansol, West Bengal 713301, India",
+    "neighborhood": "Pathak Bari",
+    "street": "SB Gorai Rd",
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6765887,
+      "lng": 86.9721264
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJo6AGUW8f9zkRd890oA0fKp8",
+    "categories": [
+      "Medical clinic"
+    ],
+    "fid": "0x39f71f6f5106a0a3:0x9f2a1f0da074cf77",
+    "cid": "11469013544439435127",
+    "reviewsCount": 2,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 2
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.881Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.Avik%20Banerjee%20MBBS%2CMd%20Pediatrics&query_place_id=ChIJo6AGUW8f9zkRd890oA0fKp8",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VGDee9VkItMwAUEt83DTmQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=335.63132&pitch=0&thumbfov=100",
+    "kgmid": "/g/11zgvvvk6g",
+    "businessProfileId": "5538691145950957402"
+  },
+  {
+    "title": "Dr. Rudranil Lahiri",
+    "subTitle": "ডিআর. রুদ্রনীল লাহিড়ী",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Pediatrician",
+    "address": "S B Gorai Road(Middle, SB Gorai Rd, Hamid Nagar, Asansol, West Bengal 713301, India",
+    "neighborhood": "Master Para, Islampur, Hamid Nagar",
+    "street": "S B Gorai Road(Middle, SB Gorai Rd",
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "http://drrudranillahiri.com/",
+    "phone": "+91 97339 75555",
+    "phoneUnformatted": "+919733975555",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6766941,
+      "lng": 86.969962
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ6dpEFpkf9zkRvE7kQNvcxnM",
+    "categories": [
+      "Pediatrician"
+    ],
+    "fid": "0x39f71f991644dae9:0x73c6dcdb40e44ebc",
+    "cid": "8342598193995075260",
+    "reviewsCount": 21,
+    "reviewsDistribution": {
+      "oneStar": 5,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 15
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.881Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Rudranil%20Lahiri&query_place_id=ChIJ6dpEFpkf9zkRvE7kQNvcxnM",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnr9uCy42ApThCfq4MtO5E4FsI5KPcztzpXcKbjZ8dpeg19MiXGnEHeUff2Clb4KjJHZarjnPBnjUo2Czd8Rkeem66tehn55O2w8jMVXhkODJhS9rDvqTmquudv5_M--wAG_vM=w408-h408-k-no",
+    "kgmid": "/g/11r8cp6gzt",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dr.Ash chamber(child specialist)",
+    "subTitle": "ডিআর.আস চেম্বার(চাইল্ড স্পেশালিষ্ট)",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "MXG9+MMX, SB Gorai Rd, Master Para, Islampur, Hamid Nagar, Asansol, West Bengal 713301, India",
+    "neighborhood": "Master Para, Islampur, Hamid Nagar",
+    "street": "MXG9+MMX, SB Gorai Rd",
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 93781 35098",
+    "phoneUnformatted": "+919378135098",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6767255,
+      "lng": 86.969234
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJk1Z8xmYf9zkRj-MnaXfJEec",
+    "categories": [
+      "Doctor"
+    ],
+    "fid": "0x39f71f66c67c5693:0xe711c9776927e38f",
+    "cid": "16650310812067947407",
+    "reviewsCount": 24,
+    "reviewsDistribution": {
+      "oneStar": 5,
+      "twoStar": 1,
+      "threeStar": 0,
+      "fourStar": 5,
+      "fiveStar": 13
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.881Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.Ash%20chamber(child%20specialist)&query_place_id=ChIJk1Z8xmYf9zkRj-MnaXfJEec",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlQ6PMSZBvonVsAL1SxpohAcVoGmAr2Y6mq6uoCK7b9HcXD6pPioCCOg-M1YslIDJDWDEGZ0Si5NStZ69cEqIguDnCv_-wZXnxOpHNGuJReTuyYueZB0fuHEQsInhm9La2Vx0_J=w408-h306-k-no",
+    "kgmid": "/g/11fmp8_l53",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dr. Pampa Mukherjee",
+    "subTitle": "ডিআর. পাম্প মুখার্জি",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Child health care center",
+    "address": "Hill View, Shivam Apartment, SB Gorai Rd, Chelidanga, Asansol, West Bengal 713304, India",
+    "neighborhood": "Chelidanga",
+    "street": "Hill View, Shivam Apartment, SB Gorai Rd",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 94341 00431",
+    "phoneUnformatted": "+919434100431",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6841672,
+      "lng": 86.9557679
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJxVyPQ-Ie9zkRCuUJ9hec03E",
+    "categories": [
+      "Child health care center"
+    ],
+    "fid": "0x39f71ee2438f5cc5:0x71d39c17f609e50a",
+    "cid": "8202070973097829642",
+    "reviewsCount": 20,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 2,
+      "fiveStar": 18
+    },
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.882Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 to 11:30 AM, 8 to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 to 11:30 AM, 8 to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 to 11:30 AM, 8 to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 to 11:30 AM, 8 to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 to 11:30 AM, 8 to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 to 11:30 AM, 8 to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 12 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Pampa%20Mukherjee&query_place_id=ChIJxVyPQ-Ie9zkRCuUJ9hec03E",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=c_HjhXo3rYj9Q3ntAbi4eA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=46.3148&pitch=0&thumbfov=100",
+    "kgmid": "/g/11ggmr_xx9",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dr. Malay Mandal(MBBS, MD (PAEDIATRICS)) -Child Specialist Near Me |Best Doctor for Viral Fever,Cough and Cold ,Allergy",
+    "subTitle": "ডিআর. মালয় মন্ডল(এমবিবিএস, এমডি (পেডিয়াট্রিক)) -চাইল্ড স্পেশালিস্ট নিয়ার মে |বেস্ট ডক্টর ফর বিরল ফিভার,কফ অ্যান্ড কোল্ড ,অ্যালার্জি",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Pediatrician",
+    "address": "192, Vivekananda Sarani, near Eveland Nursing Home, Kanyapur, Asansol, Kolkata, West Bengal 713304, India",
+    "neighborhood": "Kanyapur",
+    "street": "192, Vivekananda Sarani, near Eveland Nursing Home",
+    "city": "Asansol, Kolkata",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://www.apollo247.com/doctors/0db2d63b-0141-492f-a891-4dc057fd4410?utm_source=clinics_gmb&utm_medium=clinics_gmb&utm_campaign=clinics_gmb",
+    "phone": "+91 80 4696 1835",
+    "phoneUnformatted": "+918046961835",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6966655,
+      "lng": 86.9523166
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJdXIut7gf9zkR3jl1wgv4Mbo",
+    "categories": [
+      "Pediatrician",
+      "Doctor",
+      "Hospital",
+      "Medical clinic"
+    ],
+    "fid": "0x39f71fb8b72e7275:0xba31f80bc27539de",
+    "cid": "13416777494304209374",
+    "reviewsCount": 10,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 1,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 8
+    },
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.882Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 5:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 5:30 PM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Online service hours": [
+        {
+          "day": "Monday",
+          "hours": "10 AM–6 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10 AM–6 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10 AM–6 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10 AM–6 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10 AM–6 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10 AM–6 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Google Pay": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Malay%20Mandal(MBBS%2C%20MD%20(PAEDIATRICS))%20-Child%20Specialist%20Near%20Me%20%7CBest%20Doctor%20for%20Viral%20Fever%2CCough%20and%20Cold%20%2CAllergy&query_place_id=ChIJdXIut7gf9zkR3jl1wgv4Mbo",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnYpRdqVOUyHE9nTEpZ5X8TMxS-xEYuXKxN5PWTxu7HFVzc5SKULRWkZtsGpzrM9ml05dvd_F8seQ3jl2wtarPii1-opKFsJQgTvIErSu2_sP0QwMsHu1jKmLFy8j2etAihGR_t=w408-h367-k-no",
+    "kgmid": "/g/11ks2m54tx",
+    "businessProfileId": "14132730261707872656"
+  },
+  {
+    "title": "Dr Shweta Agarwal , child specialist",
+    "subTitle": "ডিআর শ্বেতা আগরওয়াল , চাইল্ড স্পেশালিস্ট",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Pediatrician",
+    "address": "Shishu clinic, Doctor's Colony, next to Jyoti xray, Searsole Rajbari, Rambagan Doctor's Colony, Raniganj, West Bengal 713358, India",
+    "neighborhood": "Searsole Rajbari, Rambagan Doctor's Colony",
+    "street": "Shishu clinic, Doctor's Colony, next to Jyoti xray",
+    "city": "Raniganj",
+    "postalCode": "713358",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 73844 31222",
+    "phoneUnformatted": "+917384431222",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.63064,
+      "lng": 87.1169586
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ42uE_mUR9zkRdudSr5LU-HU",
+    "categories": [
+      "Pediatrician"
+    ],
+    "fid": "0x39f71165fe846be3:0x75f8d492af52e776",
+    "cid": "8500778023133570934",
+    "reviewsCount": 11,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 1,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 9
+    },
+    "imagesCount": 21,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.882Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 12:30 PM, 5:30 to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 12:30 PM, 5:30 to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 12:30 PM, 5:30 to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 12:30 PM, 5:30 to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 12:30 PM, 5:30 to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "4 to 5 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Shweta%20Agarwal%20%2C%20child%20specialist&query_place_id=ChIJ42uE_mUR9zkRdudSr5LU-HU",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnDhDEskdi5_GFMalfIbnK_66Pg4ezw0EUZyUzLCpy9ZtESpnDfIlF98YeHCiOLMjK4UDbdaYzwg7VuG92ohwFQ6DhUSyqRhrvYmMEslHHIXJU9tzE0rMDkAIGI9huZEsQQzS1WqKdjqTj7=w408-h541-k-no",
+    "kgmid": "/g/11xdvr0htn",
+    "businessProfileId": "15669523758386555237"
+  },
+  {
+    "title": "Dr U K Roy Child Specialist Clinic",
+    "subTitle": "ডাঃ ইউ কে রায় ক্লিনিক",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Pediatrician",
+    "address": "Dilip Das Rd, opp. B.C. college, near Children's Park, Hill View Main, Sarani, Chelidanga, Asansol, West Bengal 713304, India",
+    "neighborhood": "Hill View Main, Sarani, Chelidanga",
+    "street": "Dilip Das Rd, opp. B.C. college, near Children's Park",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://www.drroychildclinic.com/",
+    "phone": "+91 94341 63225",
+    "phoneUnformatted": "+919434163225",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6797759,
+      "lng": 86.9534538
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ7xGepeQe9zkRjkn02-ILCAE",
+    "categories": [
+      "Pediatrician",
+      "Child health care center"
+    ],
+    "fid": "0x39f71ee4a59e11ef:0x1080be2dbf4498e",
+    "cid": "74322462832347534",
+    "reviewsCount": 11,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 8
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.882Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Onsite services": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20U%20K%20Roy%20Child%20Specialist%20Clinic&query_place_id=ChIJ7xGepeQe9zkRjkn02-ILCAE",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3uTgIZRgdzG0VhtogT8SNg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=41.67863&pitch=0&thumbfov=100",
+    "kgmid": "/g/11gf972bgz",
+    "businessProfileId": "11252308914351860405"
+  },
+  {
+    "title": "Das House",
+    "subTitle": "দাস হাউস",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Pediatrician",
+    "address": "H5JV+G85, Andal, West Bengal 713321, India",
+    "neighborhood": null,
+    "street": "H5JV+G85",
+    "city": "Andal",
+    "postalCode": "713321",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.5812534,
+      "lng": 87.1933631
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJsa9_SyYT9zkRoDq2xN-dC_Y",
+    "categories": [
+      "Pediatrician"
+    ],
+    "fid": "0x39f713264b7fafb1:0xf60b9ddfc4b63aa0",
+    "cid": "17729437942477634208",
+    "reviewsCount": 2,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 1
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.882Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Das%20House&query_place_id=ChIJsa9_SyYT9zkRoDq2xN-dC_Y",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=86o8ibwN5lXC5A3ds0afkg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=15.234675&pitch=0&thumbfov=100",
+    "kgmid": "/g/11sdsnpp7y",
+    "businessProfileId": null
+  },
+  {
+    "title": "MED-E-SIL || Pediatrician in Asansol || Dermatologist in Asansol || Orthopaedic in Asansol || General Physician in Asansol",
+    "subTitle": "এমইডি-ই-এসআইএল || পেডিয়াট্রিশিয়ান ইন আসানসোল || ডার্মাটোলজিস্ট ইন আসানসোল || অর্থোপেডিক ইন আসানসোল || জেনারেল ফিজিশিয়ান ইন আসানসোল",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Pediatrician",
+    "address": "L Vidyamandir, N.C, Dhadka Road, near Dhadka, South Dhadka, Dhadka, Asansol, West Bengal 713302, India",
+    "neighborhood": "South Dhadka, Dhadka",
+    "street": "L Vidyamandir, N.C, Dhadka Road, near Dhadka",
+    "city": "Asansol",
+    "postalCode": "713302",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://jsdl.in/RSL-IOV1768457015",
+    "phone": "+91 93826 37800",
+    "phoneUnformatted": "+919382637800",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6996222,
+      "lng": 86.980377
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJj0Gs5RMf9zkRUeESCx7ZJA8",
+    "categories": [
+      "Pediatrician",
+      "Dermatologist",
+      "Doctor",
+      "Medical Center",
+      "Orthopedic clinic",
+      "Orthopedic surgeon",
+      "Pediatric surgeon",
+      "Medical clinic",
+      "Specialized clinic"
+    ],
+    "fid": "0x39f71f13e5ac418f:0xf24d91e0b12e151",
+    "cid": "1091235732788535633",
+    "reviewsCount": 56,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 55
+    },
+    "imagesCount": 25,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.882Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 2 PM, 5 to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 2 PM, 5 to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 2 PM, 5 to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 2 PM, 5 to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 2 PM, 5 to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 2 PM, 5 to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 2 PM, 5 to 10 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Onsite services": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cash-only": true
+        },
+        {
+          "Google Pay": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        },
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=MED-E-SIL%20%7C%7C%20Pediatrician%20in%20Asansol%20%7C%7C%20Dermatologist%20in%20Asansol%20%7C%7C%20Orthopaedic%20in%20Asansol%20%7C%7C%20General%20Physician%20in%20Asansol&query_place_id=ChIJj0Gs5RMf9zkRUeESCx7ZJA8",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn3X2W3DfxdBTWP1n0BD3fXVooU3heCoJQTetMxemN3S7EeI0hgMH2NzBqwgZcPrDnm94RTrKvOGnW9XsJqtn0ORwRCRX9Ifkm6T7swHrP2fEybaAIYGud7kGzupCGzhPxvgsTmIeQneoE=w426-h240-k-no",
+    "kgmid": "/g/11smm7l2dr",
+    "businessProfileId": "17747284593070508264"
+  },
+  {
+    "title": "Dr S Garai Child Specialist",
+    "subTitle": "ডিআর এস গড়াই চাইল্ড স্পেশালিস্ট",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Pediatrician",
+    "address": "Bus Stand, Barakar, West Bengal 713324, India",
+    "neighborhood": null,
+    "street": "Bus Stand",
+    "city": "Barakar",
+    "postalCode": "713324",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.7345897,
+      "lng": 86.8193877
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJxQ8GibLd9jkRGz8sQVGf3jE",
+    "categories": [
+      "Pediatrician"
+    ],
+    "fid": "0x39f6ddb289060fc5:0x31de9f51412c3f1b",
+    "cid": "3593484724022820635",
+    "reviewsCount": null,
+    "imagesCount": 0,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:18.757Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20S%20Garai%20Child%20Specialist&query_place_id=ChIJxQ8GibLd9jkRGz8sQVGf3jE",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 23,
+    "isAdvertisement": false,
+    "imageUrl": null,
+    "kgmid": "/g/11zyrdy7w_",
+    "businessProfileId": "14261403897473488292"
+  },
+  {
+    "title": "Dr.P.K.Pati (CHILD SPECIALIST )",
+    "subTitle": "ডাঃ পি.কে . পতি (চাইল্ড স্পেশালিস্ট )",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "PRJ8+74X, Dishergarh Rd, Barakar, West Bengal 713324, India",
+    "neighborhood": null,
+    "street": "PRJ8+74X, Dishergarh Rd",
+    "city": "Barakar",
+    "postalCode": "713324",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 341 252 1097",
+    "phoneUnformatted": "+913412521097",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.7307399,
+      "lng": 86.8153481
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJbYL99Pjd9jkR6_VSgwoeG-o",
+    "categories": [
+      "Doctor"
+    ],
+    "fid": "0x39f6ddf8f4fd826d:0xea1b1e0a8352f5eb",
+    "cid": "16869109859748083179",
+    "reviewsCount": 42,
+    "reviewsDistribution": {
+      "oneStar": 14,
+      "twoStar": 1,
+      "threeStar": 2,
+      "fourStar": 7,
+      "fiveStar": 18
+    },
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:18.757Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7:30 AM to 2 PM, 4 to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7:30 AM to 2 PM, 4 to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7:30 AM to 2 PM, 4 to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7:30 AM to 2 PM, 4 to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7:30 AM to 2 PM, 4 to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7:30 AM to 2 PM, 4 to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7:30 AM to 2 PM, 4 to 7 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.P.K.Pati%20(CHILD%20SPECIALIST%20)&query_place_id=ChIJbYL99Pjd9jkR6_VSgwoeG-o",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 24,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn9YGcxC7waFlqIlL2I5exAwamDkXOnjYFDlU-YVssn_b-hmc9hvYDyI4haGxNpqya7K6U3_tM7fn8mrsOYooFi7VI_HX3MovJduLmPGI5aA1qls-WsV7WJsOK_q0NRSO6qt7FB3jsqjwrY=w408-h544-k-no",
+    "kgmid": "/g/11dyxk4whm",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dr. Atanu Bhadra",
+    "subTitle": "ডিআর. অতনু ভদ্র",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Pulmonologist",
+    "address": "Radha Nagar Rd, near Chitra Cinema, Radha Nagar, Asansol, West Bengal 713325, India",
+    "neighborhood": "Radha Nagar",
+    "street": "Radha Nagar Rd, near Chitra Cinema",
+    "city": "Asansol",
+    "postalCode": "713325",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 81700 38467",
+    "phoneUnformatted": "+918170038467",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.685853,
+      "lng": 86.9414802
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.2,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJAQCQs6of9zkRj1zQW1vT7kc",
+    "categories": [
+      "Pulmonologist"
+    ],
+    "fid": "0x39f71faab3900001:0x47eed35b5bd05c8f",
+    "cid": "5183312610485886095",
+    "reviewsCount": 5,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 4
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:18.757Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Atanu%20Bhadra&query_place_id=ChIJAQCQs6of9zkRj1zQW1vT7kc",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 25,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-e6vi-jUHYBrwKyU6g8Fug&cb_client=search.gws-prod.gps&w=408&h=240&yaw=181.82808&pitch=0&thumbfov=100",
+    "kgmid": "/g/11qyfyq6hj",
+    "businessProfileId": null
+  },
+  {
+    "title": "CHILD CARE CENTRE",
+    "subTitle": "চাইল্ড কেয়ার সেন্টার",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Child health care center",
+    "address": "Sahana Commercial Complex, near P.R. Mukherjee Nursing Home, Master Para, Islampur, Pathak Bari, Asansol, West Bengal 713301, India",
+    "neighborhood": "Master Para, Islampur, Pathak Bari",
+    "street": "Sahana Commercial Complex, near P.R. Mukherjee Nursing Home",
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://drrudranillahiri.com/",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6767057,
+      "lng": 86.9699722
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ2bTg1Fcf9zkRKlqpoYwr4Ck",
+    "categories": [
+      "Child health care center"
+    ],
+    "fid": "0x39f71f57d4e0b4d9:0x29e02b8ca1a95a2a",
+    "cid": "3017459633345878570",
+    "reviewsCount": null,
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:18.758Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 9 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=CHILD%20CARE%20CENTRE&query_place_id=ChIJ2bTg1Fcf9zkRKlqpoYwr4Ck",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 26,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnDF7RIy2yx9WsTsj3tmRCvrxCirCdP88Dk-KyGXB2iel8csnVmQ9-OZqiHbcrICh0kcXJ8CMemj8zHQOc1EKTBLG5B5jruFhWJ0DT2mcqfvvjiFYPrGs_l8K1Qn3QBqOdvW7u8pX-pSyT_=w408-h306-k-no",
+    "kgmid": "/g/11y_cf4c0y",
+    "businessProfileId": "5868781952885941256"
+  },
+  {
+    "title": "Dr.Amit Mandal MBBS, MD (Paediatrics) Child Specialist",
+    "subTitle": "ডিআর.অমিত মন্ডল এমবিবিএস, এমডি (পেডিয়াট্রিক) চাইল্ড স্পেশালিস্ট",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Pediatrician",
+    "address": "Laha Medical Stores, SB Gorai Rd, Pathak Bari, Asansol, West Bengal 713301, India",
+    "neighborhood": "Pathak Bari",
+    "street": "Laha Medical Stores, SB Gorai Rd",
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6765887,
+      "lng": 86.9721264
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJn0SImRAf9zkRvMyQEtnCMiE",
+    "categories": [
+      "Pediatrician"
+    ],
+    "fid": "0x39f71f109988449f:0x2132c2d91290ccbc",
+    "cid": "2392188589662325948",
+    "reviewsCount": 4,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 4
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:18.758Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 to 8:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Friday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9:30 to 10:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.Amit%20Mandal%20MBBS%2C%20MD%20(Paediatrics)%20Child%20Specialist&query_place_id=ChIJn0SImRAf9zkRvMyQEtnCMiE",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 28,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VGDee9VkItMwAUEt83DTmQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=335.63132&pitch=0&thumbfov=100",
+    "kgmid": "/g/11xtn1lwdk",
+    "businessProfileId": null
+  },
+  {
+    "title": "Aaradhya Health Hub",
+    "subTitle": "আরাধ্য হেলথ হাব",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "Register Office & Barat Club, Srija Apartment SB Gorai Road, S.B, Gorai Road, near Asansol, Upper, Chelidanga, Asansol, West Bengal 713304, India",
+    "neighborhood": "Upper, Chelidanga",
+    "street": "Register Office & Barat Club, Srija Apartment SB Gorai Road, S.B, Gorai Road, near Asansol",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 80130 11118",
+    "phoneUnformatted": "+918013011118",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6885,
+      "lng": 86.9524072
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJlzguTXcf9zkRd7M-zTK7L5U",
+    "categories": [
+      "Doctor",
+      "Dermatologist",
+      "Diabetologist",
+      "Neurologist",
+      "Neurosurgeon",
+      "Oncologist",
+      "Otolaryngologist",
+      "Psychiatrist",
+      "Skin care clinic",
+      "Urologist"
+    ],
+    "fid": "0x39f71f774d2e3897:0x952fbb32cd3eb377",
+    "cid": "10750016662422860663",
+    "reviewsCount": 96,
+    "reviewsDistribution": {
+      "oneStar": 27,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 3,
+      "fiveStar": 66
+    },
+    "imagesCount": 253,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:18.758Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 11 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 11 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 11 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 11 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 11 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 11 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 11 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        },
+        {
+          "Restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Google Pay": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Aaradhya%20Health%20Hub&query_place_id=ChIJlzguTXcf9zkRd7M-zTK7L5U",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 30,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmwcRSVvaUx106Mi91rYKY6RpZxWrbdltk0oz0oKxojp3SxxF1l7WrD_WetUFqp1L3eyL4Imi1t_xb-h-dCBM9YVT5RbxcKtfGEJWaZKHMWpYUuvANHmg_X2V4ge2ljYo3kwcWg=w408-h394-k-no",
+    "kgmid": "/g/11hzvxcgzq",
+    "businessProfileId": "2495588862927058063"
+  },
+  {
+    "title": "Dr Tanmoy Biswas",
+    "subTitle": "ডিআর তন্ময় বিশ্বাস",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Pediatrician",
+    "address": "MXQ8+635, Chelidanga, Asansol, West Bengal 713301, India",
+    "neighborhood": "Chelidanga",
+    "street": "MXQ8+635",
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6879982,
+      "lng": 86.9651441
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ0SDpNQAf9zkREqnAxk8GMnE",
+    "categories": [
+      "Pediatrician"
+    ],
+    "fid": "0x39f71f0035e920d1:0x7132064fc6c0a912",
+    "cid": "8156588814828087570",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:18.758Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Tanmoy%20Biswas&query_place_id=ChIJ0SDpNQAf9zkREqnAxk8GMnE",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 31,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn5XqwMqAPuq0GK-17mOYMxjPbZWzlt2PXDOp4vghouJ5cjLBngkl9vpwume0eVFfydDUw-CJf5fHid5uGho1zkdcDdYq2LoViJKJkn95NApEU2WlsYLzImqoad1uZRz_R4OdkQ8w=w408-h928-k-no",
+    "kgmid": "/g/11x26sth_2",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dr.Nilotpal Bhattacherjee - Pulmonologist & Allergy Specialist (Asansol Clinic )",
+    "subTitle": "ডিআর.নীলোৎপল ভট্টাচার্য - পালমোনোলজিস্ট & অ্যালার্জি স্পেশালিস্ট (আসানসোল ক্লিনিক )",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Pulmonologist",
+    "address": "Kalipahari more, Lifeline Hospital, Asansol, West Bengal 713339, India",
+    "neighborhood": null,
+    "street": "Kalipahari more, Lifeline Hospital",
+    "city": "Asansol",
+    "postalCode": "713339",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6763696,
+      "lng": 87.0160961
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJg5nXRqYZ9zkRg-KTxNqqLIc",
+    "categories": [
+      "Pulmonologist",
+      "Allergist",
+      "Pediatric pulmonologist"
+    ],
+    "fid": "0x39f719a646d79983:0x872caadac493e283",
+    "cid": "9740347950673158787",
+    "reviewsCount": null,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:18.758Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "1 to 3 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Thursday",
+        "hours": "1 to 3 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Saturday",
+        "hours": "2:30 to 4:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.Nilotpal%20Bhattacherjee%20-%20Pulmonologist%20%26%20Allergy%20Specialist%20(Asansol%20Clinic%20)&query_place_id=ChIJg5nXRqYZ9zkRg-KTxNqqLIc",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 32,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlNntXCsFVuoWOUavairqjRq-vHbax1mruawBLIFQAm_rdHck9V2-vXL_4dXc9iabGXnSRaa9fcPKJLsRdx9RYKXGzYmgwinQjzeEasrF_Vr7hmzKdoRHPi9MpwOlTFe1A_93DRsWgJcf9A=w408-h574-k-no",
+    "kgmid": "/g/11zb5p6xm5",
+    "businessProfileId": "9713317302820090955"
+  },
+  {
+    "title": "DR. Bikramjit Das | MD Child Specialist",
+    "subTitle": "ডিআর. বিক্রমজিৎ দাস | এমডি চাইল্ড স্পেশালিস্ট",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Pharmacy",
+    "address": "Jagannath Plaza, near Galaxy Mall, IISCO Steel Plant, Burnpur, Asansol, West Bengal 713325, India",
+    "neighborhood": "IISCO Steel Plant, Burnpur",
+    "street": "Jagannath Plaza, near Galaxy Mall",
+    "city": "Asansol",
+    "postalCode": "713325",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 98901 99731",
+    "phoneUnformatted": "+919890199731",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6844568,
+      "lng": 86.9432199
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJtzvW9YQf9zkREr_v_AK8eqk",
+    "categories": [
+      "Pharmacy"
+    ],
+    "fid": "0x39f71f84f5d63bb7:0xa97abc02fcefbf12",
+    "cid": "12212280060588048146",
+    "reviewsCount": 12,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 1,
+      "threeStar": 1,
+      "fourStar": 0,
+      "fiveStar": 10
+    },
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:18.758Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 10:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 10:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 10:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 10:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 10:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 10:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8:30 AM to 10:30 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=DR.%20Bikramjit%20Das%20%7C%20MD%20Child%20Specialist&query_place_id=ChIJtzvW9YQf9zkREr_v_AK8eqk",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 33,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hPBMubvO8CVuUqg0Wxxubg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=261.1143&pitch=0&thumbfov=100",
+    "kgmid": "/g/11t7g_rwwj",
+    "businessProfileId": "3808715133215018863"
+  },
+  {
+    "title": "Tirupati Medical Centre(তিরুপতি মেডিক্যাল সেন্টার)Bottle Masjid Bari lane",
+    "subTitle": "Tirupati Medical Centre (তিরুপতি মেডিক্যাল সেন্টার)",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Drug store",
+    "address": "Tirupati Medical Centre, Masjid Bari Lane, Pathak Bari, Asansol, West Bengal 713301, India",
+    "neighborhood": "Pathak Bari",
+    "street": "Tirupati Medical Centre, Masjid Bari Lane",
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 79081 42075",
+    "phoneUnformatted": "+917908142075",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6818103,
+      "lng": 86.9786884
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ-ZYdqJAf9zkRS8KOQEshcOc",
+    "categories": [
+      "Drug store",
+      "Pharmacy"
+    ],
+    "fid": "0x39f71f90a81d96f9:0xe770214b408ec24b",
+    "cid": "16676866027242308171",
+    "reviewsCount": 188,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 3,
+      "fiveStar": 185
+    },
+    "imagesCount": 40,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:18.759Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 9:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 9:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 9:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 9:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 9:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 9:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Drive-through": true
+        },
+        {
+          "Onsite services": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Tirupati%20Medical%20Centre(%E0%A6%A4%E0%A6%BF%E0%A6%B0%E0%A7%81%E0%A6%AA%E0%A6%A4%E0%A6%BF%20%E0%A6%AE%E0%A7%87%E0%A6%A1%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%20%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0)Bottle%20Masjid%20Bari%20lane&query_place_id=ChIJ-ZYdqJAf9zkRS8KOQEshcOc",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 34,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmMUpMyHs3anAP-wZF7KTcpMlwUsKpi8yazydYEu7h1D2bNPjee1hb76D4M_SQrOruecHkeYaN8elmY0N6U6TdsDp9SiE2ehnsmD3DT2PVBALvubD3z8ZMavmovAYum-KjbJJpp=w426-h240-k-no",
+    "kgmid": "/g/11jy223_y3",
+    "businessProfileId": "16439717484804326283"
+  },
+  {
+    "title": "Dr Sumit Ag",
+    "subTitle": "ডিআর সুমিত এজি",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Medical clinic",
+    "address": "Ashutosh Medical, School Para, Dr B Banerjee Rd, near Marwari Relief Society, Raniganj, West Bengal 713347, India",
+    "neighborhood": null,
+    "street": "Ashutosh Medical, School Para, Dr B Banerjee Rd, near Marwari Relief Society",
+    "city": "Raniganj",
+    "postalCode": "713347",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 70019 04343",
+    "phoneUnformatted": "+917001904343",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.607225,
+      "lng": 87.1148468
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJPwk8HCkR9zkRkVWRu1RV5-8",
+    "categories": [
+      "Medical clinic"
+    ],
+    "fid": "0x39f711291c3c093f:0xefe75554bb915591",
+    "cid": "17286879517097416081",
+    "reviewsCount": 15,
+    "reviewsDistribution": {
+      "oneStar": 4,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 3,
+      "fiveStar": 8
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:18.759Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "11 AM to 1:30 PM, 6 to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "11 AM to 1:30 PM, 6 to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "11 AM to 1:30 PM, 6 to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "11 AM to 1:30 PM, 6 to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "11 AM to 1:30 PM, 6 to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11 AM to 1:30 PM, 6 to 7:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11 AM to 1:30 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Cash-only": true
+        },
+        {
+          "Google Pay": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Sumit%20Ag&query_place_id=ChIJPwk8HCkR9zkRkVWRu1RV5-8",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 35,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YgV5b68i2s8HV8OG6AkVGw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=105.782326&pitch=0&thumbfov=100",
+    "kgmid": "/g/11s5hfrlqb",
+    "businessProfileId": "5403224016699202258"
+  },
+  {
+    "title": "Dr Utpal Sinha",
+    "subTitle": "ডাঃ উৎপল সিনহা",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "Asansol Court Clock Tower, SB Gorai Rd, New Upper, Chelidanga, Asansol, West Bengal 713304, India",
+    "neighborhood": "New Upper, Chelidanga",
+    "street": "Asansol Court Clock Tower, SB Gorai Rd",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 95936 92611",
+    "phoneUnformatted": "+919593692611",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6863618,
+      "lng": 86.9530806
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJQ1dkRR0f9zkRoDUlKNWleig",
+    "categories": [
+      "Doctor"
+    ],
+    "fid": "0x39f71f1d45645743:0x287aa5d5282535a0",
+    "cid": "2916826043595961760",
+    "reviewsCount": 27,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 1,
+      "threeStar": 2,
+      "fourStar": 2,
+      "fiveStar": 21
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:18.759Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "3 to 6 PM, 7 to 11:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "3 to 6 PM, 7 to 11:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "3 to 6 PM, 7 to 11:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "12 to 2 PM, 7 to 11:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "3 to 6 PM, 7 to 11:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "3 to 6 PM, 7 to 11:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Utpal%20Sinha&query_place_id=ChIJQ1dkRR0f9zkRoDUlKNWleig",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 37,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnI1ib551jO54iohWjbD8bKNYW4n6anmrKZYWmgVScEt3EPX-plB1tSAyRJ3RGw2U38ZTv1jrEYNs93nmv0RYqUqEPgDDkFXaZ-8Usrs7dwcjDtfjAUf8obE7EC3SW-jE96Vm-qkQ=w408-h305-k-no",
+    "kgmid": "/g/11c2k87dxl",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dr. Abrita chatterjee",
+    "subTitle": "ডিআর. আবৃত চ্যাটার্জি",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Pediatrician",
+    "address": "VIDYASAGAR ABASAN, SB Gorai Rd, Ismile, Asansol, West Bengal 713301, India",
+    "neighborhood": "Ismile",
+    "street": "VIDYASAGAR ABASAN, SB Gorai Rd",
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6762408,
+      "lng": 86.9698894
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ-ySQfAAf9zkR5qxHWrgXk-E",
+    "categories": [
+      "Pediatrician"
+    ],
+    "fid": "0x39f71f007c9024fb:0xe19317b85a47ace6",
+    "cid": "16254361560666320102",
+    "reviewsCount": null,
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:18.759Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Abrita%20chatterjee&query_place_id=ChIJ-ySQfAAf9zkR5qxHWrgXk-E",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 38,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWme03N1gSWh4SD-pX0GbxvwTBULznZjZxpzOemQ3SQTiUNYFYneF-QWV06BrwokiHLeCQNfbPZZ7YTGRAHYZsHqS2-Pp8oSseaUmioaq_Qq2TRErpNevzoJ9NAcRH_7MjNChEMfSyXxhHw=w408-h906-k-no",
+    "kgmid": "/g/11xs_fcyvk",
+    "businessProfileId": "160295961553637540"
+  },
+  {
+    "title": "The Park Clinic Multispeaciality Clinic In Asansol | Neurologist | Orthopedic | Dermatologist In Asansol",
+    "subTitle": "দি পার্ক ক্লিনিক মাল্টিস্পিসিলিটি ক্লিনিক ইন আসানসোল | নিউরোলজিস্ট | অর্থোপেডিক | ডার্মাটোলজিস্ট ইন আসানসোল",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Medical clinic",
+    "address": "MXJV+43H, Ushagram, Asansol, West Bengal 713303 MURGASOL, Asansol, West Bengal 713303, India",
+    "neighborhood": "Ushagram",
+    "street": "MXJV+43H, Ushagram, Asansol, West Bengal 713303 MURGASOL",
+    "city": "Asansol",
+    "postalCode": "713303",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://theparkclinic.org/",
+    "phone": "+91 79084 83174",
+    "phoneUnformatted": "+917908483174",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6799636,
+      "lng": 86.9922807
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJdy_E6MUZ9zkRQa3X9L7hMeE",
+    "categories": [
+      "Medical clinic",
+      "Cardiologist",
+      "Dermatologist",
+      "Gastroenterologist",
+      "Gynecologist",
+      "Neurologist",
+      "Neurosurgeon",
+      "Orthopedic surgeon",
+      "Otolaryngologist",
+      "Psychiatrist"
+    ],
+    "fid": "0x39f719c5e8c42f77:0xe131e1bef4d7ad41",
+    "cid": "16226999142660418881",
+    "reviewsCount": 138,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 2,
+      "threeStar": 0,
+      "fourStar": 4,
+      "fiveStar": 130
+    },
+    "imagesCount": 138,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:18.759Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 9 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        },
+        {
+          "Restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Google Pay": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ],
+      "Children": [
+        {
+          "Nursing room": true
+        }
+      ],
+      "Parking": [
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=The%20Park%20Clinic%20Multispeaciality%20Clinic%20In%20Asansol%20%7C%20Neurologist%20%7C%20Orthopedic%20%7C%20Dermatologist%20In%20Asansol&query_place_id=ChIJdy_E6MUZ9zkRQa3X9L7hMeE",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 40,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmRX0UjM4lF7JP8ZiFXn4oCgD4LDdz9pC29lM-1SpMiyV5XMi_GRF0S76BlS9Mbr91494WR7uN3ppJljIgimL62TN0Um-ciaEcyoNqhDB4U5K2DjVviVsLmWXxXZhN2Bvfgsq81tuTVZSo=w408-h272-k-no",
+    "kgmid": "/g/11t2m5klfh",
+    "businessProfileId": "8381544765809380315"
+  },
+  {
+    "title": "Dr. Deep Mukhopadhyay - DM Nephrology",
+    "subTitle": "ডিআর. ডিপ মুখোপাধ্যায় - ডিএম নেফ্রোলজি",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Nephrologist",
+    "address": "Anandalok Hospital, Bus Stoppage, NSB Rd, next to Searsole Rajbari, Raniganj, West Bengal 713358, India",
+    "neighborhood": null,
+    "street": "Anandalok Hospital, Bus Stoppage, NSB Rd, next to Searsole Rajbari",
+    "city": "Raniganj",
+    "postalCode": "713358",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://drdeepmukhopadhyay.com/",
+    "phone": "+91 97349 46257",
+    "phoneUnformatted": "+919734946257",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6333014,
+      "lng": 87.1141361
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJA7OU1CcR9zkRbkQ_rXj2DbA",
+    "categories": [
+      "Nephrologist",
+      "Diabetologist",
+      "Endocrinologist",
+      "Pediatric nephrologist",
+      "Transplant surgeon"
+    ],
+    "fid": "0x39f71127d494b303:0xb00df678ad3f446e",
+    "cid": "12686066723535668334",
+    "reviewsCount": 655,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 2,
+      "threeStar": 1,
+      "fourStar": 7,
+      "fiveStar": 642
+    },
+    "imagesCount": 56,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:19.580Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Debit cards": true
+        },
+        {
+          "Google Pay": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        },
+        {
+          "Free street parking": true
+        },
+        {
+          "On-site parking": true
+        },
+        {
+          "Paid parking lot": true
+        },
+        {
+          "Paid street parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Deep%20Mukhopadhyay%20-%20DM%20Nephrology&query_place_id=ChIJA7OU1CcR9zkRbkQ_rXj2DbA",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 41,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnOV8_u8dqsgXOWIjli95HWfGYaukOjNJvFF-2_qA8pxSJIpYzAH0N1YnVQEdYvHP8TOmLJbFPZJCs4bTioCcFPWEXS8Ug4etWAnX9sgQ5uSmFpEW96BhhwXiFC6Qc8R1RMCQwA8SlfNr8R=w408-h612-k-no",
+    "kgmid": "/g/11yjv5cy4_",
+    "businessProfileId": "5261498967834609141"
+  },
+  {
+    "title": "Parbati Medical",
+    "subTitle": null,
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Pediatrician",
+    "address": "Upper, Chelidanga, Asansol, West Bengal 713304, India",
+    "neighborhood": "Chelidanga",
+    "street": "Upper",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://sites.google.com/view/parbati-medical",
+    "phone": "+91 98328 56666",
+    "phoneUnformatted": "+919832856666",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6898602,
+      "lng": 86.9532183
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJs3AwuNof9zkRIHychHYJpKE",
+    "categories": [
+      "Pediatrician",
+      "Medical Center",
+      "Orthopedic clinic",
+      "Pharmacy"
+    ],
+    "fid": "0x39f71fdab83070b3:0xa1a40976849c7c20",
+    "cid": "11647444940922584096",
+    "reviewsCount": 18,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 0,
+      "fiveStar": 17
+    },
+    "imagesCount": 55,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:19.581Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 1:30 PM, 5 to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 1:30 PM, 5 to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 1:30 PM, 5 to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 1:30 PM, 5 to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 1:30 PM, 5 to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 1:30 PM, 5 to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 1:30 PM, 5 to 10 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Delivery": true
+        },
+        {
+          "Drive-through": true
+        },
+        {
+          "In-store pickup": true
+        },
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Payments": [
+        {
+          "Google Pay": true
+        },
+        {
+          "NFC mobile payments": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Parbati%20Medical&query_place_id=ChIJs3AwuNof9zkRIHychHYJpKE",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 42,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkiDy845yHzg365gl_vcj4cYaotxHP_FgVOfWW6cdEuY53vbPTwhjz50jrUsgAJU5zpCn5N_QvfoR8d25p0R55XWv-JGRfLhzYEgluKoWg3yHQH8T0d3PZksgof4csU55QnOGhj=w408-h316-k-no",
+    "kgmid": "/g/11h1f1mmbc",
+    "businessProfileId": "945702031195308709"
+  },
+  {
+    "title": "ASHA HEALTH CARE",
+    "subTitle": "আশা হেলথ কেয়ার",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Child health care center",
+    "address": "Neamatpur, Sitarampur Rd, opposite surya mandir talab, Sarkar Bari, Sitarampur, West Bengal 713359, India",
+    "neighborhood": "Sarkar Bari",
+    "street": "Neamatpur, Sitarampur Rd, opposite surya mandir talab",
+    "city": "Sitarampur",
+    "postalCode": "713359",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 341 251 0701",
+    "phoneUnformatted": "+913412510701",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.7205643,
+      "lng": 86.8837127
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ11WeSnnh9jkRlEW2nZWjJvI",
+    "categories": [
+      "Child health care center"
+    ],
+    "fid": "0x39f6e1794a9e55d7:0xf226a3959db64594",
+    "cid": "17448813669284988308",
+    "reviewsCount": 44,
+    "reviewsDistribution": {
+      "oneStar": 4,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 5,
+      "fiveStar": 35
+    },
+    "imagesCount": 35,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:19.581Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8:30 AM to 8:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8:30 AM to 8:30 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Google Pay": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=ASHA%20HEALTH%20CARE&query_place_id=ChIJ11WeSnnh9jkRlEW2nZWjJvI",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 43,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkhVo82DlQE5GXIiBXmyr57otyPS5_05S5Q4ISezutc9KFs0oORNcU1mcXyLWitddGnPcuszK5SQaPGrKErkLPuY07ITH2ASAK-jKpphljOARKhW8R-jI-FDKPz42q5R89JRMRn=w408-h306-k-no",
+    "kgmid": "/g/11j4rqpgbw",
+    "businessProfileId": "8481461019759607883"
+  },
+  {
+    "title": "Clinic - Dr. Kalyan Mondal -MBBS",
+    "subTitle": "ক্লিনিক - ডিআর. কল্যাণ মণ্ডল -এমবিবিএস",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "MXP9+7X3, Hutton Rd, Pathak Bari, Asansol, West Bengal 713301, India",
+    "neighborhood": "Pathak Bari",
+    "street": "MXP9+7X3, Hutton Rd",
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 94345 45200",
+    "phoneUnformatted": "+919434545200",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6856434,
+      "lng": 86.9699348
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJjwKcf9ge9zkR4t6U0LyCB98",
+    "categories": [
+      "Doctor"
+    ],
+    "fid": "0x39f71ed87f9c028f:0xdf0782bcd094dee2",
+    "cid": "16070957542759784162",
+    "reviewsCount": 6,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 6
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:19.581Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10:30 AM to 12:30 PM, 5:30 to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10:30 AM to 12:30 PM, 5:30 to 9 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10:30 AM to 12:30 PM, 5:30 to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10:30 AM to 12:30 PM, 5:30 to 9 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10:30 AM to 12:30 PM, 5:30 to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10:30 AM to 12:30 PM, 5:30 to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10:30 AM to 12:30 PM, 5:30 to 9 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Amenities": [
+        {
+          "Restroom": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Clinic%20-%20Dr.%20Kalyan%20Mondal%20-MBBS&query_place_id=ChIJjwKcf9ge9zkR4t6U0LyCB98",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 44,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=CHpv6AAjkSS6V6vaSVfHHw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=20.3824&pitch=0&thumbfov=100",
+    "kgmid": "/g/11cjkq7x_6",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dr S Chakraborty, MD",
+    "subTitle": "ডিআর এস চক্রবর্তী, এমডি",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "SubhasColony, Narsamuda, colliery gate, near Newtown, CISF Colony, Burnpur, Asansol, West Bengal 713325, India",
+    "neighborhood": "CISF Colony, Burnpur",
+    "street": "SubhasColony, Narsamuda, colliery gate, near Newtown",
+    "city": "Asansol",
+    "postalCode": "713325",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 99323 51793",
+    "phoneUnformatted": "+919932351793",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6760737,
+      "lng": 86.9525812
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ766t78of9zkR9Xcl0VyrR48",
+    "categories": [
+      "Doctor",
+      "Diabetologist",
+      "General practitioner"
+    ],
+    "fid": "0x39f71fcaefadaeef:0x8f47ab5cd12577f5",
+    "cid": "10324409085904386037",
+    "reviewsCount": 7,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 1,
+      "threeStar": 1,
+      "fourStar": 1,
+      "fiveStar": 2
+    },
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:19.581Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "5 to 6 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "5 to 6 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "5 to 6 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "5 to 6 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "5 to 6 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "5 to 6 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "5 to 6 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20S%20Chakraborty%2C%20MD&query_place_id=ChIJ766t78of9zkR9Xcl0VyrR48",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 46,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn1b87d3gHv18m21ModebC91KZDRvc9vrCTXEV10NxISA25TzOLnZEXMVV1pNGFk-cNHkvOfZQhthMkMp1983uNY9hjtR65lEGU0kNO5C9Xja5nN5AAOLOu1ofFqTE4RRLCxvzKrA=w408-h306-k-no",
+    "kgmid": "/g/11df7pdmzl",
+    "businessProfileId": "3805857531885776147"
+  },
+  {
+    "title": "NIRUPAMA HOSPITAL",
+    "subTitle": "নিরুপমা হসপিটাল",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Hospital",
+    "address": "96/2N, G.T. ROAD EAST END BETWEEN KRISHNA BIHAR COLONY & ECO BRICKS FACTORY, Kulti, West Bengal 713343, India",
+    "neighborhood": null,
+    "street": "96/2N, G.T. ROAD EAST END BETWEEN KRISHNA BIHAR COLONY & ECO BRICKS FACTORY",
+    "city": "Kulti",
+    "postalCode": "713343",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.7225525,
+      "lng": 86.8614733
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ79lf4rLh9jkRFmf5amPU2FI",
+    "categories": [
+      "Hospital"
+    ],
+    "fid": "0x39f6e1b2e25fd9ef:0x52d8d4636af96716",
+    "cid": "5969754829541173014",
+    "reviewsCount": 29,
+    "reviewsDistribution": {
+      "oneStar": 7,
+      "twoStar": 1,
+      "threeStar": 0,
+      "fourStar": 9,
+      "fiveStar": 12
+    },
+    "imagesCount": 12,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:19.581Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Assistive hearing loop": true
+        },
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Gender-neutral restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Children": [
+        {
+          "Nursing room": true
+        }
+      ],
+      "Parking": [
+        {
+          "Free parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=NIRUPAMA%20HOSPITAL&query_place_id=ChIJ79lf4rLh9jkRFmf5amPU2FI",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 47,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlT9AVkPgSIxVwVPuFoFM3tdAfltm77muE-iE65tDG_EqGHPK0naxoutATb94__2cNcRS2Zy9XvKgvBrN6NJYBuRn7PoZvn9erVsGecBxz_-ej0lenKFqxJoqnXxpgW_7w8MCRY=w408-h306-k-no",
+    "kgmid": "/g/11fmdktyxb",
+    "businessProfileId": "11751104101343609720"
+  },
+  {
+    "title": "Dr Batra’s Homeopathy, Hair & Skin Clinic",
+    "subTitle": "ডিআর বাত্রা'এস হোমিওপ্যাথি, হেয়ার & স্কিন ক্লিনিক",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Pediatrician",
+    "address": "1st Flr, Anand Plaza, Burnpur Rd, near Dolly Lodge, Rabindra Nagar, Asansol, West Bengal 713304, India",
+    "neighborhood": "Rabindra Nagar",
+    "street": "1st Flr, Anand Plaza, Burnpur Rd, near Dolly Lodge",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://clinics.drbatras.com/asansol/homeopathy-clinic-burnpur-road.php",
+    "phone": "+91 70450 00666",
+    "phoneUnformatted": "+917045000666",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6879578,
+      "lng": 86.9438667
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ_____9wf9zkR87izlAzygXw",
+    "categories": [
+      "Pediatrician",
+      "Allergist",
+      "Dermatologist",
+      "Diabetologist",
+      "Endocrinologist",
+      "Fertility physician",
+      "Gastroenterologist",
+      "Pain management physician",
+      "Homeopath",
+      "Psychologist"
+    ],
+    "fid": "0x39f71fdcffffffff:0x7c81f20c94b3b8f3",
+    "cid": "8971718068547074291",
+    "reviewsCount": 327,
+    "reviewsDistribution": {
+      "oneStar": 32,
+      "twoStar": 5,
+      "threeStar": 12,
+      "fourStar": 23,
+      "fiveStar": 255
+    },
+    "imagesCount": 74,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:19.581Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "11 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "11 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "11 AM to 9 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "11 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "11 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 9 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "From the business": [
+        {
+          "Identifies as women-owned": true
+        }
+      ],
+      "Service options": [
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Google Pay": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Batra%E2%80%99s%20Homeopathy%2C%20Hair%20%26%20Skin%20Clinic&query_place_id=ChIJ_____9wf9zkR87izlAzygXw",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 48,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl5_EkhUWCFMw5my0rAvpGE4CREcVCIxAMHb6oZWg7CdIbzLf8_wmT2vVnjazUKvC2D7uGUB2Mva0swZH3miJ9ixS8SVeE99iOyW2bGENnG-T_jp6p2b_Gi78brQbOYpKmDjD4y=w426-h240-k-no",
+    "kgmid": "/g/11c45s75s1",
+    "businessProfileId": "9867315825015593044"
+  },
+  {
+    "title": "Dr S S Sangar",
+    "subTitle": "ডাঃ এস এস সাঙ্গার",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "S. P. Murgasol, SP Mukherjee Rd, Ushagram, Asansol, West Bengal 713303, India",
+    "neighborhood": "Ushagram",
+    "street": "S. P. Murgasol, SP Mukherjee Rd",
+    "city": "Asansol",
+    "postalCode": "713303",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 90028 27339",
+    "phoneUnformatted": "+919002827339",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6793828,
+      "lng": 86.9914205
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJxytzQS8Z9zkR228HGHOaGms",
+    "categories": [
+      "Doctor"
+    ],
+    "fid": "0x39f7192f41732bc7:0x6b1a9a7318076fdb",
+    "cid": "7717650730567823323",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:19.581Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "5 AM to 1 AM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "5 AM to 1 AM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "5 AM to 1 AM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "5 AM to 1 AM"
+      },
+      {
+        "day": "Friday",
+        "hours": "5 AM to 1 AM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "5 AM to 1 AM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 1 AM"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20S%20S%20Sangar&query_place_id=ChIJxytzQS8Z9zkR228HGHOaGms",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 49,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=H_tTkx56hDAbiHp8gdpHdw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=235.80502&pitch=0&thumbfov=100",
+    "kgmid": "/g/11f1264dbw",
+    "businessProfileId": null
+  },
+  {
+    "title": "DR. ABHIRUP BASAK | Best Pulmonologist Near Me | Exp of 10+yrs | at Apollo 24|7",
+    "subTitle": "ডিআর. অভিরূপ বিএএসএকে | বেস্ট পালমোনোলজিস্ট নিয়ার মে | এক্সপি অফ 10+ইয়ার | আট অ্যাপোলো 24|7",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Pulmonologist",
+    "address": "Holding No. 467, Club By Lane, Agrani Ln, Court More, Asansol, West Bengal 713304, India",
+    "neighborhood": "Court More",
+    "street": "Holding No. 467, Club By Lane, Agrani Ln",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://www.apollo247.com/doctors/dr-abhirup-basak-fb3a75eb-ff9a-4a12-81ea-dac613a0473e?utm_source=gmb_docverse&utm_medium=clinics&utm_campaign=doctors",
+    "phone": "+91 80 4696 1835",
+    "phoneUnformatted": "+918046961835",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.690351,
+      "lng": 86.94588
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJuSizv6Ef9zkRArWcZ1wfjkE",
+    "categories": [
+      "Pulmonologist",
+      "Allergist",
+      "Doctor",
+      "Hospital",
+      "Intensivist",
+      "Pediatric pulmonologist",
+      "Sleep clinic",
+      "TB clinic"
+    ],
+    "fid": "0x39f71fa1bfb328b9:0x418e1f5c679cb502",
+    "cid": "4723747540894004482",
+    "reviewsCount": 6,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 3
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:19.582Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 AM to 5 PM"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Online service hours": [
+        {
+          "day": "Monday",
+          "hours": "10 AM–6 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10 AM–6 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10 AM–6 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10 AM–6 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10 AM–6 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10 AM–6 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ]
+    },
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Crowd": [
+        {
+          "LGBTQ+ friendly": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Payments": [
+        {
+          "Google Pay": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=DR.%20ABHIRUP%20BASAK%20%7C%20Best%20Pulmonologist%20Near%20Me%20%7C%20Exp%20of%2010%2Byrs%20%7C%20at%20Apollo%2024%7C7&query_place_id=ChIJuSizv6Ef9zkRArWcZ1wfjkE",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 52,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnTpaRsmlxYLNd83SOUd21EX-kHzbyRhTNiKUA6pfZu1TYmLNpD6u1ASu8gI-i6U6tPUVSVo5LQJzPCjlej_X3IryZCw_pgoCX1wt4rtSR2SlTw2o28765Zq-n-8MtMV_DDwxXL=w408-h511-k-no",
+    "kgmid": "/g/11y1thkw74",
+    "businessProfileId": "9072615955254820740"
+  },
+  {
+    "title": "Dr. K.B.Ghosh",
+    "subTitle": "ডিআর. কে.বি.ঘোষ",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "MXG9+MH8, SB Gorai Rd, Ismile, Hamid Nagar, Asansol, West Bengal 713301, India",
+    "neighborhood": "Ismile, Hamid Nagar",
+    "street": "MXG9+MH8, SB Gorai Rd",
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 94340 13813",
+    "phoneUnformatted": "+919434013813",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6766559,
+      "lng": 86.9689586
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 2.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJAYaQJzUf9zkRKbFbmBdZcxw",
+    "categories": [
+      "Doctor"
+    ],
+    "fid": "0x39f71f3527908601:0x1c735917985bb129",
+    "cid": "2050080213258973481",
+    "reviewsCount": 4,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:19.582Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20K.B.Ghosh&query_place_id=ChIJAYaQJzUf9zkRKbFbmBdZcxw",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 54,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qJ-etPxa7EDmURQO8CJu8Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=142.66356&pitch=0&thumbfov=100",
+    "kgmid": "/g/11lgqfvxfy",
+    "businessProfileId": null
+  },
+  {
+    "title": "Hill View Hospital",
+    "subTitle": "নিউ হিল ভিউ নার্সিং হোম",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Hospital",
+    "address": "MXM3+VWJ Hillview Hospital, SB Gorai Rd, opposite Indian Oli Petrol Pump, Chelidanga, Asansol, West Bengal 713304, India",
+    "neighborhood": "Chelidanga",
+    "street": "MXM3+VWJ Hillview Hospital, SB Gorai Rd, opposite Indian Oli Petrol Pump",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://hillviewhospital.com/",
+    "phone": "+91 341 228 0292",
+    "phoneUnformatted": "+913412280292",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6847674,
+      "lng": 86.954586
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJA1roXOIe9zkRl4evnIGsFw0",
+    "categories": [
+      "Hospital"
+    ],
+    "fid": "0x39f71ee25ce85a03:0xd17ac819caf8797",
+    "cid": "943412319636916119",
+    "reviewsCount": 141,
+    "reviewsDistribution": {
+      "oneStar": 41,
+      "twoStar": 7,
+      "threeStar": 13,
+      "fourStar": 20,
+      "fiveStar": 60
+    },
+    "imagesCount": 71,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:19.582Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Service options": [
+        {
+          "Onsite services": true
+        }
+      ],
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Payments": [
+        {
+          "Credit cards": true
+        },
+        {
+          "Debit cards": true
+        },
+        {
+          "NFC mobile payments": true
+        },
+        {
+          "Credit cards": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Hill%20View%20Hospital&query_place_id=ChIJA1roXOIe9zkRl4evnIGsFw0",
+    "searchPageUrl": "https://www.google.com/maps/search/%20Pediatrician/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": " Pediatrician",
+    "language": "en",
+    "rank": 55,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn2kVd1gXmuUeCAWeY46XwoY12QALUP77BVOkkxAW7IOmHsQjV_2DuEttF8GuCaOiWVDprZLukH_5vh23wIczujgYx555sUBaQkdS6bWVYQFOUeBDEzZr8-mPLLNeAVysYgF-Gg=w426-h240-k-no",
+    "kgmid": "/g/1hm4cylq8",
+    "businessProfileId": "8011761797578424373"
+  }
+]

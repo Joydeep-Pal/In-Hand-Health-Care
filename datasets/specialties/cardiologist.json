@@ -1,0 +1,4815 @@
+[
+  {
+    "title": "Dr Pradip Sarkar || Cardiologist in Asansol || Consultant Interventional Cardiologist, from Kolkata",
+    "subTitle": "ডিআর প্রদীপ সরকার || কার্ডিওলজিস্ট ইন আসানসোল || কনসালটেন্ট ইন্টারভেনশনাল কার্ডিওলজিস্ট, ফ্রম কলকাতা",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Cardiologist",
+    "address": "Ismile More, ACHARJEE PHARMACY, C/O, SB Gorai Rd, Ismile, Islampur, Hamid Nagar, Asansol, West Bengal 713301, India",
+    "neighborhood": "Ismile, Islampur, Hamid Nagar",
+    "street": "Ismile More, ACHARJEE PHARMACY, C/O, SB Gorai Rd",
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://acharjeehealth.in/",
+    "phone": "+91 73649 21002",
+    "phoneUnformatted": "+917364921002",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6766346,
+      "lng": 86.9688101
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ0aXgLSsf9zkRR09R3D_egac",
+    "categories": [
+      "Cardiologist",
+      "Pulmonologist"
+    ],
+    "fid": "0x39f71f2b2de0a5d1:0xa781de3fdc514f47",
+    "cid": "12070172842190262087",
+    "reviewsCount": 60,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 59
+    },
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.260Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9:30 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9:30 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9:30 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9:30 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9:30 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "10 to 11:30 AM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Pradip%20Sarkar%20%7C%7C%20Cardiologist%20in%20Asansol%20%7C%7C%20Consultant%20Interventional%20Cardiologist%2C%20from%20Kolkata&query_place_id=ChIJ0aXgLSsf9zkRR09R3D_egac",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 1,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmwazXY0EI-VzZseWsgFKtInv7pPrDQNIU30mZ0n2j_L7K-Pp7yqDjUJXd9qCGfq9BIMe_rOMgRg1TC0UB7JGlRIcLdccpIRxY_YeSRCBlW1hIMRAmkUuQgjTXKI8ssX9D8LE7-=w493-h240-k-no",
+    "kgmid": "/g/11ts2q61k0",
+    "businessProfileId": "2627288137939552383"
+  },
+  {
+    "title": "Heart Beat Clinic Asansol",
+    "subTitle": "হার্ট বিট ক্লিনিক আসানসোল",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Cardiologist",
+    "address": "opposite Sterling Hospital, Court More, Asansol, West Bengal 713304, India",
+    "neighborhood": "Court More",
+    "street": "opposite Sterling Hospital",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://www.heartbeatasansol.com/",
+    "phone": "+91 83489 04940",
+    "phoneUnformatted": "+918348904940",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6890863,
+      "lng": 86.9450083
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJwf2FXVjqsGgRumDyqWHKnoQ",
+    "categories": [
+      "Cardiologist"
+    ],
+    "fid": "0x68b0ea585d85fdc1:0x849eca61a9f260ba",
+    "cid": "9556297980138643642",
+    "reviewsCount": 26,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 24
+    },
+    "imagesCount": 14,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.263Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 8 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Heart%20Beat%20Clinic%20Asansol&query_place_id=ChIJwf2FXVjqsGgRumDyqWHKnoQ",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 2,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk_YKLchK_N3M8YOGleD0xRBNI2798JF5oZNb1c0514guTAhT844QjIjuXes-_cNH-Q_-ScAp9KihYZKq7ePIljvu-8O_wyVqK4b5_ho0Cea-2gghOKXF3zvOHJxil14_lYLmmk-7fEogA=w408-h544-k-no",
+    "kgmid": "/g/11y_5rbpt0",
+    "businessProfileId": "15143732710749357992"
+  },
+  {
+    "title": "Aaradhya Health Hub Cardiology Center",
+    "subTitle": "আরাধ্য হেলথ হাব কার্ডিওলজি সেন্টার",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Cardiologist",
+    "address": "Aaradhya Health Hub Arpan Tower, SB Gorai Rd, near St.Marry Goretti School, Chelidanga, Asansol, West Bengal 713304, India",
+    "neighborhood": "Chelidanga",
+    "street": "Aaradhya Health Hub Arpan Tower, SB Gorai Rd, near St.Marry Goretti School",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://click2cure.com/best-cardiologist-dryksubhashsingh-asansol/",
+    "phone": "+91 80130 11118",
+    "phoneUnformatted": "+918013011118",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6822922,
+      "lng": 86.9578743
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJcyXeO4Mf9zkR_J26cFF7o5o",
+    "categories": [
+      "Cardiologist",
+      "Cardiovascular and thoracic surgeon",
+      "Doctor",
+      "Heart hospital",
+      "Pediatric cardiologist"
+    ],
+    "fid": "0x39f71f833bde2573:0x9aa37b5170ba9dfc",
+    "cid": "11142885492758584828",
+    "reviewsCount": 64,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 2,
+      "fiveStar": 62
+    },
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.263Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 10:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 10 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Aaradhya%20Health%20Hub%20Cardiology%20Center&query_place_id=ChIJcyXeO4Mf9zkR_J26cFF7o5o",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 3,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3y7ZBb-R23VY0mKDd2-GaA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=73.07558&pitch=0&thumbfov=100",
+    "kgmid": "/g/11vkb6jqks",
+    "businessProfileId": "16081248521542056775"
+  },
+  {
+    "title": "SAAOL HEART CENTER",
+    "subTitle": "সাওল হার্ট সেন্টার",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Cardiologist",
+    "address": "Radhe Shyam Plaza, Plot 4191, Mother Teresa Rd, Lower, Chelidanga, Asansol, West Bengal 713304, India",
+    "neighborhood": "Lower, Chelidanga",
+    "street": "Radhe Shyam Plaza, Plot 4191, Mother Teresa Rd",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "http://www.saaol.com/",
+    "phone": "+91 95609 22954",
+    "phoneUnformatted": "+919560922954",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6876229,
+      "lng": 86.9591236
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ7ZIutUMf9zkRdbZAQrLry5g",
+    "categories": [
+      "Cardiologist"
+    ],
+    "fid": "0x39f71f43b52e92ed:0x98cbebb24240b675",
+    "cid": "11010152864885552757",
+    "reviewsCount": 39,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 1,
+      "fiveStar": 34
+    },
+    "imagesCount": 18,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.263Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 5 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=SAAOL%20HEART%20CENTER&query_place_id=ChIJ7ZIutUMf9zkRdbZAQrLry5g",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 4,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnRiHQHtrrzEiu5Z9tKaL7wESitDxQmVJdlBFSDp-ma9GpT7OaYGntKENjvGLB4Kk9pNxyKm681BdBkQCGGfTT_zFyu8Wa84OjUS_DJ3p6OA_jSs0C55fCEuztC_oyVNajpNgZHjbYAJ9c=w408-h386-k-no",
+    "kgmid": "/g/11sbdgdhc6",
+    "businessProfileId": "12238952836736691556"
+  },
+  {
+    "title": "Dr Ishita Majumdar Mukherjee interventional adult and pediatric cardiologist",
+    "subTitle": "ডিআর ঈশিতা মজুমদার মুখার্জি ইন্টারভেনশনাল এডাল্ট অ্যান্ড পেডিয়াট্রিক কার্ডিওলজিস্ট",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Cardiologist",
+    "address": "Healthworld hospitals, Shristinagar, Asansol, West Bengal 713305, India",
+    "neighborhood": "Shristinagar",
+    "street": "Healthworld hospitals",
+    "city": "Asansol",
+    "postalCode": "713305",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 90517 57177",
+    "phoneUnformatted": "+919051757177",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.7042753,
+      "lng": 86.948795
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ9RBzhfQf9zkRPUxir33fFzc",
+    "categories": [
+      "Cardiologist",
+      "Pediatric cardiologist"
+    ],
+    "fid": "0x39f71ff4857310f5:0x3717df7daf624c3d",
+    "cid": "3969887327456742461",
+    "reviewsCount": 16,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 14
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.263Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10:30 AM to 12:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10:30 AM to 12:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10:30 AM to 12:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10:30 AM to 12:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10:30 AM to 12:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10:30 AM to 12:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Ishita%20Majumdar%20Mukherjee%20interventional%20adult%20and%20pediatric%20cardiologist&query_place_id=ChIJ9RBzhfQf9zkRPUxir33fFzc",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 5,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlJ4HHMKotRUHf5R4Ef-U3jTTSbMbQm65h9yJHnl-L6aWnUyHsF1NjlFNiIvuPF4czJF6k07qhhGRKUl2EYC-4cCmQQpum49yL6ErWBeja1KUgCRsLsRIEEH-qFAx-f6BWAsVOA=w426-h240-k-no",
+    "kgmid": "/g/11ry71j9p0",
+    "businessProfileId": "7599722871368483418"
+  },
+  {
+    "title": "DM Cardio Clinic Dr. Anurag Gupta",
+    "subTitle": "ডিএম কার্ডিও ক্লিনিক ডিআর. অনুরাগ গুপ্তা",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Cardiologist",
+    "address": "Girls College Rd, IISCO Steel Plant, Burnpur, Asansol, West Bengal 713325, India",
+    "neighborhood": "IISCO Steel Plant, Burnpur",
+    "street": "Girls College Rd",
+    "city": "Asansol",
+    "postalCode": "713325",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 96099 33363",
+    "phoneUnformatted": "+919609933363",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6842987,
+      "lng": 86.9432996
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJhwWnBbgf9zkRD9O-7EICWrA",
+    "categories": [
+      "Cardiologist"
+    ],
+    "fid": "0x39f71fb805a70587:0xb05a0242ecbed30f",
+    "cid": "12707471785042301711",
+    "reviewsCount": 38,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 35
+    },
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.264Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 10 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=DM%20Cardio%20Clinic%20Dr.%20Anurag%20Gupta&query_place_id=ChIJhwWnBbgf9zkRD9O-7EICWrA",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 6,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hPBMubvO8CVuUqg0Wxxubg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=198.03131&pitch=0&thumbfov=100",
+    "kgmid": "/g/11vxmvz27r",
+    "businessProfileId": "4889469534801574448"
+  },
+  {
+    "title": "Heart Care Clinic Dr Raman Raj",
+    "subTitle": "হার্ট কেয়ার ক্লিনিক ডিআর রমন রাজ",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Cardiologist",
+    "address": "Vivekananda Sarani, Apcar Garden, Asansol, West Bengal 713304, India",
+    "neighborhood": "Apcar Garden",
+    "street": "Vivekananda Sarani",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 81700 00718",
+    "phoneUnformatted": "+918170000718",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6957075,
+      "lng": 86.9519694
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJlQ0A2qkf9zkRO_-ynSo2dfs",
+    "categories": [
+      "Cardiologist",
+      "Heart hospital",
+      "Medical examiner",
+      "Pain management physician",
+      "Pediatric cardiologist",
+      "Physician referral service"
+    ],
+    "fid": "0x39f71fa9da000d95:0xfb75362a9db2ff3b",
+    "cid": "18119448232457338683",
+    "reviewsCount": 63,
+    "reviewsDistribution": {
+      "oneStar": 17,
+      "twoStar": 0,
+      "threeStar": 2,
+      "fourStar": 2,
+      "fiveStar": 42
+    },
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.264Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 1 PM, 6 to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 1 PM, 6 to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 1 PM, 6 to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 1 PM, 6 to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10 AM to 1 PM, 6 to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10 AM to 1 PM, 6 to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 12 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Heart%20Care%20Clinic%20Dr%20Raman%20Raj&query_place_id=ChIJlQ0A2qkf9zkRO_-ynSo2dfs",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 7,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl5A64d0Z26DH4pp71y_T1_Tz1gdGi43jrCezzZcZ6oDFiE32vXhyfYYsImIv_gFPcQrsxPphSpAuVeZefJMLj72lDvMbWoqel6vl1RBUhaCvTEFphrzb00Vc_TLj4p2tMNE1U=w408-h306-k-no",
+    "kgmid": "/g/11fkm4xnp2",
+    "businessProfileId": "2939076031216852785"
+  },
+  {
+    "title": "Dr. Debdatta Majumdar",
+    "subTitle": "ডিআর. দেবদত্ত মজুমদার",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Cardiologist",
+    "address": "92, Burnpur Rd, Asansol Court Area, Asansol, West Bengal 713304, India",
+    "neighborhood": "Asansol Court Area",
+    "street": "92, Burnpur Rd",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 81580 86982",
+    "phoneUnformatted": "+918158086982",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6923224,
+      "lng": 86.9490905
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJucK6wywf9zkR6AHj-DGbWsk",
+    "categories": [
+      "Cardiologist"
+    ],
+    "fid": "0x39f71f2cc3bac2b9:0xc95a9b31f8e301e8",
+    "cid": "14509079788458803688",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.264Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "10:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "10:30 AM to 5:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Debdatta%20Majumdar&query_place_id=ChIJucK6wywf9zkR6AHj-DGbWsk",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 8,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4xPNbf5XNAztWYEsaOEFCA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=139.91336&pitch=0&thumbfov=100",
+    "kgmid": "/g/11qpts9xyj",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dr.Avishek Mazumder MD SPECIALIST IN THYROID, DIABETES AND CARDIAC DISEASES.",
+    "subTitle": "ডিআর.অভিষেক মজুমদার এমডি স্পেশালিস্ট আইএন থাইরয়েড, ডায়াবেটিস এএনডি কার্ডিয়াক ডিজিজেস.",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "LAHA MEDICAL STORES, SB Gorai Rd, Ismile, Asansol, West Bengal 713301, India",
+    "neighborhood": "Ismile",
+    "street": "LAHA MEDICAL STORES, SB Gorai Rd",
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6765806,
+      "lng": 86.9695594
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJQdWBy30f9zkRKi8xlFqr0ao",
+    "categories": [
+      "Doctor"
+    ],
+    "fid": "0x39f71f7dcb81d541:0xaad1ab5a94312f2a",
+    "cid": "12308807662101933866",
+    "reviewsCount": 29,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 2,
+      "fiveStar": 27
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.265Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.Avishek%20Mazumder%20MD%20SPECIALIST%20IN%20THYROID%2C%20DIABETES%20AND%20CARDIAC%20DISEASES.&query_place_id=ChIJQdWBy30f9zkRKi8xlFqr0ao",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 9,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SrtyGQHkCY3tRCGdeTVRfA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=159.99445&pitch=0&thumbfov=100",
+    "kgmid": "/g/11xm0kvkdm",
+    "businessProfileId": "16435047659543412040"
+  },
+  {
+    "title": "Dr IMRAN MUSTAFA",
+    "subTitle": "ডাঃ ইমরান মুস্তাফা",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Cardiologist",
+    "address": "Hamid Nagar, Asansol, West Bengal 713301, India",
+    "neighborhood": "Hamid Nagar",
+    "street": null,
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 74889 43966",
+    "phoneUnformatted": "+917488943966",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6706103,
+      "lng": 86.9598341
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJeyXgQcQe9zkRjRQRkrJPwiY",
+    "categories": [
+      "Cardiologist",
+      "Surgeon",
+      "Cosmetic surgeon",
+      "Dermatologist",
+      "Diabetologist",
+      "Hair transplantation clinic",
+      "Pain management physician",
+      "Psychoneurological specialized clinic",
+      "Pulmonologist",
+      "Sports medicine physician"
+    ],
+    "fid": "0x39f71ec441e0257b:0x26c24fb29211148d",
+    "cid": "2792882347296494733",
+    "reviewsCount": 5,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 5
+    },
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.265Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "additionalOpeningHours": {
+      "Online service hours": [
+        {
+          "day": "Monday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Closed"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM–5 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9 AM–5 PM"
+        }
+      ]
+    },
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20IMRAN%20MUSTAFA&query_place_id=ChIJeyXgQcQe9zkRjRQRkrJPwiY",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 10,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnPVqV4P0mz65aRglT2slstmKd_bAfQsPYEfhznJtnvmV2oHZt-hQmwtk5D7RUEJb3BaJi2Ye_U9BEmusVcJ7vPqJ82wfFKaqZhrbo2nujLikq7ZzCU4g1aMp5e38-2cG3HeBOM=w408-h244-k-no",
+    "kgmid": "/g/11f3x91_95",
+    "businessProfileId": "9455018000034498708"
+  },
+  {
+    "title": "Dr S Tarafdar",
+    "subTitle": "ডিআর এস তরফদার",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Condominium complex",
+    "address": "Jay Jayanti 100, Dr B Banerjee Rd, behind Students Health Home, School Para, Raniganj, West Bengal 713347, India",
+    "neighborhood": null,
+    "street": "Jay Jayanti 100, Dr B Banerjee Rd, behind Students Health Home, School Para",
+    "city": "Raniganj",
+    "postalCode": "713347",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 99321 96070",
+    "phoneUnformatted": "+919932196070",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6072087,
+      "lng": 87.1131867
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJYVzEbBAR9zkRviCjuQrhWZs",
+    "categories": [
+      "Condominium complex"
+    ],
+    "fid": "0x39f711106cc45c61:0x9b59e10ab9a320be",
+    "cid": "11194225784986476734",
+    "reviewsCount": 19,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 6,
+      "fourStar": 4,
+      "fiveStar": 8
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.265Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20S%20Tarafdar&query_place_id=ChIJYVzEbBAR9zkRviCjuQrhWZs",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 11,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0oXagwV9WH_JdZGQYPy7Xg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=325.28824&pitch=0&thumbfov=100",
+    "kgmid": "/g/1ptyfch6r",
+    "businessProfileId": null
+  },
+  {
+    "title": "subhajit dutta",
+    "subTitle": "শুভজিৎ দত্ত",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Cardiologist",
+    "address": "MXG9+M7J smile, road, Ismile, Asansol, West Bengal 713301, India",
+    "neighborhood": "Ismile",
+    "street": "MXG9+M7J smile, road",
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6767003,
+      "lng": 86.9681302
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJEfGkWwcf9zkRpUFlf0VZzek",
+    "categories": [
+      "Cardiologist"
+    ],
+    "fid": "0x39f71f075ba4f111:0xe9cd59457f6541a5",
+    "cid": "16847219936087851429",
+    "reviewsCount": 4,
+    "reviewsDistribution": {
+      "oneStar": 4,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 0
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.265Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=subhajit%20dutta&query_place_id=ChIJEfGkWwcf9zkRpUFlf0VZzek",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 12,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Z0DwMGpHIO_oT0I8pCrOaQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=155.79878&pitch=0&thumbfov=100",
+    "kgmid": "/g/11q82wbh85",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dr. Abhirup Basak | Chest Thyroid Diabetes Cardio Gastro Medicine|",
+    "subTitle": "ডিআর. অভিরূপ বসাক | চেস্ট থাইরয়েড ডায়াবেটিস কার্ডিও গ্যাস্ট্রো মেডিসিন|",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Cardiologist",
+    "address": "Near, Srija Apartment, near Asansol Sub-Register, Asansol Court Area, Asansol, West Bengal 713304, India",
+    "neighborhood": "Asansol Court Area",
+    "street": "Near, Srija Apartment, near Asansol Sub-Register",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 80130 11118",
+    "phoneUnformatted": "+918013011118",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6760737,
+      "lng": 86.9525812
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJI_AHx1Yf9zkRrAu9PrKVi4I",
+    "categories": [
+      "Cardiologist",
+      "Diabetologist",
+      "Doctor",
+      "Endocrinologist",
+      "Gastroenterologist",
+      "Pulmonologist"
+    ],
+    "fid": "0x39f71f56c707f023:0x828b95b23ebd0bac",
+    "cid": "9406776839482706860",
+    "reviewsCount": 61,
+    "reviewsDistribution": {
+      "oneStar": 5,
+      "twoStar": 1,
+      "threeStar": 0,
+      "fourStar": 2,
+      "fiveStar": 53
+    },
+    "imagesCount": 24,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.266Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 11 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 11 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 11 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 11 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 11 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 11 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "12 to 2 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Assistive hearing loop": true
+        },
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointments recommended": true
+        }
+      ],
+      "Children": [
+        {
+          "Nursing room": true
+        }
+      ],
+      "Parking": [
+        {
+          "On-site parking": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Abhirup%20Basak%20%7C%20Chest%20Thyroid%20Diabetes%20Cardio%20Gastro%20Medicine%7C&query_place_id=ChIJI_AHx1Yf9zkRrAu9PrKVi4I",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 13,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm0q1Rc-zUXD770rfwKQVElwIEnjnls0hWxNEWWbc1Rce1jufUYgAWFFXRAty2Msi7oSPjHa2UZpyrEYQb0AY7al4VRxwfZD095HwrHR2WkC-4-L8h1OBvYmugjSD0SKKt0EqU=w427-h240-k-no",
+    "kgmid": "/g/11jlmvyjj3",
+    "businessProfileId": "15214035873938639416"
+  },
+  {
+    "title": "Dr Anuraag Gupta's Cardiology Consultation",
+    "subTitle": "ডিআর অনুরাগ গুপ্ত'এস কার্ডিওলজি কনসালটেশন",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Cardiologist",
+    "address": "Elixir Care Pharmacy, vaishali park, near Mateshwari Marbles, Fatehpur, Asansol, West Bengal 713304, India",
+    "neighborhood": "Fatehpur",
+    "street": "Elixir Care Pharmacy, vaishali park, near Mateshwari Marbles",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 70018 49216",
+    "phoneUnformatted": "+917001849216",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.7042075,
+      "lng": 86.9248972
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ113ErGof9zkRikGBUfuIOJ0",
+    "categories": [
+      "Cardiologist"
+    ],
+    "fid": "0x39f71f6aacc45dd7:0x9d3888fb5181418a",
+    "cid": "11328955475636076938",
+    "reviewsCount": null,
+    "imagesCount": 2,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.266Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Anuraag%20Gupta's%20Cardiology%20Consultation&query_place_id=ChIJ113ErGof9zkRikGBUfuIOJ0",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 14,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JMjJEENEJEeOyCj7f5wfjg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=72.44559&pitch=0&thumbfov=100",
+    "kgmid": "/g/11lv3761gt",
+    "businessProfileId": "6447220806642895954"
+  },
+  {
+    "title": "Shuvadarsini Multispeciality Hospital",
+    "subTitle": "শুভদর্ষিণী মাল্টিস্পেশালিটি হসপিটাল",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Cardiologist",
+    "address": "Square Building, More, Banshra, Raniganj, West Bengal 713347, India",
+    "neighborhood": null,
+    "street": "Square Building, More",
+    "city": "Banshra, Raniganj",
+    "postalCode": "713347",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://shuvadarsinihospital.com/",
+    "phone": "+91 98004 04039",
+    "phoneUnformatted": "+919800404039",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6266597,
+      "lng": 87.1334391
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJNY4Bli0R9zkRBO7_Y5cxaM4",
+    "categories": [
+      "Cardiologist",
+      "Private hospital",
+      "Emergency care service",
+      "Hospital",
+      "Maternity hospital",
+      "Neurologist",
+      "Women's health clinic",
+      "Orthopedic surgeon",
+      "Pregnancy care center"
+    ],
+    "fid": "0x39f7112d96018e35:0xce68319763ffee04",
+    "cid": "14873192295678602756",
+    "reviewsCount": 125,
+    "reviewsDistribution": {
+      "oneStar": 17,
+      "twoStar": 1,
+      "threeStar": 3,
+      "fourStar": 12,
+      "fiveStar": 92
+    },
+    "imagesCount": 178,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.266Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Shuvadarsini%20Multispeciality%20Hospital&query_place_id=ChIJNY4Bli0R9zkRBO7_Y5cxaM4",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 15,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmpKOWoU3bN_eA6Zl7qLiB2e-IAl2Z_eEc1HvqZ8q1EFxNa6KB3eZ4mKyMjkYEs2eEqa_hwVoSzyLD7uI-q6U_eBXQwZP5byhCbcpFpvh2YvrQ7rS9lXoZaaqI3NkUKgoGoPX8_d-jOFqU=w408-h306-k-no",
+    "kgmid": "/g/11lcrkywd5",
+    "businessProfileId": "9256501919156712130"
+  },
+  {
+    "title": "Dr. P. K Garg (Chest Specialist)",
+    "subTitle": "ডিআর. পি. কে গর্গ (চেস্ট স্পেশালিষ্ট)",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Drug store",
+    "address": "Ohm medical, bani appartment, Chakraborty more, Mohishila Colony, Asansol, West Bengal 713303, India",
+    "neighborhood": "Mohishila Colony, Ushagram",
+    "street": "Ohm medical, bani appartment, Chakraborty more",
+    "city": "Asansol",
+    "postalCode": "713303",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6741362,
+      "lng": 86.9917715
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ_b08Bgcf9zkRXwLrcm0KKL8",
+    "categories": [
+      "Drug store"
+    ],
+    "fid": "0x39f71f07063cbdfd:0xbf280a6d72eb025f",
+    "cid": "13774270925508379231",
+    "reviewsCount": 26,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 1,
+      "fiveStar": 22
+    },
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.266Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "10 AM to 10:10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 1 AM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 7 AM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20P.%20K%20Garg%20(Chest%20Specialist)&query_place_id=ChIJ_b08Bgcf9zkRXwLrcm0KKL8",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 16,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmys4-eK9GaEF2l6Ao0TdmYJejR70UAdEqhWoPk9F7HHYhvI3CUnBCAEv-s4kjRgKCHt8wqyksu5pUCCaoLfASPv57EyGcKw1DNhh5teYZiR2VZBS8oYdQgs-KhmobwzD293-TypA=w426-h240-k-no",
+    "kgmid": "/g/11f767472b",
+    "businessProfileId": "13278546477485310015"
+  },
+  {
+    "title": "Quest Diabetic Clinic & Diagnostic Center-Best Diabetic Clinic & Diagnostic|Dr Sayanti Banerjee|Dr Subhajit Mukherjee Asansol",
+    "subTitle": "কোয়েস্ট ডায়াবেটিক ক্লিনিক & ডায়াগনস্টিক সেন্টার-বেস্ট ডায়াবেটিক ক্লিনিক & ডায়াগনস্টিক|ডিআর সায়ন্তি ব্যানার্জী|ডিআর শুভজিৎ মুখার্জি আসানসোল",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Medical diagnostic imaging center",
+    "address": "1st Floor, Shankar Plaza, Murgasol More, opposite Idgha High School, near Durga Foods Restaurant, Asansol, West Bengal 713303, India",
+    "neighborhood": "Ushagram",
+    "street": "1st Floor, Shankar Plaza, Murgasol More, opposite Idgha High School, near Durga Foods Restaurant",
+    "city": "Asansol",
+    "postalCode": "713303",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://questdiabeticclinic.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+    "phone": "+91 89727 75902",
+    "phoneUnformatted": "+918972775902",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6802839,
+      "lng": 86.9917403
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ_3wdHBMZ9zkR6oeufIL9B0U",
+    "categories": [
+      "Medical diagnostic imaging center",
+      "Blood testing service",
+      "Cardiologist",
+      "Diabetes center",
+      "Diabetologist",
+      "Diagnostic center"
+    ],
+    "fid": "0x39f719131c1d7cff:0x4507fd827cae87ea",
+    "cid": "4974223050333390826",
+    "reviewsCount": 438,
+    "reviewsDistribution": {
+      "oneStar": 8,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 7,
+      "fiveStar": 422
+    },
+    "imagesCount": 261,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.266Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 6:30 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Quest%20Diabetic%20Clinic%20%26%20Diagnostic%20Center-Best%20Diabetic%20Clinic%20%26%20Diagnostic%7CDr%20Sayanti%20Banerjee%7CDr%20Subhajit%20Mukherjee%20Asansol&query_place_id=ChIJ_3wdHBMZ9zkR6oeufIL9B0U",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 17,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlmNCam4j_mSziD3mz92i-_dvZgQKcW_oRajGCq2a3yRUNYYTkFeFqMG114JjX6qMZOdJ2ib4ROYM9ADt_uslTZ56jDLjR79DY_C2PtgfJ8YQU2Ym8Hu-3MYWRQpQN_dX3J7kgQET9Vpjs=w426-h240-k-no",
+    "kgmid": "/g/11nxt7sbty",
+    "businessProfileId": "11810654326654675682"
+  },
+  {
+    "title": "Dr Siddhartha Banerjee",
+    "subTitle": "ডিআর সিদ্ধার্থ ব্যানার্জি",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Cardiologist",
+    "address": "Vidyasagar Sarani, Rabindra Nagar, Asansol, West Bengal 713304, India",
+    "neighborhood": "Rabindra Nagar",
+    "street": "Vidyasagar Sarani",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://jsdl.in/DT-99LBZGE8",
+    "phone": "+91 95637 71737",
+    "phoneUnformatted": "+919563771737",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6954774,
+      "lng": 86.9438062
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJVW61ogcf9zkRo5qnkRgkQTk",
+    "categories": [
+      "Cardiologist",
+      "Physician referral service",
+      "Doctor",
+      "Gastroenterologist"
+    ],
+    "fid": "0x39f71f07a2b56e55:0x3941241891a79aa3",
+    "cid": "4125618421589580451",
+    "reviewsCount": 53,
+    "reviewsDistribution": {
+      "oneStar": 21,
+      "twoStar": 2,
+      "threeStar": 1,
+      "fourStar": 7,
+      "fiveStar": 22
+    },
+    "imagesCount": 25,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.267Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 12:45 PM, 5 to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 12:45 PM, 5 to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 12:45 PM, 5 to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 12:45 PM, 5 to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 12:45 PM, 5 to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 12:45 PM, 5 to 7:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Siddhartha%20Banerjee&query_place_id=ChIJVW61ogcf9zkRo5qnkRgkQTk",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 18,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnEpaN8GBDBJNIiQIV0bwOq-shNpTS6KRuXnikbixOzX_w18IFCZDHXniat869GksLcA9EuiViWNsgUpfJaW3jw1P7uBRPE4FKpZZrIgCp9sm7hesnXp1hY_yCdXPiph1-L4jO0eA=w408-h306-k-no",
+    "kgmid": "/g/11c7pb9rl_",
+    "businessProfileId": "16804667060949287990"
+  },
+  {
+    "title": "Dr Subrata Bhatacharya(Junior)",
+    "subTitle": "ডাঃ সুব্রত ভট্টাচার্য্য(JR)",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "5, Vidyasagar Sarani, Rabindra Nagar, Asansol, West Bengal 713304, India",
+    "neighborhood": "Rabindra Nagar",
+    "street": "5, Vidyasagar Sarani",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 89728 99784",
+    "phoneUnformatted": "+918972899784",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.693063,
+      "lng": 86.9441245
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJfxrvPQcf9zkRnlodsJMTmxA",
+    "categories": [
+      "Doctor"
+    ],
+    "fid": "0x39f71f073def1a7f:0x109b1393b01d5a9e",
+    "cid": "1196571651032832670",
+    "reviewsCount": 55,
+    "reviewsDistribution": {
+      "oneStar": 14,
+      "twoStar": 2,
+      "threeStar": 3,
+      "fourStar": 9,
+      "fiveStar": 27
+    },
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.267Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 12 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 12 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Subrata%20Bhatacharya(Junior)&query_place_id=ChIJfxrvPQcf9zkRnlodsJMTmxA",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 19,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnxCRj2PgzCAT7yVvscAILtuwpliMaTr4cswGxSCaeIOUO2O-hKFvZaav6oXMOwcIpi4yqqYRljsCWnMhdct_IVBTAp53zBWqWGizI9c7RyDz8P4ojXseoJvhTsna1bhsWYmVHVVw=w408-h544-k-no",
+    "kgmid": "/g/11f35dhhm3",
+    "businessProfileId": null
+  },
+  {
+    "title": "TRIVINA HEALTHCARE",
+    "subTitle": "ট্রিবিউন হেলথকেয়ার",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Private hospital",
+    "address": "115, NSB Rd, Raniganj, West Bengal 713347, India",
+    "neighborhood": null,
+    "street": "115, NSB Rd",
+    "city": "Raniganj",
+    "postalCode": "713347",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 80016 67898",
+    "phoneUnformatted": "+918001667898",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6202979,
+      "lng": 87.1130254
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ6Sk0PoQR9zkRdNWu0GgbBKo",
+    "categories": [
+      "Private hospital"
+    ],
+    "fid": "0x39f711843e3429e9:0xaa041b68d0aed574",
+    "cid": "12250947023346259316",
+    "reviewsCount": 1255,
+    "reviewsDistribution": {
+      "oneStar": 22,
+      "twoStar": 4,
+      "threeStar": 11,
+      "fourStar": 29,
+      "fiveStar": 1189
+    },
+    "imagesCount": 43,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:17.267Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=TRIVINA%20HEALTHCARE&query_place_id=ChIJ6Sk0PoQR9zkRdNWu0GgbBKo",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 20,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkalIqKtSeFpXMMxXpTspjByfqm6rg7ccnpCTPJ5YWIJxJotCUoPrEXAZlfPO4RcisYxtRVxAppxiMnDwcabAPqGVNmoPCnLahwNx4HCVzMD3ciWF0IOXZyXbcgbLaOiizyxZT5=w408-h272-k-no",
+    "kgmid": "/g/11jjqydrp2",
+    "businessProfileId": "4540165149198794105"
+  },
+  {
+    "title": "Anandalok Hospital, Raniganj",
+    "subTitle": "আনন্দলোক হাসপাতাল",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Hospital",
+    "address": "Bus Stoppage, NSB Rd, next to Searsole Rajbari, Raniganj, West Bengal 713358, India",
+    "neighborhood": null,
+    "street": "Bus Stoppage, NSB Rd, next to Searsole Rajbari",
+    "city": "Raniganj",
+    "postalCode": "713358",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "http://www.anandalokhospitalraniganj.com/",
+    "phone": "+91 341 244 9930",
+    "phoneUnformatted": "+913412449930",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6333027,
+      "lng": 87.1141339
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJAYWPjTMR9zkR2jDeItOOasw",
+    "categories": [
+      "Hospital"
+    ],
+    "fid": "0x39f711338d8f8501:0xcc6a8ed322de30da",
+    "cid": "14729742568742858970",
+    "reviewsCount": 296,
+    "reviewsDistribution": {
+      "oneStar": 61,
+      "twoStar": 28,
+      "threeStar": 33,
+      "fourStar": 79,
+      "fiveStar": 95
+    },
+    "imagesCount": 679,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:18.180Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        },
+        {
+          "Assistive hearing loop": false
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Anandalok%20Hospital%2C%20Raniganj&query_place_id=ChIJAYWPjTMR9zkR2jDeItOOasw",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 22,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnOnw1O3mQFIUDeAgaqfVv_dsCbOBw8m9T1tL8SvyD2MmBa421NJ9-xETuN5kCYMQldd0TVB8X2-vIfR96cf9fGmRRixkNgz1pKFZwEhj5zqd81QlGtGpr2hHs2EVMGsLpiwK597UvK0L4E=w408-h306-k-no",
+    "kgmid": "/g/1tdpdl_v",
+    "businessProfileId": "15101026120519599669"
+  },
+  {
+    "title": "Dr.Avishek Mazumder MBBS, MD,FIFM SPECIALIST IN (THYROID,DIABETES,PAIN MANAGEMENT,GASTRO AND HEART DISEASES)",
+    "subTitle": "ডিআর.অভিষেক মজুমদার এমবিবিএস, এমডি,এফআইএফএম স্পেশালিস্ট আইএন (থাইরয়েড,ডায়াবেটিস,পিএআইএন ম্যানেজমেন্ট,জিএএসটিআরও এএনডি এইচইএআরটি ডিজিজেস)",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "SB Gorai Rd, Pathak Bari, Asansol, West Bengal 713301, India",
+    "neighborhood": "Pathak Bari",
+    "street": "SB Gorai Rd",
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6775258,
+      "lng": 86.964048
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJk-0EbIgf9zkReA2oBQTjjrc",
+    "categories": [
+      "Doctor"
+    ],
+    "fid": "0x39f71f886c04ed93:0xb78ee30405a80d78",
+    "cid": "13226758762047999352",
+    "reviewsCount": 5,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 5
+    },
+    "imagesCount": 11,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:18.180Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.Avishek%20Mazumder%20MBBS%2C%20MD%2CFIFM%20SPECIALIST%20IN%20(THYROID%2CDIABETES%2CPAIN%20MANAGEMENT%2CGASTRO%20AND%20HEART%20DISEASES)&query_place_id=ChIJk-0EbIgf9zkReA2oBQTjjrc",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 23,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl-9g4PXvs_9vGMc70Rch6vDZ-0s6G4qs0IRdk1Of1_UObePA63-DlwENuxgq8j4U9eDnpmcISGDiR6Bf84V1s6sDauLhheu-XvA1pSDUYgagSDpmgcIcM1nvypUdM_79yomYyg9VvEqmdz=w408-h612-k-no",
+    "kgmid": "/g/11nk0dv00f",
+    "businessProfileId": "7171300983119830091"
+  },
+  {
+    "title": "Sterling Hospital",
+    "subTitle": "স্টার্লিং হাসপাতাল",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "Burnpur Road, Near Court More, Asansol Court Area, Asansol, West Bengal 713304, India",
+    "neighborhood": "Asansol Court Area",
+    "street": "Burnpur Road, Near Court More",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "http://thesterlinghospital.com/",
+    "phone": "+91 341 225 7761",
+    "phoneUnformatted": "+913412257761",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6889183,
+      "lng": 86.9453533
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 2.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ-SiZBgEf9zkRBADJL0ReGWU",
+    "categories": [
+      "Doctor",
+      "Private hospital",
+      "Hospital"
+    ],
+    "fid": "0x39f71f01069928f9:0x65195e442fc90004",
+    "cid": "7284957519200976900",
+    "reviewsCount": 317,
+    "reviewsDistribution": {
+      "oneStar": 148,
+      "twoStar": 10,
+      "threeStar": 24,
+      "fourStar": 35,
+      "fiveStar": 100
+    },
+    "imagesCount": 72,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:18.180Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Sterling%20Hospital&query_place_id=ChIJ-SiZBgEf9zkRBADJL0ReGWU",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 24,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk6A6lQ-EDhDf803O40IXsIB5hDqTpK9oDeE9k9UAe2JnWrewjAv27SCrGECQ590grhX9eyAsZCorxhQWb0dlS9CXDa2PZYY-R7J8q6XyBxI1buDMtkklwr5DlBelL6XzJZ0krK_A=w408-h543-k-no",
+    "kgmid": "/g/11cn6gq9rc",
+    "businessProfileId": "9641853625818216231"
+  },
+  {
+    "title": "The Mission Neighbourhood - Advanced Diagnostics and Patient Care",
+    "subTitle": "দি মিশন নেবার্গোরহুড়ার্ড - অ্যাডভান্সড ডায়াগনস্টিক অ্যান্ড পেশেন্ট কেয়ার",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Diagnostic center",
+    "address": "MXV2+J5C, near Bhagat Singh More, Rabindra Nagar, Asansol, West Bengal 713304, India",
+    "neighborhood": "Rabindra Nagar",
+    "street": "MXV2+J5C, near Bhagat Singh More",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://www.themissionneighbourhood.com/",
+    "phone": "+91 90023 05555",
+    "phoneUnformatted": "+919002305555",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6940743,
+      "lng": 86.9503837
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJCQE2N7cf9zkRl8J7nL5dyrI",
+    "categories": [
+      "Diagnostic center"
+    ],
+    "fid": "0x39f71fb737360109:0xb2ca5dbe9c7bc297",
+    "cid": "12883212757297250967",
+    "reviewsCount": 84,
+    "reviewsDistribution": {
+      "oneStar": 29,
+      "twoStar": 4,
+      "threeStar": 7,
+      "fourStar": 4,
+      "fiveStar": 40
+    },
+    "imagesCount": 42,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:18.181Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=The%20Mission%20Neighbourhood%20-%20Advanced%20Diagnostics%20and%20Patient%20Care&query_place_id=ChIJCQE2N7cf9zkRl8J7nL5dyrI",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 25,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl2KnQ1fhSpFKdIsAnPmHi-uM0tMPadZsoBhzTgdwsVh9HJ0wu5AQQ2e9qSW4U3rcu0CR2rq-Iih3dO4-ns-nTWDDw2jCDRAWH5mII12uueta0oaouqO1GSK03bFN8vvF6GxKue=w426-h240-k-no",
+    "kgmid": "/g/11r35nym_3",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dr S K Basu",
+    "subTitle": "ডিআর এস কে বসু",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "Raniganj-Bansra Road, Rambagan Doctor's Colony, Raniganj, West Bengal 713358, India",
+    "neighborhood": "Rambagan Doctor's Colony",
+    "street": "Raniganj-Bansra Road",
+    "city": "Raniganj",
+    "postalCode": "713358",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 99321 33180",
+    "phoneUnformatted": "+919932133180",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6296098,
+      "lng": 87.117093
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJjU0rH2wR9zkRrmuKnZxHH7M",
+    "categories": [
+      "Doctor"
+    ],
+    "fid": "0x39f7116c1f2b4d8d:0xb31f479c9d8a6bae",
+    "cid": "12907113795050695598",
+    "reviewsCount": 59,
+    "reviewsDistribution": {
+      "oneStar": 10,
+      "twoStar": 2,
+      "threeStar": 1,
+      "fourStar": 6,
+      "fiveStar": 40
+    },
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:18.181Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "10 AM to 12 AM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "12 to 6:30 AM, 10 AM to 12 AM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "12 to 6 AM, 10 AM to 5 AM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "10:30 AM to 12 AM"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20S%20K%20Basu&query_place_id=ChIJjU0rH2wR9zkRrmuKnZxHH7M",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 27,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm5GYL3CDeqdol3_B5Xvr-NSnsdDvGOgw_TveVDFzhI0IIdORpDSpUODOiQeDKf0re_Z1e51lwLJSRkABB2vyAAL-AtEM5HEH6ysHJG96tGepgkflFykujVMNZDbV7QyPq8mG8IPw=w408-h884-k-no",
+    "kgmid": "/g/11gy4_hthx",
+    "businessProfileId": "3459261740672380225"
+  },
+  {
+    "title": "Dr.Saikat Saha (Neuro,Spine,Arthritis & Brain)",
+    "subTitle": "ডিআর.সৈকত সহ",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Neurologist",
+    "address": "Upper, near Asansol Sub-Register Office, Chelidanga, Asansol, West Bengal 713301, India",
+    "neighborhood": "Chelidanga",
+    "street": "Upper, near Asansol Sub-Register Office",
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "http://www.drsaikatsaha.com/",
+    "phone": "+91 80130 11118",
+    "phoneUnformatted": "+918013011118",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6886517,
+      "lng": 86.9524596
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJq1_Ml_Ef9zkRAAxLxTFbFY4",
+    "categories": [
+      "Neurologist",
+      "Neurosurgeon",
+      "Pain management physician",
+      "Psychiatrist",
+      "Rheumatologist"
+    ],
+    "fid": "0x39f71ff197cc5fab:0x8e155b31c54b0c00",
+    "cid": "10238189597218245632",
+    "reviewsCount": 135,
+    "reviewsDistribution": {
+      "oneStar": 12,
+      "twoStar": 1,
+      "threeStar": 1,
+      "fourStar": 9,
+      "fiveStar": 112
+    },
+    "imagesCount": 104,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:18.181Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.Saikat%20Saha%20(Neuro%2CSpine%2CArthritis%20%26%20Brain)&query_place_id=ChIJq1_Ml_Ef9zkRAAxLxTFbFY4",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 28,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnb45Go3lh3-uMBQ6NR0u79kCx0w1Ja2YQySipARt821BAWrNMcFaAcRXRD0mZugb62s6iYVRWugb_8NvgXnVsWjHNX7LpG76x7zbMW76U1C37duOUK3pebUxBEmGkcjDHY9sFDhg=w408-h600-k-no",
+    "kgmid": "/g/11m_k12bkx",
+    "businessProfileId": "6125713933922041533"
+  },
+  {
+    "title": "Heart Care Clinic",
+    "subTitle": "হার্ট কেয়ার ক্লিনিক",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Medical clinic",
+    "address": "MXW2+9VF, Grand Trunk Rd, Apcar Garden, Asansol, West Bengal 713304, India",
+    "neighborhood": "Apcar Garden",
+    "street": "MXW2+9VF, Grand Trunk Rd",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 98006 28098",
+    "phoneUnformatted": "+919800628098",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.695933,
+      "lng": 86.952169
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJP3xrNAUf9zkRUtIZ72J3rSs",
+    "categories": [
+      "Medical clinic"
+    ],
+    "fid": "0x39f71f05346b7c3f:0x2bad7762ef19d252",
+    "cid": "3147302981403791954",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 1
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:18.181Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Heart%20Care%20Clinic&query_place_id=ChIJP3xrNAUf9zkRUtIZ72J3rSs",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 29,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zqzcdlU3eRWW4RDK6Mu8mQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=343.0505&pitch=0&thumbfov=100",
+    "kgmid": "/g/11sbr0tpwb",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dr. Sudip Banerjee",
+    "subTitle": "ডিআর. সুদীপ ব্যানার্জি",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "MWVW+VW2, 44, Rabindra Nagar, Asansol, West Bengal 713304, India",
+    "neighborhood": "Rabindra Nagar",
+    "street": "MWVW+VW2, 44",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 75018 00736",
+    "phoneUnformatted": "+917501800736",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6946471,
+      "lng": 86.9472846
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ5axNQwAf9zkRvm1O94jRtrE",
+    "categories": [
+      "Doctor"
+    ],
+    "fid": "0x39f71f00434dace5:0xb1b6d188f74e6dbe",
+    "cid": "12805652976669453758",
+    "reviewsCount": 7,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 0,
+      "fiveStar": 5
+    },
+    "imagesCount": 3,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:18.181Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Sudip%20Banerjee&query_place_id=ChIJ5axNQwAf9zkRvm1O94jRtrE",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 30,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FTgIcor2NS58Fj9XG7_M7A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=278.6024&pitch=0&thumbfov=100",
+    "kgmid": "/g/11wpb1xy63",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dr.Amlan Ghosh |MD Medicine | Best Doctor in Asansol |",
+    "subTitle": "ডিআর.অম্লান ঘোষ |এমডি মেডিসিন | বেস্ট ডক্টর ইন আসানসোল |",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Cardiologist",
+    "address": "Arpan Tower, SB Gorai Rd, near Aaradhya Health Hub, near St.Marry Goretti School, Chelidanga, Asansol, West Bengal 713304, India",
+    "neighborhood": "Chelidanga",
+    "street": "Arpan Tower, SB Gorai Rd, near Aaradhya Health Hub, near St.Marry Goretti School",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 80130 11119",
+    "phoneUnformatted": "+918013011119",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6821716,
+      "lng": 86.9577399
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ75M7dGEf9zkRZYzO4XAtF-8",
+    "categories": [
+      "Cardiologist",
+      "Doctor",
+      "Diabetologist",
+      "Endocrinologist",
+      "Gastroenterologist",
+      "General practitioner",
+      "Infectious disease physician",
+      "Internal medicine ward",
+      "Pain management physician"
+    ],
+    "fid": "0x39f71f61743b93ef:0xef172d70e1ce8c65",
+    "cid": "17228288862377118821",
+    "reviewsCount": 6,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 1,
+      "fiveStar": 3
+    },
+    "imagesCount": 10,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:18.181Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 9 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 9 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.Amlan%20Ghosh%20%7CMD%20Medicine%20%7C%20Best%20Doctor%20in%20Asansol%20%7C&query_place_id=ChIJ75M7dGEf9zkRZYzO4XAtF-8",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 31,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm13fS7mwInZ7MMSM44kEZ11ne_a7ej3mluS3As6orC8FHJIf0VjUY5IqDAxw0AjfnzVzWaL84CDfsqgdJQA56KS8EdxSXQKG-2nGck2T6uTeElg-kGuy51Wr4-OplAhZKPfPXk=w426-h240-k-no",
+    "kgmid": "/g/11w2nlw0zh",
+    "businessProfileId": "5558755950913344889"
+  },
+  {
+    "title": "HLG Memorial Hospital",
+    "subTitle": "এইচ এল জী মেমোরিয়াল হাসপাতাল",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Hospital",
+    "address": "Sen Raliegh Rd, Kanyapur, Asansol, West Bengal 713305, India",
+    "neighborhood": "Kanyapur",
+    "street": "Sen Raliegh Rd",
+    "city": "Asansol",
+    "postalCode": "713305",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://www.hlghospital.com/",
+    "phone": "+91 81018 80088",
+    "phoneUnformatted": "+918101880088",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.7046736,
+      "lng": 86.9534463
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJnVTzDxIf9zkRK3i5g21opNY",
+    "categories": [
+      "Hospital"
+    ],
+    "fid": "0x39f71f120ff3549d:0xd6a4686d83b9782b",
+    "cid": "15466601839867820075",
+    "reviewsCount": 2160,
+    "reviewsDistribution": {
+      "oneStar": 252,
+      "twoStar": 22,
+      "threeStar": 64,
+      "fourStar": 155,
+      "fiveStar": 1667
+    },
+    "imagesCount": 291,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:18.181Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=HLG%20Memorial%20Hospital&query_place_id=ChIJnVTzDxIf9zkRK3i5g21opNY",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 32,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkwqAtskFO6LhjUnUwiRxhebCIQeCKQZlFup7JWfbiJ_RjZKVg9VyPltjymM0nuFQlqeYODPjl2EujOe3kgDTCFirB8vHZWlBf6kRAVUtAeJzsqZwyaoukTaHhuHrukS0JJEyk9hA=w408-h270-k-no",
+    "kgmid": "/g/1hd_6dg4c",
+    "businessProfileId": "18102681473737326218"
+  },
+  {
+    "title": "Dr. Brijes Saha",
+    "subTitle": "ডিআর. ব্রিজেস সাহা",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Cardiologist",
+    "address": "Dr. Brijesh Sha's Clinic, Mangalpur,Yogomaya More, Achhra, Barabai, West Bengal 713335, India",
+    "neighborhood": null,
+    "street": "Dr. Brijesh Sha's Clinic, Mangalpur,Yogomaya More",
+    "city": "Achhra, Barabai",
+    "postalCode": "713335",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://drbrijessaha.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.8009456,
+      "lng": 86.8580122
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": null,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ4So2ktXf9jkR7nlH9ULhcr0",
+    "categories": [
+      "Cardiologist",
+      "Health consultant",
+      "Heart hospital",
+      "Medical Center",
+      "Medical examiner"
+    ],
+    "fid": "0x39f6dfd592362ae1:0xbd72e142f54779ee",
+    "cid": "13651221098212588014",
+    "reviewsCount": null,
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:18.181Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "11 AM to 1 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "11 AM to 1 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "11 AM to 1 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "11 AM to 1 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "11 AM to 1 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "11 AM to 1 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "11 AM to 1 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Brijes%20Saha&query_place_id=ChIJ4So2ktXf9jkR7nlH9ULhcr0",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 33,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlZG-9xm3vZCScC0HGSBiic4zMVcxmln_qS51MUvJ06ohGM8ZNlJcI4fnWgIpr5kd2gG_3cw_me1RoAwPTKtYeLoSqPAWBTQmwLKLGilKzYDR7M1aqfXFJTPpL3rLbboTa0-ueI=w427-h240-k-no",
+    "kgmid": "/g/11s1bjg_rz",
+    "businessProfileId": "4780663168501383555"
+  },
+  {
+    "title": "Lifeline Multispeciality Hospital",
+    "subTitle": "লাইফলাইন মাল্টিস্পেশিলিটি হাসপাতাল",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Hospital",
+    "address": "NH19, Kalipahari, Asansol, West Bengal 713339, India",
+    "neighborhood": "Kalipahari",
+    "street": "NH19",
+    "city": "Asansol",
+    "postalCode": "713339",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "http://lifeline-hospital.co.in/",
+    "phone": "+91 341 350 1350",
+    "phoneUnformatted": "+913413501350",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6754034,
+      "lng": 87.0160535
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJgUWyOEkZ9zkRdVK95ZmdQS4",
+    "categories": [
+      "Hospital"
+    ],
+    "fid": "0x39f7194938b24581:0x2e419d99e5bd5275",
+    "cid": "3333118483540824693",
+    "reviewsCount": 290,
+    "reviewsDistribution": {
+      "oneStar": 34,
+      "twoStar": 5,
+      "threeStar": 7,
+      "fourStar": 20,
+      "fiveStar": 224
+    },
+    "imagesCount": 74,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:18.181Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Assisted listening devices": true
+        },
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Lifeline%20Multispeciality%20Hospital&query_place_id=ChIJgUWyOEkZ9zkRdVK95ZmdQS4",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 34,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnTl55YLTFdW9SG-uEvctpnoLVVpbuAxcFO00LgODVZ8QUzhKBrgLdlmHb-8nAUJb4jDEhJe-ooyx9ggEVia-zqMkfx7IX-2f9L-G4mdk749_yE2TQLm3OnKrXaZyBF-3FUa15f00TE7-o0=w1089-h240-k-no",
+    "kgmid": "/g/11t7t21x7y",
+    "businessProfileId": "7141356865537129578"
+  },
+  {
+    "title": "Dr. Subhadip Ghosh",
+    "subTitle": "ডিআর. শুভদীপ ঘোষ",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Housing society",
+    "address": "PX22+8VG, Shristinagar, Asansol, West Bengal 713305, India",
+    "neighborhood": "Shristinagar",
+    "street": "PX22+8VG",
+    "city": "Asansol",
+    "postalCode": "713305",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.7008016,
+      "lng": 86.9521877
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ6-FOz9wf9zkRzOJziI3s9Ss",
+    "categories": [
+      "Housing society"
+    ],
+    "fid": "0x39f71fdccf4ee1eb:0x2bf5ec8d8873e2cc",
+    "cid": "3167698005548851916",
+    "reviewsCount": 15,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 0,
+      "threeStar": 1,
+      "fourStar": 1,
+      "fiveStar": 10
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:18.181Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Subhadip%20Ghosh&query_place_id=ChIJ6-FOz9wf9zkRzOJziI3s9Ss",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 36,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=42JoQrD76aMAqJa4BTfL0g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=22.392834&pitch=0&thumbfov=100",
+    "kgmid": "/g/11pfbnmhtp",
+    "businessProfileId": null
+  },
+  {
+    "title": "Apollo Diagnostics",
+    "subTitle": "অ্যাপোলো ডায়াগনস্টিক",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Diagnostic center",
+    "address": "KS Rd, near Shiv Mandir, Dipo Para, Railpar, Asansol, West Bengal 713302, India",
+    "neighborhood": "Dipo Para, Railpar",
+    "street": "KS Rd, near Shiv Mandir",
+    "city": "Asansol",
+    "postalCode": "713302",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://apollodiagnostics.in/",
+    "phone": "+91 86175 29975",
+    "phoneUnformatted": "+918617529975",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6903663,
+      "lng": 86.9772386
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJZdKiz7of9zkRoRC7nqJmWiA",
+    "categories": [
+      "Diagnostic center",
+      "Blood testing service",
+      "HIV testing center",
+      "Laboratory",
+      "Medical Center",
+      "Medical clinic",
+      "Medical diagnostic imaging center",
+      "Paternity testing service",
+      "Pathologist",
+      "STD testing service"
+    ],
+    "fid": "0x39f71fbacfa2d265:0x205a66a29ebb10a1",
+    "cid": "2331288605751447713",
+    "reviewsCount": 20,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 20
+    },
+    "imagesCount": 13,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:18.182Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "7 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "7 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "7 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "7 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "7 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "7 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "7 AM to 8 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Apollo%20Diagnostics&query_place_id=ChIJZdKiz7of9zkRoRC7nqJmWiA",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 37,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlRTpKYruLuMN-jTDTfa8V8k-tNHHgoniRYgLost2BEP4KdwS4s4hhJj9mMOIFFeRXqGlr5-MAMnPI7S3ohJan4B5XswPQa3xcyST9T2HeiSy3Tt-jOnoF8eYMXhltCAyfIAlJO1D2YFCE5=w525-h240-k-no",
+    "kgmid": "/g/11zb_x9xyj",
+    "businessProfileId": "16531578122589091526"
+  },
+  {
+    "title": "Dr. Ranbir Singh Diagnostic Centre and Polyclinic",
+    "subTitle": "ডিআর. রণবীর সিং ডায়াগনস্টিক সেন্টার অ্যান্ড পল্য্চ্লিনিক",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Diagnostic center",
+    "address": "North bazar, Hari mandir para, near Bamakali fitness centre, Andal, West Bengal 713321, India",
+    "neighborhood": null,
+    "street": "North bazar, Hari mandir para, near Bamakali fitness centre",
+    "city": "Andal",
+    "postalCode": "713321",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 62961 12578",
+    "phoneUnformatted": "+916296112578",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.5826322,
+      "lng": 87.1923702
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.7,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJD2N7H64T9zkR6xMenn46ntc",
+    "categories": [
+      "Diagnostic center",
+      "Biochemistry lab",
+      "Blood testing service",
+      "Dermatologist",
+      "Gynecologist",
+      "Medical Center",
+      "Medical laboratory",
+      "Otolaryngologist",
+      "Pathologist",
+      "Skin care clinic"
+    ],
+    "fid": "0x39f713ae1f7b630f:0xd79e3a7e9e1e13eb",
+    "cid": "15536920079967851499",
+    "reviewsCount": 21,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 3,
+      "fiveStar": 17
+    },
+    "imagesCount": 6,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:18.182Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 7 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 7 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Ranbir%20Singh%20Diagnostic%20Centre%20and%20Polyclinic&query_place_id=ChIJD2N7H64T9zkR6xMenn46ntc",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 38,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk7RCslceYpDcYgXsCdhuztEZ0zIgLJK1BSaXweglyrGtkcWvcKHV6ubG8mlclDYZaiW33mGsJ4g9d2wnEWdPnniuRaaeh_G9_SIjBrLr8TY2IRUjZKSMfAGz7DZU-GloLgPxldZU6QZi__=w426-h240-k-no",
+    "kgmid": "/g/11xgjr0h9m",
+    "businessProfileId": "17078741081164592989"
+  },
+  {
+    "title": "Dr.Anirban Mukherjee",
+    "subTitle": "ডিআর.অনির্বাণ মুখার্জি",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "B 3/A, Dr B Banerjee Rd, Raniganj, West Bengal 713347, India",
+    "neighborhood": null,
+    "street": "B 3/A, Dr B Banerjee Rd",
+    "city": "Raniganj",
+    "postalCode": "713347",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6069738,
+      "lng": 87.1145633
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.1,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ74MKR-4R9zkRZepMhjnmcJw",
+    "categories": [
+      "Doctor"
+    ],
+    "fid": "0x39f711ee470a83ef:0x9c70e639864cea65",
+    "cid": "11272763002049063525",
+    "reviewsCount": 31,
+    "reviewsDistribution": {
+      "oneStar": 6,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 3,
+      "fiveStar": 22
+    },
+    "imagesCount": 5,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:18.182Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.Anirban%20Mukherjee&query_place_id=ChIJ74MKR-4R9zkRZepMhjnmcJw",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 39,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl2PP8v9_0qiHD9bTz_g5eW-Ra_ad5jAotQ9K8-8UIFcF5VrKYaEtLdC91ASBl4pZeLD6yn1AzQrVj_Z3eruFiFvMafmP_9XdVSeiM2eIW7nucaKWbpQ6hiOXmWSrj5Vqj83-FA=w408-h306-k-no",
+    "kgmid": "/g/11f6312rxx",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dr Prasun Roy Clinic",
+    "subTitle": "ডাঃ প্রসূন রায় ক্লিনিক",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "J4C8+9G7, Raniganj, West Bengal 713347, India",
+    "neighborhood": null,
+    "street": "J4C8+9G7",
+    "city": "Raniganj",
+    "postalCode": "713347",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6209117,
+      "lng": 87.1163008
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJdTslNDwR9zkRIun8VLZoR1Y",
+    "categories": [
+      "Doctor"
+    ],
+    "fid": "0x39f7113c34253b75:0x564768b654fce922",
+    "cid": "6217052942927456546",
+    "reviewsCount": 8,
+    "reviewsDistribution": {
+      "oneStar": 1,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 7
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:18.182Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Prasun%20Roy%20Clinic&query_place_id=ChIJdTslNDwR9zkRIun8VLZoR1Y",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 40,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=whJjIIE8kKiOjgeQipqsSQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=78.41098&pitch=0&thumbfov=100",
+    "kgmid": "/g/11f35bf2pw",
+    "businessProfileId": null
+  },
+  {
+    "title": "Acharjee Health Clinic and Pharmacy",
+    "subTitle": "আচার্য ফার্মেসী",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Cardiologist",
+    "address": "ACHARJEE PHARMACY, MORE C/O, 256/2, SB Gorai Rd, Ismile, Islampur, Pathak Bari, Asansol, West Bengal 713301, India",
+    "neighborhood": "Ismile, Islampur, Pathak Bari",
+    "street": "ACHARJEE PHARMACY, MORE C/O, 256/2, SB Gorai Rd",
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "https://acharjeehealth.in/",
+    "phone": "+91 73649 21002",
+    "phoneUnformatted": "+917364921002",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6767734,
+      "lng": 86.968827
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.8,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJX9SNDNse9zkR2g8p5SGC6_I",
+    "categories": [
+      "Cardiologist",
+      "Doctor",
+      "Dermatologist",
+      "Gastroenterologist",
+      "Gynecologist",
+      "Neurosurgeon",
+      "Orthopedic surgeon",
+      "Otolaryngologist",
+      "Pediatrician",
+      "Urologist"
+    ],
+    "fid": "0x39f71edb0c8dd45f:0xf2eb8221e5290fda",
+    "cid": "17504227458795769818",
+    "reviewsCount": 701,
+    "reviewsDistribution": {
+      "oneStar": 16,
+      "twoStar": 5,
+      "threeStar": 9,
+      "fourStar": 23,
+      "fiveStar": 648
+    },
+    "imagesCount": 81,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:19.069Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 10 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM to 1 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Acharjee%20Health%20Clinic%20and%20Pharmacy&query_place_id=ChIJX9SNDNse9zkR2g8p5SGC6_I",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 41,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkUp2qLVmK7EkWfEO2H7kvXLOTmpOdMkcD-YSrSTM2igMz1ff5Y1VusJA1MYQGpvepQst5L4_VlSk87pAXzYqNDXAr3_pEr1jWzd65sIsi889QIM8HA_qRleQz2DwS4PFtO5zGAZAvdl8nB=w408-h309-k-no",
+    "kgmid": "/g/11c2r14gfn",
+    "businessProfileId": "2246521198505156463"
+  },
+  {
+    "title": "Dr. Debasish Bhattacharya",
+    "subTitle": "ডাঃ দেবাশিস ভট্টাচার্য",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Gynecologist",
+    "address": "NSB Rd, Rambagan Doctor's Colony, Raniganj, West Bengal 713358, India",
+    "neighborhood": "Rambagan Doctor's Colony",
+    "street": "NSB Rd",
+    "city": "Raniganj",
+    "postalCode": "713358",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 94758 60860",
+    "phoneUnformatted": "+919475860860",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6306719,
+      "lng": 87.1142676
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJbfGO_joR9zkRTyI_uSky9I0",
+    "categories": [
+      "Gynecologist"
+    ],
+    "fid": "0x39f7113afe8ef16d:0x8df43229b93f224f",
+    "cid": "10228855808448209487",
+    "reviewsCount": 105,
+    "reviewsDistribution": {
+      "oneStar": 34,
+      "twoStar": 2,
+      "threeStar": 2,
+      "fourStar": 12,
+      "fiveStar": 55
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:19.069Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "9 AM to 3 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM to 3 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM to 3 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Friday",
+        "hours": "9 AM to 3 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "9 AM to 3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ],
+      "Amenities": [
+        {
+          "Restroom": true
+        }
+      ],
+      "Planning": [
+        {
+          "Appointment required": true
+        },
+        {
+          "Appointments recommended": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Debasish%20Bhattacharya&query_place_id=ChIJbfGO_joR9zkRTyI_uSky9I0",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 42,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkhtyXGTK4ZP5cyPiIB7slPhW-CkciWEP5ZusKJIf4XfngmwT8Ej0tZHgvEs_bfsutlox4yOgrGCgb5G_0GFEzFqdTCFXfycMc_s7CmaEDnU_W0OAQY8bJ6pUxR2NOhN67hu5un7w=w408-h306-k-no",
+    "kgmid": "/g/11c5hj4g_5",
+    "businessProfileId": "16669457301765904604"
+  },
+  {
+    "title": "Dr Sunil Gupta Chamber",
+    "subTitle": "ডাঃ সুনীল গুপ্ত",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "MXG8+PW3, SB Gorai Rd, Ismile, Hamid Nagar, Asansol, West Bengal 713301, India",
+    "neighborhood": "Ismile, Hamid Nagar",
+    "street": "MXG8+PW3, SB Gorai Rd",
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6767702,
+      "lng": 86.9672822
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJbXErgtwe9zkR3PiOukHRIOU",
+    "categories": [
+      "Doctor"
+    ],
+    "fid": "0x39f71edc822b716d:0xe520d141ba8ef8dc",
+    "cid": "16510426314173249756",
+    "reviewsCount": 36,
+    "reviewsDistribution": {
+      "oneStar": 15,
+      "twoStar": 1,
+      "threeStar": 2,
+      "fourStar": 4,
+      "fiveStar": 14
+    },
+    "imagesCount": 4,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:19.069Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 8 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Sunil%20Gupta%20Chamber&query_place_id=ChIJbXErgtwe9zkR3PiOukHRIOU",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 43,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkYv-1RydxLmHJ4VPNQYNTCcZ_GJ-C3UPr-N8sIeerDa2s5_Io2lod6nId6Prdy7713v0mDT60FaCM9CdmOHs-kCMD2TKgjYmU5xSR2r4jp_r9RAsFwIxIi6AUG5Ex9xhAiEnII9Q=w408-h543-k-no",
+    "kgmid": "/g/11cs1cq9gb",
+    "businessProfileId": null
+  },
+  {
+    "title": "Dr. S. Roy",
+    "subTitle": "ডিআর. এস. রয়",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Camping cabin",
+    "address": "MXG7+XGX Dr. S. Roy, SB Gorai Rd, Ismile, Pathak Bari, Asansol, West Bengal 713301, India",
+    "neighborhood": "Ismile, Pathak Bari",
+    "street": "MXG7+XGX Dr. S. Roy, SB Gorai Rd",
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 94746 04603",
+    "phoneUnformatted": "+919474604603",
+    "claimThisBusiness": true,
+    "location": {
+      "lat": 23.6774919,
+      "lng": 86.963846
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJi7a0hh8f9zkRwZH_aPqJ0MQ",
+    "categories": [
+      "Camping cabin"
+    ],
+    "fid": "0x39f71f1f86b4b68b:0xc4d089fa68ff91c1",
+    "cid": "14181986935186100673",
+    "reviewsCount": 1,
+    "reviewsDistribution": {
+      "oneStar": 0,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 0
+    },
+    "imagesCount": 1,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:19.069Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [],
+    "wasOpenAtScrapeTime": null,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20S.%20Roy&query_place_id=ChIJi7a0hh8f9zkRwZH_aPqJ0MQ",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 44,
+    "isAdvertisement": false,
+    "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ybzgukqilFCEVkglmb5o9w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=119.641785&pitch=0&thumbfov=100",
+    "kgmid": "/g/11q24ckvtg",
+    "businessProfileId": null
+  },
+  {
+    "title": "Aaradhya Health Hub Unit-2",
+    "subTitle": "আরাধ্য হেলথ হাব উনিশ-2",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Hospital",
+    "address": "Arpan Tower, SB Gorai Rd, near ST Mary School, Chelidanga, Asansol, West Bengal 713304, India",
+    "neighborhood": "Chelidanga",
+    "street": "Arpan Tower, SB Gorai Rd, near ST Mary School",
+    "city": "Asansol",
+    "postalCode": "713304",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "http://www.aaradhyaclinic.com/",
+    "phone": "+91 74699 81357",
+    "phoneUnformatted": "+917469981357",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6821678,
+      "lng": 86.9576721
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ23z3s4cf9zkRcz7v24Xd_YM",
+    "categories": [
+      "Hospital",
+      "Dermatologist",
+      "Diabetologist",
+      "Gynecologist",
+      "Neurosurgeon",
+      "Oncologist",
+      "Pediatric rheumatologist",
+      "Urologist"
+    ],
+    "fid": "0x39f71f87b3f77cdb:0x83fddd85dbef3e73",
+    "cid": "9511001555066633843",
+    "reviewsCount": 28,
+    "reviewsDistribution": {
+      "oneStar": 3,
+      "twoStar": 1,
+      "threeStar": 0,
+      "fourStar": 0,
+      "fiveStar": 24
+    },
+    "imagesCount": 125,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:19.069Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Assistive hearing loop": true
+        },
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        },
+        {
+          "Wheelchair accessible seating": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Aaradhya%20Health%20Hub%20Unit-2&query_place_id=ChIJ23z3s4cf9zkRcz7v24Xd_YM",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 46,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlMQHJiJY2OTwNfo_nb_9tdWTi9LiB8liCxUI4Q-Kgqk3uYvtftIMPO9mD_aheJGp7Dlry41hFC91NkvHjv_tV8HPx2YlZi2dbk8G6mDZ1Mew3KkFVAwybPBsuh231jJqGqhsg0DqUUCKoD=w408-h725-k-no",
+    "kgmid": "/g/11y9qnvs20",
+    "businessProfileId": "1480554186958895350"
+  },
+  {
+    "title": "Asansol District Hospital",
+    "subTitle": "আসানসোল জেলা হাসপাতাল",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Doctor",
+    "address": "SB Gorai Rd, Mohishila Colony, Hamid Nagar, Asansol, West Bengal 713301, India",
+    "neighborhood": "Mohishila Colony, Hamid Nagar",
+    "street": "SB Gorai Rd",
+    "city": "Asansol",
+    "postalCode": "713301",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.6762026,
+      "lng": 86.9737198
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 3.5,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJ9-PbTx0f9zkRAqgpx0inq0I",
+    "categories": [
+      "Doctor",
+      "Government hospital"
+    ],
+    "fid": "0x39f71f1d4fdbe3f7:0x42aba748c729a802",
+    "cid": "4804117358541645826",
+    "reviewsCount": 411,
+    "reviewsDistribution": {
+      "oneStar": 100,
+      "twoStar": 24,
+      "threeStar": 40,
+      "fourStar": 72,
+      "fiveStar": 175
+    },
+    "imagesCount": 567,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:19.069Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Asansol%20District%20Hospital&query_place_id=ChIJ9-PbTx0f9zkRAqgpx0inq0I",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 48,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmI9Px3LUR_titUQO9Go4ombUOZV_G72CdaxqNs0UyLHS0Sd9soGcmw2sWy-0foBIxasfih4q5FfzSzakhwTWQ2MGmp7d07sCZgmwkt6X5qcXwuwMR2yDWmjEp_6MEhlYSV21-u=w408-h292-k-no",
+    "kgmid": "/g/1wc46d9v",
+    "businessProfileId": "896460612283190919"
+  },
+  {
+    "title": "Life Line Diagnostic Centre",
+    "subTitle": "লাইফ লাইন ডায়াগনস্টিক সেন্টার",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Diagnostic center",
+    "address": "Sanctoria Bazar more, Post - Dishergarh, Asansol, West Bengal 713333, India",
+    "neighborhood": null,
+    "street": "Sanctoria Bazar more, Post - Dishergarh",
+    "city": "Asansol, Sanctoria",
+    "postalCode": "713333",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "phone": "+91 341 252 1114",
+    "phoneUnformatted": "+913412521114",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.7018958,
+      "lng": 86.8268126
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.6,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJSV79Jz7h9jkR7e2BysEuFCA",
+    "categories": [
+      "Diagnostic center",
+      "Medical laboratory"
+    ],
+    "fid": "0x39f6e13e27fd5e49:0x20142ec1ca81eded",
+    "cid": "2311523918608985581",
+    "reviewsCount": 24,
+    "reviewsDistribution": {
+      "oneStar": 2,
+      "twoStar": 0,
+      "threeStar": 0,
+      "fourStar": 1,
+      "fiveStar": 21
+    },
+    "imagesCount": 23,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:19.069Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "8 AM to 7:30 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "8 AM to 7:30 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "8 AM to 7:30 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "8 AM to 7:30 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "8 AM to 7:30 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "8 AM to 7:30 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "8 AM to 7:30 PM"
+      }
+    ],
+    "wasOpenAtScrapeTime": false,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        },
+        {
+          "Wheelchair accessible restroom": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Life%20Line%20Diagnostic%20Centre&query_place_id=ChIJSV79Jz7h9jkR7e2BysEuFCA",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 49,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmEOZethVSj338CU_p8HWx2_nFqol6YaEZTTNCXiBCIPbYgBI4srk732GNHkuC7cSMXCFEe0he8awUR0tl7YR4kZzMt8Qg28xE3Wcwgb-9gzywGMIhmKuHTuxu39H3WQna7CX_N=w408-h544-k-no",
+    "kgmid": "/g/11rnhdrfg2",
+    "businessProfileId": "14196709851050931904"
+  },
+  {
+    "title": "Guru Gopiram Hospital",
+    "subTitle": "গুরু গোপী রাম হসপিটাল",
+    "description": null,
+    "ownerDescription": null,
+    "price": null,
+    "categoryName": "Private hospital",
+    "address": "PVMW+PXV, Miliakhola, West Bengal 713359, India",
+    "neighborhood": null,
+    "street": "PVMW+PXV",
+    "city": "Miliakhola",
+    "postalCode": "713359",
+    "state": "West Bengal",
+    "countryCode": "IN",
+    "website": "http://www.gurugopiramhospital.in/",
+    "phone": "",
+    "phoneUnformatted": "",
+    "claimThisBusiness": false,
+    "location": {
+      "lat": 23.7343625,
+      "lng": 86.8974219
+    },
+    "locatedIn": null,
+    "floor": null,
+    "plusCode": null,
+    "menu": null,
+    "servicesLink": null,
+    "totalScore": 4.9,
+    "permanentlyClosed": false,
+    "temporarilyClosed": false,
+    "placeId": "ChIJMc61GUXf9jkRXBuanlMmg88",
+    "categories": [
+      "Private hospital",
+      "Hospital"
+    ],
+    "fid": "0x39f6df4519b5ce31:0xcf8326539e9a1b5c",
+    "cid": "14952837328385219420",
+    "reviewsCount": 372,
+    "reviewsDistribution": {
+      "oneStar": 7,
+      "twoStar": 0,
+      "threeStar": 3,
+      "fourStar": 11,
+      "fiveStar": 351
+    },
+    "imagesCount": 32,
+    "imageCategories": [],
+    "scrapedAt": "2026-09-23T17:30:19.069Z",
+    "reserveTableUrl": null,
+    "googleFoodUrl": null,
+    "hotelStars": null,
+    "hotelDescription": null,
+    "checkInDate": null,
+    "checkOutDate": null,
+    "hotelAds": [],
+    "popularTimesLiveText": null,
+    "popularTimesLivePercent": null,
+    "popularTimesHistogram": {},
+    "openingHours": [
+      {
+        "day": "Monday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Friday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Open 24 hours"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Open 24 hours"
+      }
+    ],
+    "wasOpenAtScrapeTime": true,
+    "peopleAlsoSearch": [],
+    "placesTags": [],
+    "reviewsTags": [],
+    "additionalInfo": {
+      "Accessibility": [
+        {
+          "Wheelchair accessible entrance": true
+        },
+        {
+          "Wheelchair accessible parking lot": true
+        }
+      ]
+    },
+    "gasPrices": [],
+    "url": "https://www.google.com/maps/search/?api=1&query=Guru%20Gopiram%20Hospital&query_place_id=ChIJMc61GUXf9jkRXBuanlMmg88",
+    "searchPageUrl": "https://www.google.com/maps/search/Cardiologist/@23.688036999999998,86.975395,12z?hl=en",
+    "searchString": "Cardiologist",
+    "language": "en",
+    "rank": 50,
+    "isAdvertisement": false,
+    "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlF6Nltqj4nHaJcOp-1Dp6_lJYmBgN9RMTqzIWuaAMmkqE_qd1xdDkoy2mMwJe7GRalJRFCjj5oRNj9s4TTjXUrH2vtdtyqVpGp4G7mnAuqjS1G85ObqlmGByozSw2_mDA7dhY1=w408-h306-k-no",
+    "kgmid": "/g/11js7cwh60",
+    "businessProfileId": "1655984899094338495"
+  }
+]

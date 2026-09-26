@@ -7,7 +7,7 @@ const isLocalMongoUri = (uri) => /^mongodb:\/\/(localhost|127\.0\.0\.1)(:\d+)?\/
 
 const getMongoUri = () => {
   const configuredUri = process.env.MONGO_URI;
-  const retailerEnvPath = path.resolve(__dirname, '../../../backend/.env');
+  const retailerEnvPath = path.resolve(__dirname, '../../../../backend/.env');
 
   if (configuredUri && !isLocalMongoUri(configuredUri)) return configuredUri;
   if (fs.existsSync(retailerEnvPath)) {
